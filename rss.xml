@@ -3,6 +3,31 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-03-27 23:52:00 +0530</pubDate>
+    <pubDate>2013-03-28 00:57:21 +0530</pubDate>
+    <item>
+      <title>A fresh look and outlook</title>
+      <link>http://www.amanking.com/a-fresh-look-and-outlook</link>
+      <pubDate>2013-03-27</pubDate>
+      <description>&lt;p&gt;I enjoy blogging: writing about my learnings and experiences, and what others may find useful. For many years, I hosted my blog at &lt;a href="http://www.wikyblog.com/AmanKing"&gt;WikyBlog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I blogged regularly during the early parts of my career. After a few years, the posts came in less frequently. This was not accidental. I consciously set off on a personal journey which was more inward-looking.&lt;/p&gt;
+
+&lt;p&gt;I now feel the need to blog again. But with a coming-of-age outlook. And a fresh &lt;em&gt;look&lt;/em&gt; to go with that.&lt;/p&gt;
+
+&lt;p&gt;I am hosting this blog on &lt;a href="http://pages.github.com/"&gt;Github Pages&lt;/a&gt;, powered by &lt;a href="https://github.com/amanking/ruhoh.rb"&gt;my fork&lt;/a&gt; of &lt;a href="http://ruhoh.com"&gt;ruhoh&lt;/a&gt;. It gives me a sense of control as I can create my own theme, and even code my own features.&lt;/p&gt;
+
+&lt;p&gt;This blog will capture my thoughts on &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;software, &lt;/li&gt;
+&lt;li&gt;teams, and &lt;/li&gt;
+&lt;li&gt;individuals.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Each of these elements are independently worthy of attention. And when these come together, there is great potential to create something worthwhile.&lt;/p&gt;
+
+&lt;p&gt;I hope you will find my blog interesting. Keep visiting. I look forward to your thoughts via comments.&lt;/p&gt;
+</description>
+    </item>
   </channel>
 </rss>
