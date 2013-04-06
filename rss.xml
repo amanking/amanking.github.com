@@ -3,7 +3,84 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-04-04 18:04:40 +0530</pubDate>
+    <pubDate>2013-04-06 21:27:41 +0530</pubDate>
+    <item>
+      <title>From Practitioner to Coach - I</title>
+      <link>http://www.amanking.com/from-practitioner-to-coach-i</link>
+      <pubDate>2013-04-03</pubDate>
+      <description>&lt;p&gt;For an organization to be successful at Agile transformation, one aspect that needs attention is self-sustenance. Having external coaches is useful as they bring in experience and a third-party perspective. Over time though, it makes sense to groom internal Agile practitioners as Agile champions, who can spread the mindset and practices further.&lt;/p&gt;
+
+&lt;p&gt;Transitioning from a practitioner to a coach is non-trivial. The organization should look out for certain characteristics in individuals to identify potential coaches, and follow that up by providing support to prepare them for the role. In a series of articles, we will delve into each of these aspects.&lt;/p&gt;
+
+&lt;p&gt;First off, let us establish practitioner-to-coach transition as an effective strategy for Agile transformation.&lt;/p&gt;
+
+&lt;h2 id="toc_0"&gt;&lt;em&gt;When do we know we are done?&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;This is a difficult question to answer at the onset of any Agile enablement undertaking. Some answers rely on metrics, measuring how the coached teams have progressed in those. A more subjective answer, but perhaps more relevant, relies on people:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;We are done coaching a team when team members are capable of coaching others.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The above is indicative of the skills, mindset, and experiences picked up by team members. On the ground, not every team member will reach the same level at the same time, and while many may progress as practitioners, they may not make good coaches. Coaching does not come naturally to everyone, not even to long-time practitioners. One needs certain qualities and skills that require further grooming. We will talk about this in more detail later. For now let us assume we can get good coaches out of a coached team.&lt;/p&gt;
+
+&lt;h2 id="toc_1"&gt;&lt;em&gt;How can producing internal coaches benefit Agile transformation?&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;Here is a simple illustration.&lt;/p&gt;
+
+&lt;p&gt;FakeFincorp Ltd is an organization looking at Agile transformation. They have multiple co-located teams. They hire an Agile Coach, named &lt;span style="color:orange"&gt;Jake&lt;/span&gt;, to help them on their Agile journey.&lt;/p&gt;
+
+&lt;p&gt;Note: in the diagrams below, the &lt;span style="color:orange"&gt;orange&lt;/span&gt; circle represents the external coach; the &lt;span style="color:blue"&gt;blue&lt;/span&gt; circles represent team members; the &lt;span style="color:#0C0"&gt;green&lt;/span&gt; circles represent team members who are ready to transition into a coaching role.&lt;/p&gt;
+
+&lt;h3 id="toc_2"&gt;Step 1&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt="step 1" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step01.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style="color:orange"&gt;Jake&lt;/span&gt; works actively with the team members of only one team. Other teams may choose to continue working in their regular manner or try to emulate the coached team. However, &lt;span style="color:orange"&gt;Jake&lt;/span&gt;&amp;#39;s focus remains on the one team he is actively coaching.&lt;/p&gt;
+
+&lt;h3 id="toc_3"&gt;Step 2&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt="step 2" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step02.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
+
+&lt;p&gt;Having spent considerable time with a particular team, &lt;span style="color:orange"&gt;Jake&lt;/span&gt; gets a sense of the various team members&amp;#39; strengths. He identifies two individuals, &lt;span style="color:#0C0"&gt;John&lt;/span&gt; and &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt;, who demonstrate qualities suitable for a coaching role. He now gears his coaching style towards a coach-the-coach approach, focusing on these individuals. Over a short duration, &lt;span style="color:#0C0"&gt;John&lt;/span&gt; picks up coaching skills comfortably while &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; could use more mentoring on the coaching aspects.&lt;/p&gt;
+
+&lt;h3 id="toc_4"&gt;Step 3&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt="step 3" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step03.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
+
+&lt;p&gt;Confident of &lt;span style="color:#0C0"&gt;John&lt;/span&gt;&amp;#39;s coaching ability, &lt;span style="color:orange"&gt;Jake&lt;/span&gt; pulls &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; and himself out of the team, leaving &lt;span style="color:#0C0"&gt;John&lt;/span&gt; in charge of sustaining the Agile mindset and practices in that team. Capacity is adjusted by bringing fresh members into the team. &lt;span style="color:orange"&gt;Jake&lt;/span&gt; and &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; together move into the next team that will undergo Agile coaching. &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; works as a team member but continues to focus on picking up coaching skills. &lt;span style="color:orange"&gt;Jake&lt;/span&gt; balances coaching the new team actively along with his coach-the-coach approach for &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt;. Every now and then, he allows &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; to take a lead in coaching.&lt;/p&gt;
+
+&lt;h3 id="toc_5"&gt;Step 4&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt="step 4" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step04.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
+
+&lt;p&gt;Over time, another practitioner in the new team seems to emerge as a potential coach.&lt;/p&gt;
+
+&lt;h3 id="toc_6"&gt;Step 5&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt="step 5" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step05.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
+
+&lt;p&gt;Like before, when the time is right, &lt;span style="color:orange"&gt;Jake&lt;/span&gt; moves out of the team with the new potential coach, leaving a more confident &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; in charge of the previous team. The approach continues across multiple teams.&lt;/p&gt;
+
+&lt;h3 id="toc_7"&gt;Step 6&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt="step 6" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step06.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
+
+&lt;p&gt;After a point, &lt;span style="color:orange"&gt;Jake&lt;/span&gt;&amp;#39;s role becomes more of a specialist or expert consultant that the internal coaches leverage. &lt;span style="color:orange"&gt;Jake&lt;/span&gt; oversees the progress of the internal coaches and provides guidance where required. Most of the changes are now channelized through the internal coaches on the ground.&lt;/p&gt;
+
+&lt;h3 id="toc_8"&gt;Step 7&lt;/h3&gt;
+
+&lt;p&gt;&lt;img alt="step 7" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step07.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
+
+&lt;p&gt;At some stage, when both FakeFincorp Ltd and the external Agile Coach agree, the Agile transformation can be deemed complete, and the remaining work of sustaining it and evolving it can be carried on internally.&lt;/p&gt;
+
+&lt;h3 id="toc_9"&gt;Disclaimer&lt;/h3&gt;
+
+&lt;p&gt;The above is an over-simplification that highlights the basic tenets of this strategy. Creating capable internal coaches will be more difficult in some teams than others. It will also not happen overnight. Sometimes even good internal coaches do not have enough experience to guide teams under difficult circumstances. A structured support system is needed for such an initiative to be successful.&lt;/p&gt;
+
+&lt;p&gt;We will go deeper into these details in subsequent articles. Until then, stay tuned!&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Exit mail</title>
       <link>http://www.amanking.com/exit-mail</link>
