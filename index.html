@@ -13,12 +13,12 @@
     <![endif]-->
 
     <!-- Le styles -->
-    <link href="/assets/custom/stylesheets/bootstrap.min.css?0.31401408181619717" type="text/css" rel="stylesheet" media="all">
-<link href="/assets/custom/stylesheets/style.css?0.8914269866253346" type="text/css" rel="stylesheet" media="all">
-<link href="/assets/custom/stylesheets/posts-index.css?0.32759234998473985" type="text/css" rel="stylesheet" media="all">
-<link href="/assets/custom/widgets/google_prettify/stylesheets/twitter-bootstrap.css?0.22439079167891451" type="text/css" rel="stylesheet" media="all">
+    <link href="/assets/custom/stylesheets/bootstrap.min.css?0.9541787391792094" type="text/css" rel="stylesheet" media="all">
+<link href="/assets/custom/stylesheets/style.css?0.40659056242170954" type="text/css" rel="stylesheet" media="all">
+<link href="/assets/custom/stylesheets/posts-index.css?0.7866327027651735" type="text/css" rel="stylesheet" media="all">
+<link href="/assets/custom/widgets/google_prettify/stylesheets/twitter-bootstrap.css?0.3532438238704113" type="text/css" rel="stylesheet" media="all">
 
-    <script src="/assets/custom/javascripts/jquery-1.9.1.min.js?0.9460992714820576"></script>
+    <script src="/assets/custom/javascripts/jquery-1.9.1.min.js?0.2983279411976767"></script>
 
 
     <!-- Le fav and touch icons -->
@@ -54,6 +54,53 @@
       <div class="row">
         <div class="content span10">
             <div class="post summary">
+    <div class="text">
+      <h1 class="title"><a href="/common-code-smells">Common code smells</a></h1>
+      <div class="date muted">2013-04-21</div>
+
+      <div class="content">
+        <p>I have worked on multiple systems written in object-oriented languages. Time and again, I encounter common code smells. What is curious is that these smells are observable not only in legacy<small><sup>[1]</sup></small> systems but also in well-intentioned greenfield<small><sup>[2]</sup></small> projects.</p>
+
+<p>One could ascribe these to the developers not knowing any better, or possibly to a more common reason, <a href="http://martinfowler.com/bliki/TechnicalDebt.html">Technical Debt</a>.</p>
+
+<p>Either way, I have learnt that being conscious of these code smells is important while working with code bases. Simply learning about the code smells is not enough. You need to actively look out for them <em>all the time</em>.</p>
+
+<p>The next step, after identifying the smell, is of course to deal with it. For now, I will only list the code smells. I am planning a separate series of <em>nugget</em> posts to get into more details later. But don&#39;t wait for those posts! Read <a href="http://martinfowler.com/books/refactoring.html">the Refactoring book</a> now for most of the common smells!</p>
+
+<h2 id="toc_0">The smells!</h2>
+
+<h3 id="toc_1">In both legacy and greenfield projects</h3>
+
+<ul>
+<li>Multiple assignments to local variable</li>
+<li>Law of Demeter violation</li>
+<li>Data clumps</li>
+<li>Null checks</li>
+<li>Switch case</li>
+<li>Primitive obsession</li>
+<li>Long method</li>
+<li>Feature envy</li>
+<li>Using language features or core APIs like <code>Collections.emptyList()</code> wrongly</li>
+</ul>
+
+      </div>
+    </div>
+    <div class="controls clearfix">
+      <ul class="tag_box inline">
+        <li><i class="icon-tags"></i></li>
+          <li>
+            <a href="/tags#coding-ref">coding <span>1</span></a>
+          </li>
+          <li>
+            <a href="/tags#nugget-ref">nugget <span>1</span></a>
+          </li>
+      </ul>
+      <div class="more">
+        <small><a href="/common-code-smells" class="muted">Read more</a></small> | <small><a href="/common-code-smells#disqus_thread" class="muted">Comments</a></small>
+      </div>
+    </div>
+  </div>
+  <div class="post summary">
     <div class="text">
       <h1 class="title"><a href="/from-practitioner-to-coach-i">From Practitioner to Coach - I</a></h1>
       <div class="date muted">2013-04-03</div>
@@ -245,6 +292,12 @@
     <a href="/tags#blog-ref">blog <span>1</span></a>
   </li>
   <li>
+    <a href="/tags#coding-ref">coding <span>1</span></a>
+  </li>
+  <li>
+    <a href="/tags#nugget-ref">nugget <span>1</span></a>
+  </li>
+  <li>
     <a href="/tags#organizations-ref">organizations <span>2</span></a>
   </li>
   <li>
@@ -269,6 +322,7 @@
   <div class="archive_by_year">
       <h5>April 2013</h5>
       <ul class="archived_posts">
+        <li><a href="/common-code-smells" class="title">Common code smells</a></li>
         <li><a href="/from-practitioner-to-coach-i" class="title">From Practitioner to Coach - I</a></li>
       </ul>
       <h5>March 2013</h5>

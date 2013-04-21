@@ -3,7 +3,66 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-04-07 22:28:40 +0530</pubDate>
+    <pubDate>2013-04-21 22:41:04 +0530</pubDate>
+    <item>
+      <title>Common code smells</title>
+      <link>http://www.amanking.com/common-code-smells</link>
+      <pubDate>2013-04-21</pubDate>
+      <description>&lt;p&gt;I have worked on multiple systems written in object-oriented languages. Time and again, I encounter common code smells. What is curious is that these smells are observable not only in legacy&lt;small&gt;&lt;sup&gt;[1]&lt;/sup&gt;&lt;/small&gt; systems but also in well-intentioned greenfield&lt;small&gt;&lt;sup&gt;[2]&lt;/sup&gt;&lt;/small&gt; projects.&lt;/p&gt;
+
+&lt;p&gt;One could ascribe these to the developers not knowing any better, or possibly to a more common reason, &lt;a href="http://martinfowler.com/bliki/TechnicalDebt.html"&gt;Technical Debt&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Either way, I have learnt that being conscious of these code smells is important while working with code bases. Simply learning about the code smells is not enough. You need to actively look out for them &lt;em&gt;all the time&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The next step, after identifying the smell, is of course to deal with it. For now, I will only list the code smells. I am planning a separate series of &lt;em&gt;nugget&lt;/em&gt; posts to get into more details later. But don&amp;#39;t wait for those posts! Read &lt;a href="http://martinfowler.com/books/refactoring.html"&gt;the Refactoring book&lt;/a&gt; now for most of the common smells!&lt;/p&gt;
+
+&lt;h2 id="toc_0"&gt;The smells!&lt;/h2&gt;
+
+&lt;h3 id="toc_1"&gt;In both legacy and greenfield projects&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Multiple assignments to local variable&lt;/li&gt;
+&lt;li&gt;Law of Demeter violation&lt;/li&gt;
+&lt;li&gt;Data clumps&lt;/li&gt;
+&lt;li&gt;Null checks&lt;/li&gt;
+&lt;li&gt;Switch case&lt;/li&gt;
+&lt;li&gt;Primitive obsession&lt;/li&gt;
+&lt;li&gt;Long method&lt;/li&gt;
+&lt;li&gt;Feature envy&lt;/li&gt;
+&lt;li&gt;Using language features or core APIs like &lt;code&gt;Collections.emptyList()&lt;/code&gt; wrongly&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="toc_2"&gt;Usually in legacy systems&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Setters in domain objects&lt;/li&gt;
+&lt;li&gt;Use of &lt;code&gt;static&lt;/code&gt; methods&lt;/li&gt;
+&lt;li&gt;Use of Singleton pattern&lt;/li&gt;
+&lt;li&gt;Violations of layered architecture&lt;/li&gt;
+&lt;li&gt;Long class&lt;/li&gt;
+&lt;li&gt;Commented code&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="toc_3"&gt;Usually in greenfield systems&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Field injection&lt;/li&gt;
+&lt;li&gt;Inappropriate mocking, such as misuse of &lt;code&gt;Mockito.any()&lt;/code&gt; with &lt;code&gt;Mockito.when()&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Unit tests not respecting architecture layers&lt;/li&gt;
+&lt;li&gt;Complicated setup in unit tests&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I will keep adding to these lists over time.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;small&gt;
+[1] For the purposes of this post and others, I will use &amp;quot;legacy&amp;quot; to mean systems that have survived for nearly 10 years or more, running on old or raw technologies like Servlets, JDBC, etc, and without much automated test coverage. There may have been attempts to mix in new technologies and increase test coverage but the majority is still legacy.&lt;/p&gt;
+
+&lt;p&gt;[2] I will use &amp;quot;greenfield&amp;quot; to mean systems that are written in recent times. They run on newer technologies, using frameworks for MVC, ORM, IoC, etc. I will assume that the developers are aware of clean code practices and do unit testing, perhaps even TDD along with refactoring.
+&lt;/small&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>From Practitioner to Coach - I</title>
       <link>http://www.amanking.com/from-practitioner-to-coach-i</link>
