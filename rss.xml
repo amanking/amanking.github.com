@@ -3,18 +3,54 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-04-21 22:41:04 +0530</pubDate>
+    <pubDate>2013-07-25 22:07:30 +0530</pubDate>
     <item>
-      <title>Common code smells</title>
-      <link>http://www.amanking.com/common-code-smells</link>
-      <pubDate>2013-04-21</pubDate>
-      <description>&lt;p&gt;I have worked on multiple systems written in object-oriented languages. Time and again, I encounter common code smells. What is curious is that these smells are observable not only in legacy&lt;small&gt;&lt;sup&gt;[1]&lt;/sup&gt;&lt;/small&gt; systems but also in well-intentioned greenfield&lt;small&gt;&lt;sup&gt;[2]&lt;/sup&gt;&lt;/small&gt; projects.&lt;/p&gt;
+      <title>About Me</title>
+      <link>http://www.amanking.com/about-me</link>
+      <pubDate/>
+      <description>&lt;p&gt;&lt;img alt="profile picture" src="/assets/media/images/about-me/aman-king-medium.jpg" style="float: right; width: 200px; height: 200px; margin-left: 20px; margin-bottom: 20px;"&gt;&lt;/p&gt;
+
+&lt;p&gt;My name is &lt;strong&gt;Aman King&lt;/strong&gt;. I am a technologist at &lt;a href="http://www.thoughtworks.com"&gt;ThoughtWorks&lt;/a&gt;, working as Lead Consultant.&lt;/p&gt;
+
+&lt;p&gt;I have been in the &lt;strong&gt;Agile&lt;/strong&gt; space since 2006. As an &lt;strong&gt;Application Developer&lt;/strong&gt;, I have delivered multiple projects for clients from diverse domains. We work in Agile teams using XP practices, such as TDD and Pair Programming.. We are either co-located, distributed, or offshore.&lt;/p&gt;
+
+&lt;p&gt;The projects are typically web applications or web services. We often use &lt;strong&gt;Java technologies&lt;/strong&gt; or &lt;strong&gt;Ruby on Rails&lt;/strong&gt;. The applications are hosted traditionally or deployed on the Amazon cloud.&lt;/p&gt;
+
+&lt;p&gt;I also work for clients as an &lt;strong&gt;Agile Coach&lt;/strong&gt;. I have coached teams with sizes ranging from 7 to 30.&lt;/p&gt;
+
+&lt;p&gt;In addition to playing Tech Lead and Agile Coach, I spend time conducting trainings, speaking at conferences, writing on technical topics, and working on open source software.&lt;/p&gt;
+
+&lt;p&gt;Find me at:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.linkedin.com/in/amanking"&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bitbucket.org/amanking"&gt;BitBucket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://github.com/amanking"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.slideshare.net/amanking"&gt;SlideShare&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://join.thoughtworks.com/profiles/aman-king"&gt;ThoughtWorks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Email me at &lt;em&gt;my last name @ my full name dot com&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>http://www.amanking.com/</link>
+      <pubDate/>
+      <description>  &lt;div class="post summary"&gt;
+    &lt;div class="text"&gt;
+      &lt;h1 class="title"&gt;&lt;a href="/common-code-smells"&gt;Common code smells&lt;/a&gt;&lt;/h1&gt;
+      &lt;div class="date muted"&gt;2013-04-21&lt;/div&gt;
+
+      &lt;div class="content"&gt;
+        &lt;div class="summary ellipsis"&gt;
+&lt;p&gt;I have worked on multiple systems written in object-oriented languages. Time and again, I encounter common code smells. What is curious is that these smells are observable not only in legacy&lt;small&gt;&lt;sup&gt;[1]&lt;/sup&gt;&lt;/small&gt; systems but also in well-intentioned greenfield&lt;small&gt;&lt;sup&gt;[2]&lt;/sup&gt;&lt;/small&gt; projects.&lt;/p&gt;
 
 &lt;p&gt;One could ascribe these to the developers not knowing any better, or possibly to a more common reason, &lt;a href="http://martinfowler.com/bliki/TechnicalDebt.html"&gt;Technical Debt&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Either way, I have learnt that being conscious of these code smells is important while working with code bases. Simply learning about the code smells is not enough. You need to actively look out for them &lt;em&gt;all the time&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;The next step, after identifying the smell, is of course to deal with it. For now, I will only list the code smells. I am planning a separate series of &lt;em&gt;nugget&lt;/em&gt; posts to get into more details later. But don&amp;#39;t wait for those posts! Read &lt;a href="http://martinfowler.com/books/refactoring.html"&gt;the Refactoring book&lt;/a&gt; now for most of the common smells!&lt;/p&gt;
+&lt;p&gt;The next step, after identifying the smell, is of course to deal with it. For now, I will only list the code smells. I am planning a separate series of &lt;em&gt;nugget&lt;/em&gt; posts to get into more details later. But don't wait for those posts! Read &lt;a href="http://martinfowler.com/books/refactoring.html"&gt;the Refactoring book&lt;/a&gt; now for most of the common smells!&lt;/p&gt;
 
 &lt;h2 id="toc_0"&gt;The smells!&lt;/h2&gt;
 
@@ -31,43 +67,32 @@
 &lt;li&gt;Feature envy&lt;/li&gt;
 &lt;li&gt;Using language features or core APIs like &lt;code&gt;Collections.emptyList()&lt;/code&gt; wrongly&lt;/li&gt;
 &lt;/ul&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="controls clearfix"&gt;
+      &lt;ul class="tag_box inline"&gt;
+        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#coding-ref"&gt;coding &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/common-code-smells" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/common-code-smells#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="post summary"&gt;
+    &lt;div class="text"&gt;
+      &lt;h1 class="title"&gt;&lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/h1&gt;
+      &lt;div class="date muted"&gt;2013-04-03&lt;/div&gt;
 
-&lt;h3 id="toc_2"&gt;Usually in legacy systems&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Setters in domain objects&lt;/li&gt;
-&lt;li&gt;Use of &lt;code&gt;static&lt;/code&gt; methods&lt;/li&gt;
-&lt;li&gt;Use of Singleton pattern&lt;/li&gt;
-&lt;li&gt;Violations of layered architecture&lt;/li&gt;
-&lt;li&gt;Long class&lt;/li&gt;
-&lt;li&gt;Commented code&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="toc_3"&gt;Usually in greenfield systems&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Field injection&lt;/li&gt;
-&lt;li&gt;Inappropriate mocking, such as misuse of &lt;code&gt;Mockito.any()&lt;/code&gt; with &lt;code&gt;Mockito.when()&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Unit tests not respecting architecture layers&lt;/li&gt;
-&lt;li&gt;Complicated setup in unit tests&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I will keep adding to these lists over time.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;&lt;small&gt;
-[1] For the purposes of this post and others, I will use &amp;quot;legacy&amp;quot; to mean systems that have survived for nearly 10 years or more, running on old or raw technologies like Servlets, JDBC, etc, and without much automated test coverage. There may have been attempts to mix in new technologies and increase test coverage but the majority is still legacy.&lt;/p&gt;
-
-&lt;p&gt;[2] I will use &amp;quot;greenfield&amp;quot; to mean systems that are written in recent times. They run on newer technologies, using frameworks for MVC, ORM, IoC, etc. I will assume that the developers are aware of clean code practices and do unit testing, perhaps even TDD along with refactoring.
-&lt;/small&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>From Practitioner to Coach - I</title>
-      <link>http://www.amanking.com/from-practitioner-to-coach-i</link>
-      <pubDate>2013-04-03</pubDate>
-      <description>&lt;p&gt;For an organization to be successful at Agile transformation, one aspect that needs attention is self-sustenance. Having external coaches is useful as they bring in experience and a third-party perspective. Over time though, it makes sense to groom internal Agile practitioners as Agile champions, who can spread the mindset and practices further.&lt;/p&gt;
+      &lt;div class="content"&gt;
+        &lt;div class="summary ellipsis"&gt;
+&lt;p&gt;For an organization to be successful at Agile transformation, one aspect that needs attention is self-sustenance. Having external coaches is useful as they bring in experience and a third-party perspective. Over time though, it makes sense to groom internal Agile practitioners as Agile champions, who can spread the mindset and practices further.&lt;/p&gt;
 
 &lt;p&gt;Transitioning from a practitioner to a coach is non-trivial. The organization should look out for certain characteristics in individuals to identify potential coaches, and follow that up by providing support to prepare them for the role. In a series of articles, we will delve into each of these aspects.&lt;/p&gt;
 
@@ -83,108 +108,110 @@
 
 &lt;p&gt;The above is indicative of the skills, mindset, and experiences picked up by team members. On the ground, not every team member will reach the same level at the same time, and while many may progress as practitioners, they may not make good coaches. Coaching does not come naturally to everyone, not even to long-time practitioners. One needs certain qualities and skills that require further grooming. We will talk about this in more detail later. For now let us assume we can get good coaches out of a coached team.&lt;/p&gt;
 
-&lt;h2 id="toc_1"&gt;&lt;em&gt;How can producing internal coaches benefit Agile transformation?&lt;/em&gt;&lt;/h2&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="controls clearfix"&gt;
+      &lt;ul class="tag_box inline"&gt;
+        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#organizations-ref"&gt;organizations &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#agile-ref"&gt;agile &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#transformation-ref"&gt;transformation &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/from-practitioner-to-coach-i" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/from-practitioner-to-coach-i#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
 
-&lt;p&gt;Here is a simple illustration.&lt;/p&gt;
-
-&lt;p&gt;FakeFincorp Ltd is an organization looking at Agile transformation. They have multiple co-located teams. They hire an Agile Coach, named &lt;span style="color:orange"&gt;Jake&lt;/span&gt;, to help them on their Agile journey.&lt;/p&gt;
-
-&lt;p&gt;Note: in the diagrams below, the &lt;span style="color:orange"&gt;orange&lt;/span&gt; circle represents the external coach; the &lt;span style="color:blue"&gt;blue&lt;/span&gt; circles represent team members; the &lt;span style="color:#0C0"&gt;green&lt;/span&gt; circles represent team members who are ready to transition into a coaching role.&lt;/p&gt;
-
-&lt;h3 id="toc_2"&gt;Step 1&lt;/h3&gt;
-
-&lt;p&gt;&lt;img alt="step 1" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step01.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style="color:orange"&gt;Jake&lt;/span&gt; works actively with the team members of only one team. Other teams may choose to continue working in their regular manner or try to emulate the coached team. However, &lt;span style="color:orange"&gt;Jake&lt;/span&gt;&amp;#39;s focus remains on the one team he is actively coaching.&lt;/p&gt;
-
-&lt;h3 id="toc_3"&gt;Step 2&lt;/h3&gt;
-
-&lt;p&gt;&lt;img alt="step 2" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step02.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
-
-&lt;p&gt;Having spent considerable time with a particular team, &lt;span style="color:orange"&gt;Jake&lt;/span&gt; gets a sense of the various team members&amp;#39; strengths. He identifies two individuals, &lt;span style="color:#0C0"&gt;John&lt;/span&gt; and &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt;, who demonstrate qualities suitable for a coaching role. He now gears his coaching style towards a coach-the-coach approach, focusing on these individuals. Over a short duration, &lt;span style="color:#0C0"&gt;John&lt;/span&gt; picks up coaching skills comfortably while &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; could use more mentoring on the coaching aspects.&lt;/p&gt;
-
-&lt;h3 id="toc_4"&gt;Step 3&lt;/h3&gt;
-
-&lt;p&gt;&lt;img alt="step 3" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step03.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
-
-&lt;p&gt;Confident of &lt;span style="color:#0C0"&gt;John&lt;/span&gt;&amp;#39;s coaching ability, &lt;span style="color:orange"&gt;Jake&lt;/span&gt; pulls &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; and himself out of the team, leaving &lt;span style="color:#0C0"&gt;John&lt;/span&gt; in charge of sustaining the Agile mindset and practices in that team. Capacity is adjusted by bringing fresh members into the team. &lt;span style="color:orange"&gt;Jake&lt;/span&gt; and &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; together move into the next team that will undergo Agile coaching. &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; works as a team member but continues to focus on picking up coaching skills. &lt;span style="color:orange"&gt;Jake&lt;/span&gt; balances coaching the new team actively along with his coach-the-coach approach for &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt;. Every now and then, he allows &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; to take a lead in coaching.&lt;/p&gt;
-
-&lt;h3 id="toc_5"&gt;Step 4&lt;/h3&gt;
-
-&lt;p&gt;&lt;img alt="step 4" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step04.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
-
-&lt;p&gt;Over time, another practitioner in the new team seems to emerge as a potential coach.&lt;/p&gt;
-
-&lt;h3 id="toc_6"&gt;Step 5&lt;/h3&gt;
-
-&lt;p&gt;&lt;img alt="step 5" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step05.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
-
-&lt;p&gt;Like before, when the time is right, &lt;span style="color:orange"&gt;Jake&lt;/span&gt; moves out of the team with the new potential coach, leaving a more confident &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; in charge of the previous team. The approach continues across multiple teams.&lt;/p&gt;
-
-&lt;h3 id="toc_7"&gt;Step 6&lt;/h3&gt;
-
-&lt;p&gt;&lt;img alt="step 6" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step06.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
-
-&lt;p&gt;After a point, &lt;span style="color:orange"&gt;Jake&lt;/span&gt;&amp;#39;s role becomes more of a specialist or expert consultant that the internal coaches leverage. &lt;span style="color:orange"&gt;Jake&lt;/span&gt; oversees the progress of the internal coaches and provides guidance where required. Most of the changes are now channelized through the internal coaches on the ground.&lt;/p&gt;
-
-&lt;h3 id="toc_8"&gt;Step 7&lt;/h3&gt;
-
-&lt;p&gt;&lt;img alt="step 7" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step07.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
-
-&lt;p&gt;At some stage, when both FakeFincorp Ltd and the external Agile Coach agree, the Agile transformation can be deemed complete, and the remaining work of sustaining it and evolving it can be carried on internally.&lt;/p&gt;
-
-&lt;h3 id="toc_9"&gt;Disclaimer&lt;/h3&gt;
-
-&lt;p&gt;The above is an over-simplification that highlights the basic tenets of this strategy. Creating capable internal coaches will be more difficult in some teams than others. It will also not happen overnight. Sometimes even good internal coaches do not have enough experience to guide teams under difficult circumstances. A structured support system is needed for such an initiative to be successful.&lt;/p&gt;
-
-&lt;p&gt;We will go deeper into these details in subsequent articles. Until then, stay tuned!&lt;/p&gt;
+&lt;div class="pagination"&gt;
+  &lt;ul&gt;
+      &lt;li class="active"&gt;&lt;a href="/"&gt;1&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="/posts/index/2"&gt;2&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
 </description>
     </item>
     <item>
-      <title>Exit mail</title>
-      <link>http://www.amanking.com/exit-mail</link>
-      <pubDate>2013-03-31</pubDate>
-      <description>&lt;p&gt;No, this is not &lt;em&gt;my&lt;/em&gt; exit mail. But a post about a reality in any organization: the &lt;strong&gt;exit mail&lt;/strong&gt; that appears in our inbox occasionally.&lt;/p&gt;
-
-&lt;p&gt;People have their reasons to quit a company. Even a company like &lt;a href="http://www.thoughtworks.com"&gt;ThoughtWorks&lt;/a&gt;. Not always an easy decision. But to each his own. This post is not about the reasons behind the exit mail but about how its readers react.&lt;/p&gt;
-
-&lt;p&gt;Thinking about my reactions, I can tie them to the kind of person leaving:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Unfamiliar:&lt;/strong&gt; With over 2000 ThoughtWorkers, there are bound to be exit mails from people I do not know. I skim through the first paragraph to get a brief background (how long in ThoughtWorks, which location, reason for leaving). If the writing is witty, I might read till the end. Else &lt;em&gt;delete.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Respected:&lt;/strong&gt; These are the exit mails that make me look twice. I would know the person or know about the person. From working with them, or conversing with them, or reading their forum posts, or simply having heard praises about them from others. These people are opinionated, talented, experienced, and natural leaders in the ways we develop software. These mails get &lt;em&gt;archived.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Team member:&lt;/strong&gt; These exit mails always get a &lt;em&gt;reply&lt;/em&gt; from me. Having worked with someone, you develop a rapport, some mutual respect, and, on occasion, a camaraderie. How I feel about a team member can vary in degree, and a good measure of that is the effect their exit mail has on me.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Friend:&lt;/strong&gt; Such an exit mail &lt;em&gt;hurts.&lt;/em&gt; Most times I can anticipate its arrival because the person would keep me informed (it still hurts). Sometimes it can be a shock, if the decision was kept personal for whatever reason. But irrespective, it is a mail I dread. It is hardest to say goodbye to a friend. Each of these mails feels like one lost reason to come to office. But we move on. We have to. And we wish our friends well in their journey ahead.&lt;/p&gt;&lt;/li&gt;
+      <title>Tags</title>
+      <link>http://www.amanking.com/tags</link>
+      <pubDate/>
+      <description>&lt;ul class="tag_box inline"&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#blog-ref"&gt;blog &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#coding-ref"&gt;coding &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#organizations-ref"&gt;organizations &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#people-ref"&gt;people &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#personal-ref"&gt;personal &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#agile-ref"&gt;agile &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#transformation-ref"&gt;transformation &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Exit mails make me think about what we hold dear in this much technical profession of ours. Yes, we appreciate our technology gurus. And we enjoy working with team members towards the common goal of client success. But most of all, we value the friends we make while accomplishing all this. I dedicate this post to such friends of mine.&lt;/p&gt;
-
-&lt;p&gt;Amongst software, teams, and individuals, when it comes to exit mail reactions, the priority order is reversed.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>A fresh look and outlook</title>
-      <link>http://www.amanking.com/a-fresh-look-and-outlook</link>
-      <pubDate>2013-03-27</pubDate>
-      <description>&lt;p&gt;I enjoy blogging: writing about my learnings and experiences, and what others may find useful. For many years, I hosted my blog at &lt;a href="http://www.wikyblog.com/AmanKing"&gt;WikyBlog&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I blogged regularly during the early parts of my career. After a few years, the posts came in less frequently. This was not accidental. I consciously set off on a personal journey which was more inward-looking.&lt;/p&gt;
-
-&lt;p&gt;I now feel the need to blog again. But with a coming-of-age outlook. And a fresh &lt;em&gt;look&lt;/em&gt; to go with that.&lt;/p&gt;
-
-&lt;p&gt;I am hosting this blog on &lt;a href="http://pages.github.com/"&gt;Github Pages&lt;/a&gt;, powered by &lt;a href="https://github.com/amanking/ruhoh.rb"&gt;my fork&lt;/a&gt; of &lt;a href="http://ruhoh.com"&gt;ruhoh&lt;/a&gt;. It gives me a sense of control as I can create my own theme, and even code my own features.&lt;/p&gt;
-
-&lt;p&gt;This blog will capture my thoughts on &lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;software, &lt;/li&gt;
-&lt;li&gt;teams, and &lt;/li&gt;
-&lt;li&gt;individuals.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Each of these elements are independently worthy of attention. And when these come together, there is great potential to create something worthwhile.&lt;/p&gt;
-
-&lt;p&gt;I hope you will find my blog interesting. Keep visiting. I look forward to your thoughts via comments.&lt;/p&gt;
+  &lt;h3 id="blog-ref"&gt;blog&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-03-27&lt;/small&gt; &lt;a href="/a-fresh-look-and-outlook"&gt;A fresh look and outlook&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="coding-ref"&gt;coding&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-04-21&lt;/small&gt; &lt;a href="/common-code-smells"&gt;Common code smells&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="nugget-ref"&gt;nugget&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-04-21&lt;/small&gt; &lt;a href="/common-code-smells"&gt;Common code smells&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="organizations-ref"&gt;organizations&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-03-31&lt;/small&gt; &lt;a href="/exit-mail"&gt;Exit mail&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="people-ref"&gt;people&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-03-31&lt;/small&gt; &lt;a href="/exit-mail"&gt;Exit mail&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="personal-ref"&gt;personal&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-03-31&lt;/small&gt; &lt;a href="/exit-mail"&gt;Exit mail&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="agile-ref"&gt;agile&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="transformation-ref"&gt;transformation&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="coaching-ref"&gt;coaching&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
 </description>
     </item>
   </channel>
