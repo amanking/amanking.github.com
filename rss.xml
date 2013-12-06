@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-06 18:47:51 +0530</pubDate>
+    <pubDate>2013-12-06 18:49:39 +0530</pubDate>
     <item>
       <title>About Me</title>
       <link>http://www.amanking.com/about-me</link>
@@ -132,13 +132,89 @@
       &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+  &lt;div class="post summary"&gt;
+    &lt;div class="text"&gt;
+      &lt;h1 class="title"&gt;&lt;a href="/exit-mail"&gt;Exit mail&lt;/a&gt;&lt;/h1&gt;
+      &lt;div class="date muted"&gt;2013-03-31&lt;/div&gt;
 
-&lt;div class="pagination"&gt;
-  &lt;ul&gt;
-      &lt;li class="active"&gt;&lt;a href="/"&gt;1&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href="/posts/index/2"&gt;2&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
+      &lt;div class="content"&gt;
+        &lt;div class="summary"&gt;
+&lt;p&gt;No, this is not &lt;em&gt;my&lt;/em&gt; exit mail. But a post about a reality in any organization: the &lt;strong&gt;exit mail&lt;/strong&gt; that appears in our inbox occasionally.&lt;/p&gt;
+
+&lt;p&gt;People have their reasons to quit a company. Even a company like &lt;a href="http://www.thoughtworks.com"&gt;ThoughtWorks&lt;/a&gt;. Not always an easy decision. But to each his own. This post is not about the reasons behind the exit mail but about how its readers react.&lt;/p&gt;
+
+&lt;p&gt;Thinking about my reactions, I can tie them to the kind of person leaving:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Unfamiliar:&lt;/strong&gt; With over 2000 ThoughtWorkers, there are bound to be exit mails from people I do not know. I skim through the first paragraph to get a brief background (how long in ThoughtWorks, which location, reason for leaving). If the writing is witty, I might read till the end. Else &lt;em&gt;delete.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Respected:&lt;/strong&gt; These are the exit mails that make me look twice. I would know the person or know about the person. From working with them, or conversing with them, or reading their forum posts, or simply having heard praises about them from others. These people are opinionated, talented, experienced, and natural leaders in the ways we develop software. These mails get &lt;em&gt;archived.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Team member:&lt;/strong&gt; These exit mails always get a &lt;em&gt;reply&lt;/em&gt; from me. Having worked with someone, you develop a rapport, some mutual respect, and, on occasion, a camaraderie. How I feel about a team member can vary in degree, and a good measure of that is the effect their exit mail has on me.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Friend:&lt;/strong&gt; Such an exit mail &lt;em&gt;hurts.&lt;/em&gt; Most times I can anticipate its arrival because the person would keep me informed (it still hurts). Sometimes it can be a shock, if the decision was kept personal for whatever reason. But irrespective, it is a mail I dread. It is hardest to say goodbye to a friend. Each of these mails feels like one lost reason to come to office. But we move on. We have to. And we wish our friends well in their journey ahead.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Exit mails make me think about what we hold dear in this much technical profession of ours. Yes, we appreciate our technology gurus. And we enjoy working with team members towards the common goal of client success. But most of all, we value the friends we make while accomplishing all this. I dedicate this post to such friends of mine.&lt;/p&gt;
+
+&lt;p&gt;Amongst software, teams, and individuals, when it comes to exit mail reactions, the priority order is reversed.&lt;/p&gt;
 &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="controls clearfix"&gt;
+      &lt;ul class="tag_box inline"&gt;
+        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#organizations-ref"&gt;organizations &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#people-ref"&gt;people &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#personal-ref"&gt;personal &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/exit-mail" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/exit-mail#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="post summary"&gt;
+    &lt;div class="text"&gt;
+      &lt;h1 class="title"&gt;&lt;a href="/a-fresh-look-and-outlook"&gt;A fresh look and outlook&lt;/a&gt;&lt;/h1&gt;
+      &lt;div class="date muted"&gt;2013-03-27&lt;/div&gt;
+
+      &lt;div class="content"&gt;
+        &lt;div class="summary"&gt;
+&lt;p&gt;I enjoy blogging: writing about my learnings and experiences, and what others may find useful. For many years, I hosted my blog at &lt;a href="http://www.wikyblog.com/AmanKing"&gt;WikyBlog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I blogged regularly during the early parts of my career. After a few years, the posts came in less frequently. This was not accidental. I consciously set off on a personal journey which was more inward-looking.&lt;/p&gt;
+
+&lt;p&gt;I now feel the need to blog again. But with a coming-of-age outlook. And a fresh &lt;em&gt;look&lt;/em&gt; to go with that.&lt;/p&gt;
+
+&lt;p&gt;I am hosting this blog on &lt;a href="http://pages.github.com/"&gt;Github Pages&lt;/a&gt;, powered by &lt;a href="https://github.com/amanking/ruhoh.rb"&gt;my fork&lt;/a&gt; of &lt;a href="http://ruhoh.com"&gt;ruhoh&lt;/a&gt;. It gives me a sense of control as I can create my own theme, and even code my own features.&lt;/p&gt;
+
+&lt;p&gt;This blog will capture my thoughts on &lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;software, &lt;/li&gt;
+&lt;li&gt;teams, and &lt;/li&gt;
+&lt;li&gt;individuals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Each of these elements are independently worthy of attention. And when these come together, there is great potential to create something worthwhile.&lt;/p&gt;
+
+&lt;p&gt;I hope you will find my blog interesting. Keep visiting. I look forward to your thoughts via comments.&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="controls clearfix"&gt;
+      &lt;ul class="tag_box inline"&gt;
+        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#blog-ref"&gt;blog &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/a-fresh-look-and-outlook" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/a-fresh-look-and-outlook#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
 </description>
     </item>
     <item>
