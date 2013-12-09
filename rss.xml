@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-09 21:55:10 +0530</pubDate>
+    <pubDate>2013-12-10 00:16:30 +0530</pubDate>
     <item>
       <title>About Me</title>
       <link>http://www.amanking.com/about-me</link>
@@ -58,10 +58,10 @@
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#talk-ref"&gt;talk &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#talk-ref"&gt;talk &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
       &lt;div class="more"&gt;
@@ -153,7 +153,7 @@
             &lt;a href="/tags#transformation-ref"&gt;transformation &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
       &lt;div class="more"&gt;
@@ -255,10 +255,10 @@
     &lt;a href="/tags#blog-ref"&gt;blog &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#talk-ref"&gt;talk &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/tags#talk-ref"&gt;talk &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/tags#coding-ref"&gt;coding &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
@@ -287,11 +287,13 @@
   &lt;h3 id="coaching-ref"&gt;coaching&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
   &lt;h3 id="talk-ref"&gt;talk&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
   &lt;h3 id="coding-ref"&gt;coding&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
