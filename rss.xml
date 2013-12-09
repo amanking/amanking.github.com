@@ -3,16 +3,16 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-10 00:20:36 +0530</pubDate>
+    <pubDate>2013-12-10 00:40:45 +0530</pubDate>
     <item>
       <title>About Me</title>
       <link>http://www.amanking.com/about-me</link>
       <pubDate/>
-      <description>&lt;p&gt;&lt;img alt="profile picture" src="/assets/media/images/about-me/aman-king-medium.jpg" style="float: right; width: 200px; height: 200px; margin-left: 20px; margin-bottom: 20px;"&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt="profile picture" src="/assets/media/images/about-me/aman-cover-photo.jpg" style="width: 100%; height: auto; margin: 0px auto 20px auto;"&gt;&lt;/p&gt;
 
 &lt;p&gt;My name is &lt;strong&gt;Aman King&lt;/strong&gt;. I am a technologist at &lt;a href="http://www.thoughtworks.com"&gt;ThoughtWorks&lt;/a&gt;, working as Lead Consultant.&lt;/p&gt;
 
-&lt;p&gt;I have been in the &lt;strong&gt;Agile&lt;/strong&gt; space since 2006. As an &lt;strong&gt;Application Developer&lt;/strong&gt;, I have delivered multiple projects for clients from diverse domains. We work in Agile teams using XP practices, such as TDD and Pair Programming.. We are either co-located, distributed, or offshore.&lt;/p&gt;
+&lt;p&gt;I have been in the &lt;strong&gt;Agile&lt;/strong&gt; space since 2006. As an &lt;strong&gt;Application Developer&lt;/strong&gt;, I have delivered multiple projects for clients from diverse domains. We work in Agile teams using XP practices, such as TDD and Pair Programming. We are either co-located, distributed, or offshore.&lt;/p&gt;
 
 &lt;p&gt;The projects are typically web applications or web services. We often use &lt;strong&gt;Java technologies&lt;/strong&gt; or &lt;strong&gt;Ruby on Rails&lt;/strong&gt;. The applications are hosted traditionally or deployed on the Amazon cloud.&lt;/p&gt;
 
