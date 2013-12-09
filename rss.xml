@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-09 21:23:27 +0530</pubDate>
+    <pubDate>2013-12-09 21:55:10 +0530</pubDate>
     <item>
       <title>About Me</title>
       <link>http://www.amanking.com/about-me</link>
@@ -38,6 +38,38 @@
       <link>http://www.amanking.com/</link>
       <pubDate/>
       <description>  &lt;div class="post summary"&gt;
+    &lt;div class="text"&gt;
+      &lt;h1 class="title"&gt;&lt;a href="/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/h1&gt;
+      &lt;div class="date muted"&gt;2013-12-09&lt;/div&gt;
+
+      &lt;div class="content"&gt;
+        &lt;div class="summary"&gt;
+&lt;p&gt;&lt;a href="http://2014.agileindia.org/"&gt;Agile India 2014&lt;/a&gt; is scheduled for 26th Feb - 1st Mar 2014 in Bangalore. My talk, &lt;a href="http://present.agileindia.org/proposal/16/from-practitioner-to-coach"&gt;From Practitioner to Coach&lt;/a&gt;, has been selected for the conference under the Scaling Agile track.&lt;/p&gt;
+
+&lt;p&gt;In support of the presentation, I will blog about various coaching-related topics here. Most of the posts will be short, and will be tagged as a &lt;em&gt;nugget&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I'm looking forward to the conference! It has an excellent line up of speakers and topics. Do check it out yourself.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://2014.agileindia.org/" target="_blank" title="I am speaking at Agile India 2014"&gt;&lt;img src="/assets/media/images/badges/speaker-agile-india-2014.png" title="I am speaking at Agile India 2014" alt="I am speaking at Agile India 2014"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="controls clearfix"&gt;
+      &lt;ul class="tag_box inline"&gt;
+        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#talk-ref"&gt;talk &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/agile-india-2014" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/agile-india-2014#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="post summary"&gt;
     &lt;div class="text"&gt;
       &lt;h1 class="title"&gt;&lt;a href="/common-code-smells"&gt;Common code smells&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="date muted"&gt;2013-04-21&lt;/div&gt;
@@ -75,9 +107,6 @@
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
             &lt;a href="/tags#coding-ref"&gt;coding &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
-          &lt;/li&gt;
-          &lt;li&gt;
-            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
       &lt;div class="more"&gt;
@@ -124,7 +153,7 @@
             &lt;a href="/tags#transformation-ref"&gt;transformation &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
       &lt;div class="more"&gt;
@@ -226,10 +255,13 @@
     &lt;a href="/tags#blog-ref"&gt;blog &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#coding-ref"&gt;coding &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/tags#talk-ref"&gt;talk &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#coding-ref"&gt;coding &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/tags#organizations-ref"&gt;organizations &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
@@ -246,20 +278,22 @@
   &lt;li&gt;
     &lt;a href="/tags#transformation-ref"&gt;transformation &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
-  &lt;/li&gt;
 &lt;/ul&gt;
 
   &lt;h3 id="blog-ref"&gt;blog&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-03-27&lt;/small&gt; &lt;a href="/a-fresh-look-and-outlook"&gt;A fresh look and outlook&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
-  &lt;h3 id="coding-ref"&gt;coding&lt;/h3&gt;
+  &lt;h3 id="coaching-ref"&gt;coaching&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-04-21&lt;/small&gt; &lt;a href="/common-code-smells"&gt;Common code smells&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
-  &lt;h3 id="nugget-ref"&gt;nugget&lt;/h3&gt;
+  &lt;h3 id="talk-ref"&gt;talk&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="coding-ref"&gt;coding&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-04-21&lt;/small&gt; &lt;a href="/common-code-smells"&gt;Common code smells&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
@@ -281,10 +315,6 @@
     &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
   &lt;h3 id="transformation-ref"&gt;transformation&lt;/h3&gt;
-  &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3 id="coaching-ref"&gt;coaching&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;

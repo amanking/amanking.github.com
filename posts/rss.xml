@@ -3,7 +3,20 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-09 21:23:28 +0530</pubDate>
+    <pubDate>2013-12-09 21:55:11 +0530</pubDate>
+    <item>
+      <title>Agile India 2014</title>
+      <link>http://www.amanking.com/agile-india-2014</link>
+      <pubDate>2013-12-09</pubDate>
+      <description>&lt;p&gt;&lt;a href="http://2014.agileindia.org/"&gt;Agile India 2014&lt;/a&gt; is scheduled for 26th Feb - 1st Mar 2014 in Bangalore. My talk, &lt;a href="http://present.agileindia.org/proposal/16/from-practitioner-to-coach"&gt;From Practitioner to Coach&lt;/a&gt;, has been selected for the conference under the Scaling Agile track.&lt;/p&gt;
+
+&lt;p&gt;In support of the presentation, I will blog about various coaching-related topics here. Most of the posts will be short, and will be tagged as a &lt;em&gt;nugget&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m looking forward to the conference! It has an excellent line up of speakers and topics. Do check it out yourself.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://2014.agileindia.org/" target="_blank" title="I am speaking at Agile India 2014"&gt;&lt;img src="/assets/media/images/badges/speaker-agile-india-2014.png" title="I am speaking at Agile India 2014" alt="I am speaking at Agile India 2014"/&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Common code smells</title>
       <link>http://www.amanking.com/common-code-smells</link>
