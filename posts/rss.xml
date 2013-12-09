@@ -3,7 +3,34 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-10 00:16:31 +0530</pubDate>
+    <pubDate>2013-12-10 00:20:37 +0530</pubDate>
+    <item>
+      <title>Coaching Basics</title>
+      <link>http://www.amanking.com/coaching-basics</link>
+      <pubDate>2013-12-09</pubDate>
+      <description>&lt;p&gt;The term &lt;em&gt;Coaching&lt;/em&gt; is overloaded.&lt;/p&gt;
+
+&lt;p&gt;Comparatively, terms like &lt;em&gt;&lt;a href="http://www.refactoring.com/"&gt;Refactoring&lt;/a&gt;&lt;/em&gt; and &lt;em&gt;&lt;a href="http://c2.com/cgi/wiki?YouArentGonnaNeedIt"&gt;YAGNI&lt;/a&gt;&lt;/em&gt; are recently invented. But despite having had clear definitions to start with, these words still suffer from &lt;a href="http://martinfowler.com/bliki/RefactoringMalapropism.html"&gt;malapropism&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Coaching&lt;/em&gt; is a plain English word, around since ages. It is not surprising that its definition in the professional world remains open. This is evident from its &lt;a href="http://en.wikipedia.org/wiki/Coaching"&gt;Wikipedia page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;That said, there have been attempts to describe coaching better, acknowledging the wide spectrum it could cover, and yet putting some boundaries to it.&lt;/p&gt;
+
+&lt;p&gt;My personal view on the term is still evolving despite having played the Agile Coach role. So far I&amp;#39;ve kept it simple:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It is not classroom training; it is interpersonal; it creates awareness in individuals and teams; it is more about asking than telling.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Check these links for less &lt;em&gt;fuzzy&lt;/em&gt; definitions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.abdn.ac.uk/mgtskills/people/people2/people2-4/"&gt;Key elements of coaching&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://tle.tafevc.com.au/toolbox/file/44cc9067-a0f9-5e24-d9c7-67a5678d4aa9/1/10_04a.zip/toolbox/resources/res1050/res1050.htm"&gt;Coaching styles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.coachville.com/home/html/coaching_basics"&gt;Coaching skills&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     <item>
       <title>Agile India 2014</title>
       <link>http://www.amanking.com/agile-india-2014</link>
@@ -173,31 +200,6 @@
 &lt;p&gt;Exit mails make me think about what we hold dear in this much technical profession of ours. Yes, we appreciate our technology gurus. And we enjoy working with team members towards the common goal of client success. But most of all, we value the friends we make while accomplishing all this. I dedicate this post to such friends of mine.&lt;/p&gt;
 
 &lt;p&gt;Amongst software, teams, and individuals, when it comes to exit mail reactions, the priority order is reversed.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>A fresh look and outlook</title>
-      <link>http://www.amanking.com/a-fresh-look-and-outlook</link>
-      <pubDate>2013-03-27</pubDate>
-      <description>&lt;p&gt;I enjoy blogging: writing about my learnings and experiences, and what others may find useful. For many years, I hosted my blog at &lt;a href="http://www.wikyblog.com/AmanKing"&gt;WikyBlog&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;I blogged regularly during the early parts of my career. After a few years, the posts came in less frequently. This was not accidental. I consciously set off on a personal journey which was more inward-looking.&lt;/p&gt;
-
-&lt;p&gt;I now feel the need to blog again. But with a coming-of-age outlook. And a fresh &lt;em&gt;look&lt;/em&gt; to go with that.&lt;/p&gt;
-
-&lt;p&gt;I am hosting this blog on &lt;a href="http://pages.github.com/"&gt;Github Pages&lt;/a&gt;, powered by &lt;a href="https://github.com/amanking/ruhoh.rb"&gt;my fork&lt;/a&gt; of &lt;a href="http://ruhoh.com"&gt;ruhoh&lt;/a&gt;. It gives me a sense of control as I can create my own theme, and even code my own features.&lt;/p&gt;
-
-&lt;p&gt;This blog will capture my thoughts on &lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;software, &lt;/li&gt;
-&lt;li&gt;teams, and &lt;/li&gt;
-&lt;li&gt;individuals.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Each of these elements are independently worthy of attention. And when these come together, there is great potential to create something worthwhile.&lt;/p&gt;
-
-&lt;p&gt;I hope you will find my blog interesting. Keep visiting. I look forward to your thoughts via comments.&lt;/p&gt;
 </description>
     </item>
   </channel>

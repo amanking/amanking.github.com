@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-10 00:16:30 +0530</pubDate>
+    <pubDate>2013-12-10 00:20:36 +0530</pubDate>
     <item>
       <title>About Me</title>
       <link>http://www.amanking.com/about-me</link>
@@ -39,6 +39,47 @@
       <pubDate/>
       <description>  &lt;div class="post summary"&gt;
     &lt;div class="text"&gt;
+      &lt;h1 class="title"&gt;&lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/h1&gt;
+      &lt;div class="date muted"&gt;2013-12-09&lt;/div&gt;
+
+      &lt;div class="content"&gt;
+        &lt;div class="summary ellipsis"&gt;
+&lt;p&gt;The term &lt;em&gt;Coaching&lt;/em&gt; is overloaded.&lt;/p&gt;
+
+&lt;p&gt;Comparatively, terms like &lt;em&gt;&lt;a href="http://www.refactoring.com/"&gt;Refactoring&lt;/a&gt;&lt;/em&gt; and &lt;em&gt;&lt;a href="http://c2.com/cgi/wiki?YouArentGonnaNeedIt"&gt;YAGNI&lt;/a&gt;&lt;/em&gt; are recently invented. But despite having had clear definitions to start with, these words still suffer from &lt;a href="http://martinfowler.com/bliki/RefactoringMalapropism.html"&gt;malapropism&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Coaching&lt;/em&gt; is a plain English word, around since ages. It is not surprising that its definition in the professional world remains open. This is evident from its &lt;a href="http://en.wikipedia.org/wiki/Coaching"&gt;Wikipedia page&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;That said, there have been attempts to describe coaching better, acknowledging the wide spectrum it could cover, and yet putting some boundaries to it.&lt;/p&gt;
+
+&lt;p&gt;My personal view on the term is still evolving despite having played the Agile Coach role. So far I've kept it simple:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;It is not classroom training; it is interpersonal; it creates awareness in individuals and teams; it is more about asking than telling.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Check these links for less &lt;em&gt;fuzzy&lt;/em&gt; definitions:&lt;/p&gt;
+
+&lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="controls clearfix"&gt;
+      &lt;ul class="tag_box inline"&gt;
+        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/coaching-basics" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/coaching-basics#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="post summary"&gt;
+    &lt;div class="text"&gt;
       &lt;h1 class="title"&gt;&lt;a href="/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="date muted"&gt;2013-12-09&lt;/div&gt;
 
@@ -61,7 +102,7 @@
             &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#talk-ref"&gt;talk &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#talk-ref"&gt;talk &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
       &lt;div class="more"&gt;
@@ -258,7 +299,10 @@
     &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#talk-ref"&gt;talk &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/tags#talk-ref"&gt;talk &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/tags#coding-ref"&gt;coding &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
@@ -293,6 +337,9 @@
   &lt;h3 id="talk-ref"&gt;talk&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="nugget-ref"&gt;nugget&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
   &lt;h3 id="coding-ref"&gt;coding&lt;/h3&gt;
