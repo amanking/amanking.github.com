@@ -3,12 +3,13 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-10 00:40:45 +0530</pubDate>
+    <pubDate>2013-12-10 17:52:44 +0530</pubDate>
     <item>
       <title>About Me</title>
       <link>http://www.amanking.com/about-me</link>
       <pubDate/>
-      <description>&lt;p&gt;&lt;img alt="profile picture" src="/assets/media/images/about-me/aman-cover-photo.jpg" style="width: 100%; height: auto; margin: 0px auto 20px auto;"&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt="Aman King" src="/assets/media/images/about-me/aman-cover-photo.jpg" style="width: 100%; height: auto; margin: 0px auto 0px auto;"&gt;
+&lt;div class="muted" style="margin: -15px 0px 20px 0px; font-size: small;"&gt;Photo Credit: &lt;a href="http://fotografyc.com/about/"&gt;Akshay Dhavle&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
 
 &lt;p&gt;My name is &lt;strong&gt;Aman King&lt;/strong&gt;. I am a technologist at &lt;a href="http://www.thoughtworks.com"&gt;ThoughtWorks&lt;/a&gt;, working as Lead Consultant.&lt;/p&gt;
 
@@ -27,7 +28,6 @@
 &lt;li&gt;&lt;a href="http://bitbucket.org/amanking"&gt;BitBucket&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://github.com/amanking"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.slideshare.net/amanking"&gt;SlideShare&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://join.thoughtworks.com/profiles/aman-king"&gt;ThoughtWorks&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Email me at &lt;em&gt;my last name @ my full name dot com&lt;/em&gt;&lt;/p&gt;
