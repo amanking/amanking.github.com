@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-10 17:52:44 +0530</pubDate>
+    <pubDate>2013-12-13 01:07:39 +0530</pubDate>
     <item>
       <title>About Me</title>
       <link>http://www.amanking.com/about-me</link>
@@ -19,7 +19,11 @@
 
 &lt;p&gt;I also work for clients as an &lt;strong&gt;Agile Coach&lt;/strong&gt;. I have coached teams with sizes ranging from 7 to 30.&lt;/p&gt;
 
-&lt;p&gt;In addition to playing Tech Lead and Agile Coach, I spend time conducting trainings, speaking at conferences, writing on technical topics, and working on open source software.&lt;/p&gt;
+&lt;p&gt;In addition to playing Tech Lead and Agile Coach, I spend time conducting trainings, speaking at conferences, writing on technical topics, and working on &lt;strong&gt;open source software&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;My personal interests lie in code design, especially as influenced by OOP, TDD, and Refactoring. I wrote about this topic in a &lt;strong&gt;book&lt;/strong&gt; published by the Pragmatic Programmers, &lt;a href="http://pragprog.com/book/twa2/the-thoughtworks-anthology-volume-2"&gt;The ThoughtWorks Anthology, Volume 2&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Of late, I also tend to explore the motivations that drive improvement in individuals and teams.&lt;/p&gt;
 
 &lt;p&gt;Find me at:&lt;/p&gt;
 
