@@ -3,7 +3,41 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-15 01:16:03 +0530</pubDate>
+    <pubDate>2013-12-15 01:24:49 +0530</pubDate>
+    <item>
+      <title>Agile Coaching Engagements</title>
+      <link>http://www.amanking.com/agile-coaching-engagements</link>
+      <pubDate>2013-12-15</pubDate>
+      <description>&lt;p&gt;In Agile consulting, there can be different types of engagements that you get into with your client. One type of engagement may lead to another type. As an Agile Coach, you will find yourself participating across the board. Your focus areas will change based on what the engagement objectives are.&lt;/p&gt;
+
+&lt;p&gt;Here are the typical types of engagements I have encountered.&lt;/p&gt;
+
+&lt;h3 id="toc_0"&gt;Assessments&lt;/h3&gt;
+
+&lt;p&gt;Sometimes a team, a department, or an organization simply is not aware of where they stand with respect to Agile adoption. They need answers to questions like: &amp;quot;Will they benefit from Agile Coaching, or are there too many prerequisites missing? Tentatively for how long will they need coaching before achieving self-sustenance? What areas need the most focus on?&amp;quot; Answering such questions means at least 2-3 days of work, involving interviews, discovery workshops, first-hand observations, metrics collections, etc. This is then followed by summarization and recommendation in the form of an assessment report, which typically contains a proposed coaching plan.&lt;/p&gt;
+
+&lt;h3 id="toc_1"&gt;Pilot / Proof of Concept&lt;/h3&gt;
+
+&lt;p&gt;Despite Agile initiatives at an organization level, a department could have doubts about whether or not Agile would work for their specific context. In such cases, people agree to a Proof of Concept or Pilot, starting off with Agile Coaching with one selected team for a given duration of time, having a limited set of objectives. If the Pilot goes well, the department may agree to an overall Agile adoption. Coaches involved in a Pilot have to remain very conscious of how their time is spent, what activities they take up, and what focus areas to target, all the while keeping an eye out on measuring and showcasing benefits, even if small. Periodically they will send out progress reports, and finally wrap up the engagement with a summarization that highlights what worked and what did not work, challenges faced, and recommendations to overcome them. It is important to remind clients of what was decidedly out of scope. A Pilot could be anywhere between 2-8 weeks depending on the scope of objectives.&lt;/p&gt;
+
+&lt;h3 id="toc_2"&gt;Agile Adoption&lt;/h3&gt;
+
+&lt;p&gt;Agile Adoption primarily refers to teams picking up Agile practices and using them for productivity gains and quality improvements. These practices could be process related such as time-boxed iterations, iteration planning, estimation, stand ups, and so on. Or these could be engineering related such as Test-driven Development, Refactoring, Continuous Integration, functional test automation, etc. However, it is established in most circles that Agile is more of a mindset than a set of processes and practices. That said, the latter helps teams try out well-described techniques that may be new to them, and possibly with time and guidance, they are able to see the short-term and long-term benefits behind the practices. Once teams reach this competency level, they are better placed to recognize and embrace the mindset change. This is what the Agile Coach will focus on: helping teams adopt certain practices, and gain higher skill levels in those, while also gradually guiding them towards the reasoning and benefits behind the practices. Tracking the team&amp;#39;s progress, checking for any drop in adoption after an initial spike, and continued efforts at sustenance, are also some of the key areas an Agile Coach looks into. Agile Adoption generally takes time, with some factors being team size, project complexity, and attitude and capabilities of team members. An Agile Coach will typically end up coaching multiple teams. Such an engagement can easily range from 2 months to a year.&lt;/p&gt;
+
+&lt;h3 id="toc_3"&gt;Agile Transformation&lt;/h3&gt;
+
+&lt;p&gt;Having had success with Agile Adoption, an organization may chose to embrace Agile completely across all of its departments and teams. This is Agile Transformation. It is typically organization-wide, spread horizontally as well as vertically. The focus shifts very visibly from processes and practices to mindset and culture. For it to be successful, common vision and buy-in are needed from all levels in the organization and across all departments. This will even include aspects such as IT policies, Recruitment, Performance Reviews, etc. An Agile consultant will end up focusing almost solely on strategic discussion and planning, with a lot of support from continued tactical coaching, either internal or external, at team levels. Such engagements are seen less frequently and are definitely long-term, easily spanning more than a year.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+For a further exploration of such topics, you can consider:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.infoq.com/minibooks/agile-adoption-transformation"&gt;Michael Sahota&amp;#39;s book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.agilealliance.org/programs/supporting-agile-adoption-it-is-about-change/"&gt;Agile Alliance documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://martinfowler.com/tags/agile%20adoption.html"&gt;Martin Fowler&amp;#39;s bliki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     <item>
       <title>Agile Coaching Roles</title>
       <link>http://www.amanking.com/agile-coaching-roles</link>
@@ -35,40 +69,6 @@ In most cases, a single Agile Coach on an engagement will touch upon all of the 
 &lt;li&gt;&lt;a href="http://www.agilecoachinginstitute.com/agile-competency-whitepaper/"&gt;Agile Coaching Competencies&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://blogs.agilefaqs.com/2013/07/21/how-coaching-is-different-from-training-mentoring-counseling-and-consulting"&gt;Comparison of Coaching, Training, Mentoring, Consulting&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley-ebook/dp/B003QP47YG/"&gt;Coaching Agile Teams&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
-      <title>Agile Coaching Engagements</title>
-      <link>http://www.amanking.com/agile-coaching-engagements</link>
-      <pubDate>2013-12-14</pubDate>
-      <description>&lt;p&gt;In Agile consulting, there can be different types of engagements that you get into with your client. One type of engagement may lead to another type. As an Agile Coach, you will find yourself participating across the board. Your focus areas will change based on what the engagement objectives are.&lt;/p&gt;
-
-&lt;p&gt;Here are the typical types of engagements I have encountered.&lt;/p&gt;
-
-&lt;h3 id="toc_0"&gt;Assessments&lt;/h3&gt;
-
-&lt;p&gt;Sometimes a team, a department, or an organization simply is not aware of where they stand with respect to Agile adoption. They need answers to questions like: &amp;quot;Will they benefit from Agile Coaching, or are there too many prerequisites missing? Tentatively for how long will they need coaching before achieving self-sustenance? What areas need the most focus on?&amp;quot; Answering such questions means at least 2-3 days of work, involving interviews, discovery workshops, first-hand observations, metrics collections, etc. This is then followed by summarization and recommendation in the form of an assessment report, which typically contains a proposed coaching plan.&lt;/p&gt;
-
-&lt;h3 id="toc_1"&gt;Pilot / Proof of Concept&lt;/h3&gt;
-
-&lt;p&gt;Despite Agile initiatives at an organization level, a department could have doubts about whether or not Agile would work for their specific context. In such cases, people agree to a Proof of Concept or Pilot, starting off with Agile Coaching with one selected team for a given duration of time, having a limited set of objectives. If the Pilot goes well, the department may agree to an overall Agile adoption. Coaches involved in a Pilot have to remain very conscious of how their time is spent, what activities they take up, and what focus areas to target, all the while keeping an eye out on measuring and showcasing benefits, even if small. Periodically they will send out progress reports, and finally wrap up the engagement with a summarization that highlights what worked and what did not work, challenges faced, and recommendations to overcome them. It is important to remind clients of what was decidedly out of scope. A Pilot could be anywhere between 2-8 weeks depending on the scope of objectives.&lt;/p&gt;
-
-&lt;h3 id="toc_2"&gt;Agile Adoption&lt;/h3&gt;
-
-&lt;p&gt;Agile Adoption primarily refers to teams picking up Agile practices and using them for productivity gains and quality improvements. These practices could be process related such as time-boxed iterations, iteration planning, estimation, stand ups, and so on. Or these could be engineering related such as Test-driven Development, Refactoring, Continuous Integration, functional test automation, etc. However, it is established in most circles that Agile is more of a mindset than a set of processes and practices. That said, the latter helps teams try out well-described techniques that may be new to them, and possibly with time and guidance, they are able to see the short-term and long-term benefits behind the practices. Once teams reach this competency level, they are better placed to recognize and embrace the mindset change. This is what the Agile Coach will focus on: helping teams adopt certain practices, and gain higher skill levels in those, while also gradually guiding them towards the reasoning and benefits behind the practices. Tracking the team&amp;#39;s progress, checking for any drop in adoption after an initial spike, and continued efforts at sustenance, are also some of the key areas an Agile Coach looks into. Agile Adoption generally takes time, with some factors being team size, project complexity, and attitude and capabilities of team members. An Agile Coach will typically end up coaching multiple teams. Such an engagement can easily range from 2 months to a year.&lt;/p&gt;
-
-&lt;h3 id="toc_3"&gt;Agile Transformation&lt;/h3&gt;
-
-&lt;p&gt;Having had success with Agile Adoption, an organization may chose to embrace Agile completely across all of its departments and teams. This is Agile Transformation. It is typically organization-wide, spread horizontally as well as vertically. The focus shifts very visibly from processes and practices to mindset and culture. For it to be successful, common vision and buy-in are needed from all levels in the organization and across all departments. This will even include aspects such as IT policies, Recruitment, Performance Reviews, etc. An Agile consultant will end up focusing almost solely on strategic discussion and planning, with a lot of support from continued tactical coaching, either internal or external, at team levels. Such engagements are seen less frequently and are definitely long-term, easily spanning more than a year.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-For a further exploration of such topics, you can consider:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.infoq.com/minibooks/agile-adoption-transformation"&gt;Michael Sahota&amp;#39;s book&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.agilealliance.org/programs/supporting-agile-adoption-it-is-about-change/"&gt;Agile Alliance documents&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://martinfowler.com/tags/agile%20adoption.html"&gt;Martin Fowler&amp;#39;s bliki&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
