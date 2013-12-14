@@ -3,7 +3,41 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-14 20:13:35 +0530</pubDate>
+    <pubDate>2013-12-15 00:08:09 +0530</pubDate>
+    <item>
+      <title>Agile Coaching Roles</title>
+      <link>http://www.amanking.com/agile-coaching-roles</link>
+      <pubDate>2013-12-14</pubDate>
+      <description>&lt;p&gt;To me, &lt;a href="/coaching-basics"&gt;Coaching&lt;/a&gt; is about getting the most out of individuals or teams by raising their awareness levels, about their current environment, about the environment outside theirs, and most important of all, about their own potential. This is done mostly by asking them the right questions, and not by providing them ready-made answers.&lt;/p&gt;
+
+&lt;p&gt;My definition of an &lt;em&gt;Agile Coach&lt;/em&gt;, on the other hand, is less restrictive. As an Agile Coach, coaching is my primary &lt;em&gt;modus operandi&lt;/em&gt;. But there are times when I make recommendations based on my practitioner background. I also complement coaching with aspects of mentoring and training. For example, relating personal experiences and sharing useful resources can increase someone&amp;#39;s curiosity and give them a clear direction. Conducting a workshop can help kickstart a group on practices like TDD and Refactoring.&lt;/p&gt;
+
+&lt;p&gt;Even within the scope of Agile Coaching, I have been exposed to a variety of roles.&lt;/p&gt;
+
+&lt;h3 id="toc_0"&gt;Role-based Practices Coaching&lt;/h3&gt;
+
+&lt;p&gt;An Agile Coach helps team members understand their roles in an Agile setting. This involves skills-building. You may join a team as a single cross-skilled coach or as a trio of role-specific coaches: a Tech Coach, a QA Coach, and a BA Coach. With Developers, a coach will pair actively to spread practices like TDD, Refactoring, CI, etc, and will run workshops and brown bag sessions. With Testers, a coach could cover creating test scenarios from acceptance criteria, automated testing, test pyramid, and so on. For Business Analysts or Product Owners, the focus will be on prioritization exercises, negotiation skills, story writing, story slicing, determining NFRs, etc.&lt;/p&gt;
+
+&lt;h3 id="toc_1"&gt;Process Coaching&lt;/h3&gt;
+
+&lt;p&gt;While focusing on role-specific skills and practices is important, some teams may need help in determining what process works for them, adapting them over time, and so on. This could involve defining how each role contributes to the process, and also in general, how the entire team collaborates and focuses on improvement. Having effective stand ups, planning meetings, demos, and retrospectives fall under this. Other aspects could involve helping the team determine some metrics to observe and improve. Eg: pairing matrix, confidence meter, build failures in a day, velocity, cycle time, etc.&lt;/p&gt;
+
+&lt;h3 id="toc_2"&gt;Leadership Coaching&lt;/h3&gt;
+
+&lt;p&gt;At times, it is not only team members who need coaching, but their leadership as well. These may include the Team Lead, the Project Manager, the Architect Head, the Programme Manager, the Department Head, and so on. The conversation topics are usually broader level and strategic, such as prioritization of teams for Agile adoption, facilitating empowered teams, investing in appropriate infrastructure or continuous delivery initiatives, reducing overhead in IT policies, identifying improvements in architecture and ecosystem, etc.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+In most cases, a single Agile Coach on an engagement will touch upon all of the above but to varying degrees. It will be a factor of the company culture, need of the hour, and personal motivations of the people involved.&lt;/p&gt;
+
+&lt;p&gt;The following provide further insights:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.agilecoachinginstitute.com/agile-competency-whitepaper/"&gt;Agile Coaching Competencies&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blogs.agilefaqs.com/2013/07/21/how-coaching-is-different-from-training-mentoring-counseling-and-consulting"&gt;Comparison of Coaching, Training, Mentoring, Consulting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley-ebook/dp/B003QP47YG/"&gt;Coaching Agile Teams&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     <item>
       <title>Coaching Basics</title>
       <link>http://www.amanking.com/coaching-basics</link>
@@ -178,28 +212,6 @@
 &lt;p&gt;The above is an over-simplification that highlights the basic tenets of this strategy. Creating capable internal coaches will be more difficult in some teams than others. It will also not happen overnight. Sometimes even good internal coaches do not have enough experience to guide teams under difficult circumstances. A structured support system is needed for such an initiative to be successful.&lt;/p&gt;
 
 &lt;p&gt;We will go deeper into these details in subsequent articles. Until then, stay tuned!&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Exit mail</title>
-      <link>http://www.amanking.com/exit-mail</link>
-      <pubDate>2013-03-31</pubDate>
-      <description>&lt;p&gt;No, this is not &lt;em&gt;my&lt;/em&gt; exit mail. But a post about a reality in any organization: the &lt;strong&gt;exit mail&lt;/strong&gt; that appears in our inbox occasionally.&lt;/p&gt;
-
-&lt;p&gt;People have their reasons to quit a company. Even a company like &lt;a href="http://www.thoughtworks.com"&gt;ThoughtWorks&lt;/a&gt;. Not always an easy decision. But to each his own. This post is not about the reasons behind the exit mail but about how its readers react.&lt;/p&gt;
-
-&lt;p&gt;Thinking about my reactions, I can tie them to the kind of person leaving:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Unfamiliar:&lt;/strong&gt; With over 2000 ThoughtWorkers, there are bound to be exit mails from people I do not know. I skim through the first paragraph to get a brief background (how long in ThoughtWorks, which location, reason for leaving). If the writing is witty, I might read till the end. Else &lt;em&gt;delete.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Respected:&lt;/strong&gt; These are the exit mails that make me look twice. I would know the person or know about the person. From working with them, or conversing with them, or reading their forum posts, or simply having heard praises about them from others. These people are opinionated, talented, experienced, and natural leaders in the ways we develop software. These mails get &lt;em&gt;archived.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Team member:&lt;/strong&gt; These exit mails always get a &lt;em&gt;reply&lt;/em&gt; from me. Having worked with someone, you develop a rapport, some mutual respect, and, on occasion, a camaraderie. How I feel about a team member can vary in degree, and a good measure of that is the effect their exit mail has on me.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Friend:&lt;/strong&gt; Such an exit mail &lt;em&gt;hurts.&lt;/em&gt; Most times I can anticipate its arrival because the person would keep me informed (it still hurts). Sometimes it can be a shock, if the decision was kept personal for whatever reason. But irrespective, it is a mail I dread. It is hardest to say goodbye to a friend. Each of these mails feels like one lost reason to come to office. But we move on. We have to. And we wish our friends well in their journey ahead.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Exit mails make me think about what we hold dear in this much technical profession of ours. Yes, we appreciate our technology gurus. And we enjoy working with team members towards the common goal of client success. But most of all, we value the friends we make while accomplishing all this. I dedicate this post to such friends of mine.&lt;/p&gt;
-
-&lt;p&gt;Amongst software, teams, and individuals, when it comes to exit mail reactions, the priority order is reversed.&lt;/p&gt;
 </description>
     </item>
   </channel>

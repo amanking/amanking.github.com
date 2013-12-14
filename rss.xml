@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-14 20:13:33 +0530</pubDate>
+    <pubDate>2013-12-15 00:08:08 +0530</pubDate>
     <item>
       <title>About Me</title>
       <link>http://www.amanking.com/about-me</link>
@@ -42,12 +42,62 @@
       <link>http://www.amanking.com/</link>
       <pubDate/>
       <description>  &lt;div class="post summary"&gt;
-    &lt;div class="text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/h1&gt;
-      &lt;div class="date muted"&gt;2013-12-09&lt;/div&gt;
+    &lt;div class="page-header text"&gt;
+      &lt;h1 class="title"&gt;&lt;a href="/agile-coaching-roles"&gt;Agile Coaching Roles&lt;/a&gt;&lt;/h1&gt;
+      &lt;div class="muted"&gt;
+        &lt;span&gt;2013-12-14&lt;/strong&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="post-full"&gt;
+      &lt;div class="text"&gt;
+        &lt;div class="content"&gt;
+          &lt;div class="summary ellipsis"&gt;
+&lt;p&gt;To me, &lt;a href="/coaching-basics"&gt;Coaching&lt;/a&gt; is about getting the most out of individuals or teams by raising their awareness levels, about their current environment, about the environment outside theirs, and most important of all, about their own potential. This is done mostly by asking them the right questions, and not by providing them ready-made answers.&lt;/p&gt;
 
-      &lt;div class="content"&gt;
-        &lt;div class="summary ellipsis"&gt;
+&lt;p&gt;My definition of an &lt;em&gt;Agile Coach&lt;/em&gt;, on the other hand, is less restrictive. As an Agile Coach, coaching is my primary &lt;em&gt;modus operandi&lt;/em&gt;. But there are times when I make recommendations based on my practitioner background. I also complement coaching with aspects of mentoring and training. For example, relating personal experiences and sharing useful resources can increase someone's curiosity and give them a clear direction. Conducting a workshop can help kickstart a group on practices like TDD and Refactoring.&lt;/p&gt;
+
+&lt;p&gt;Even within the scope of Agile Coaching, I have been exposed to a variety of roles.&lt;/p&gt;
+
+&lt;h3 id="toc_0"&gt;Role-based Practices Coaching&lt;/h3&gt;
+
+&lt;p&gt;An Agile Coach helps team members understand their roles in an Agile setting. This involves skills-building. You may join a team as a single cross-skilled coach or as a trio of role-specific coaches: a Tech Coach, a QA Coach, and a BA Coach. With Developers, a coach will pair actively to spread practices like TDD, Refactoring, CI, etc, and will run workshops and brown bag sessions. With Testers, a coach could cover creating test scenarios from acceptance criteria, automated testing, test pyramid, and so on. For Business Analysts or Product Owners, the focus will be on prioritization exercises, negotiation skills, story writing, story slicing, determining NFRs, etc.&lt;/p&gt;
+
+&lt;h3 id="toc_1"&gt;Process Coaching&lt;/h3&gt;
+
+&lt;p&gt;While focusing on role-specific skills and practices is important, some teams may need help in determining what process works for them, adapting them over time, and so on. This could involve defining how each role contributes to the process, and also in general, how the entire team collaborates and focuses on improvement. Having effective stand ups, planning meetings, demos, and retrospectives fall under this. Other aspects could involve helping the team determine some metrics to observe and improve. Eg: pairing matrix, confidence meter, build failures in a day, velocity, cycle time, etc.&lt;/p&gt;
+
+&lt;h3 id="toc_2"&gt;Leadership Coaching&lt;/h3&gt;
+
+&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="controls clearfix"&gt;
+      &lt;ul class="tag_box inline"&gt;
+        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;5&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/agile-coaching-roles" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/agile-coaching-roles#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="post summary"&gt;
+    &lt;div class="page-header text"&gt;
+      &lt;h1 class="title"&gt;&lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/h1&gt;
+      &lt;div class="muted"&gt;
+        &lt;span&gt;2013-12-09&lt;/strong&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="post-full"&gt;
+      &lt;div class="text"&gt;
+        &lt;div class="content"&gt;
+          &lt;div class="summary ellipsis"&gt;
 &lt;p&gt;The term &lt;em&gt;Coaching&lt;/em&gt; is overloaded.&lt;/p&gt;
 
 &lt;p&gt;Comparatively, terms like &lt;em&gt;&lt;a href="http://www.refactoring.com/"&gt;Refactoring&lt;/a&gt;&lt;/em&gt; and &lt;em&gt;&lt;a href="http://c2.com/cgi/wiki?YouArentGonnaNeedIt"&gt;YAGNI&lt;/a&gt;&lt;/em&gt; are recently invented. But despite having had clear definitions to start with, these words still suffer from &lt;a href="http://martinfowler.com/bliki/RefactoringMalapropism.html"&gt;malapropism&lt;/a&gt;.&lt;/p&gt;
@@ -65,16 +115,17 @@
 &lt;p&gt;Check these links for less &lt;em&gt;fuzzy&lt;/em&gt; definitions:&lt;/p&gt;
 
 &lt;/div&gt;
+        &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;5&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
       &lt;div class="more"&gt;
@@ -83,12 +134,16 @@
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
-    &lt;div class="text"&gt;
+    &lt;div class="page-header text"&gt;
       &lt;h1 class="title"&gt;&lt;a href="/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/h1&gt;
-      &lt;div class="date muted"&gt;2013-12-09&lt;/div&gt;
-
-      &lt;div class="content"&gt;
-        &lt;div class="summary"&gt;
+      &lt;div class="muted"&gt;
+        &lt;span&gt;2013-12-09&lt;/strong&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="post-full"&gt;
+      &lt;div class="text"&gt;
+        &lt;div class="content"&gt;
+          &lt;div class="summary"&gt;
 &lt;p&gt;&lt;a href="http://2014.agileindia.org/"&gt;Agile India 2014&lt;/a&gt; is scheduled for 26th Feb - 1st Mar 2014 in Bangalore. My talk, &lt;a href="http://present.agileindia.org/proposal/16/from-practitioner-to-coach"&gt;From Practitioner to Coach&lt;/a&gt;, has been selected for the conference under the Scaling Agile track.&lt;/p&gt;
 
 &lt;p&gt;In support of the presentation, I will blog about various coaching-related topics here. Most of the posts will be short, and will be tagged as a &lt;em&gt;nugget&lt;/em&gt;.&lt;/p&gt;
@@ -97,13 +152,14 @@
 
 &lt;p&gt;&lt;a href="http://2014.agileindia.org/" target="_blank" title="I am speaking at Agile India 2014"&gt;&lt;img src="/assets/media/images/badges/speaker-agile-india-2014.png" title="I am speaking at Agile India 2014" alt="I am speaking at Agile India 2014"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
+        &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;5&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
             &lt;a href="/tags#talk-ref"&gt;talk &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
@@ -115,12 +171,16 @@
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
-    &lt;div class="text"&gt;
+    &lt;div class="page-header text"&gt;
       &lt;h1 class="title"&gt;&lt;a href="/common-code-smells"&gt;Common code smells&lt;/a&gt;&lt;/h1&gt;
-      &lt;div class="date muted"&gt;2013-04-21&lt;/div&gt;
-
-      &lt;div class="content"&gt;
-        &lt;div class="summary ellipsis"&gt;
+      &lt;div class="muted"&gt;
+        &lt;span&gt;2013-04-21&lt;/strong&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="post-full"&gt;
+      &lt;div class="text"&gt;
+        &lt;div class="content"&gt;
+          &lt;div class="summary ellipsis"&gt;
 &lt;p&gt;I have worked on multiple systems written in object-oriented languages. Time and again, I encounter common code smells. What is curious is that these smells are observable not only in legacy&lt;small&gt;&lt;sup&gt;[1]&lt;/sup&gt;&lt;/small&gt; systems but also in well-intentioned greenfield&lt;small&gt;&lt;sup&gt;[2]&lt;/sup&gt;&lt;/small&gt; projects.&lt;/p&gt;
 
 &lt;p&gt;One could ascribe these to the developers not knowing any better, or possibly to a more common reason, &lt;a href="http://martinfowler.com/bliki/TechnicalDebt.html"&gt;Technical Debt&lt;/a&gt;.&lt;/p&gt;
@@ -145,6 +205,7 @@
 &lt;li&gt;Using language features or core APIs like &lt;code&gt;Collections.emptyList()&lt;/code&gt; wrongly&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+        &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
@@ -160,12 +221,16 @@
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
-    &lt;div class="text"&gt;
+    &lt;div class="page-header text"&gt;
       &lt;h1 class="title"&gt;&lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/h1&gt;
-      &lt;div class="date muted"&gt;2013-04-03&lt;/div&gt;
-
-      &lt;div class="content"&gt;
-        &lt;div class="summary ellipsis"&gt;
+      &lt;div class="muted"&gt;
+        &lt;span&gt;2013-04-03&lt;/strong&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="post-full"&gt;
+      &lt;div class="text"&gt;
+        &lt;div class="content"&gt;
+          &lt;div class="summary ellipsis"&gt;
 &lt;p&gt;For an organization to be successful at Agile transformation, one aspect that needs attention is self-sustenance. Having external coaches is useful as they bring in experience and a third-party perspective. Over time though, it makes sense to groom internal Agile practitioners as Agile champions, who can spread the mindset and practices further.&lt;/p&gt;
 
 &lt;p&gt;Transitioning from a practitioner to a coach is non-trivial. The organization should look out for certain characteristics in individuals to identify potential coaches, and follow that up by providing support to prepare them for the role. In a series of articles, we will delve into each of these aspects.&lt;/p&gt;
@@ -183,6 +248,7 @@
 &lt;p&gt;The above is indicative of the skills, mindset, and experiences picked up by team members. On the ground, not every team member will reach the same level at the same time, and while many may progress as practitioners, they may not make good coaches. Coaching does not come naturally to everyone, not even to long-time practitioners. One needs certain qualities and skills that require further grooming. We will talk about this in more detail later. For now let us assume we can get good coaches out of a coached team.&lt;/p&gt;
 
 &lt;/div&gt;
+        &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
@@ -198,7 +264,7 @@
             &lt;a href="/tags#transformation-ref"&gt;transformation &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;5&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
       &lt;div class="more"&gt;
@@ -207,12 +273,16 @@
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
-    &lt;div class="text"&gt;
+    &lt;div class="page-header text"&gt;
       &lt;h1 class="title"&gt;&lt;a href="/exit-mail"&gt;Exit mail&lt;/a&gt;&lt;/h1&gt;
-      &lt;div class="date muted"&gt;2013-03-31&lt;/div&gt;
-
-      &lt;div class="content"&gt;
-        &lt;div class="summary"&gt;
+      &lt;div class="muted"&gt;
+        &lt;span&gt;2013-03-31&lt;/strong&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="post-full"&gt;
+      &lt;div class="text"&gt;
+        &lt;div class="content"&gt;
+          &lt;div class="summary"&gt;
 &lt;p&gt;No, this is not &lt;em&gt;my&lt;/em&gt; exit mail. But a post about a reality in any organization: the &lt;strong&gt;exit mail&lt;/strong&gt; that appears in our inbox occasionally.&lt;/p&gt;
 
 &lt;p&gt;People have their reasons to quit a company. Even a company like &lt;a href="http://www.thoughtworks.com"&gt;ThoughtWorks&lt;/a&gt;. Not always an easy decision. But to each his own. This post is not about the reasons behind the exit mail but about how its readers react.&lt;/p&gt;
@@ -229,6 +299,7 @@
 
 &lt;p&gt;Amongst software, teams, and individuals, when it comes to exit mail reactions, the priority order is reversed.&lt;/p&gt;
 &lt;/div&gt;
+        &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
@@ -250,12 +321,16 @@
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
-    &lt;div class="text"&gt;
+    &lt;div class="page-header text"&gt;
       &lt;h1 class="title"&gt;&lt;a href="/a-fresh-look-and-outlook"&gt;A fresh look and outlook&lt;/a&gt;&lt;/h1&gt;
-      &lt;div class="date muted"&gt;2013-03-27&lt;/div&gt;
-
-      &lt;div class="content"&gt;
-        &lt;div class="summary"&gt;
+      &lt;div class="muted"&gt;
+        &lt;span&gt;2013-03-27&lt;/strong&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="post-full"&gt;
+      &lt;div class="text"&gt;
+        &lt;div class="content"&gt;
+          &lt;div class="summary"&gt;
 &lt;p&gt;I enjoy blogging: writing about my learnings and experiences, and what others may find useful. For many years, I hosted my blog at &lt;a href="http://www.wikyblog.com/AmanKing"&gt;WikyBlog&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I blogged regularly during the early parts of my career. After a few years, the posts came in less frequently. This was not accidental. I consciously set off on a personal journey which was more inward-looking.&lt;/p&gt;
@@ -275,6 +350,7 @@
 
 &lt;p&gt;I hope you will find my blog interesting. Keep visiting. I look forward to your thoughts via comments.&lt;/p&gt;
 &lt;/div&gt;
+        &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
@@ -300,13 +376,13 @@
     &lt;a href="/tags#blog-ref"&gt;blog &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;5&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/tags#talk-ref"&gt;talk &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/tags#coding-ref"&gt;coding &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
@@ -334,17 +410,21 @@
   &lt;/ul&gt;
   &lt;h3 id="coaching-ref"&gt;coaching&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-14&lt;/small&gt; &lt;a href="/agile-coaching-roles"&gt;Agile Coaching Roles&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-14&lt;/small&gt; &lt;a href="/agile-coaching-engagements"&gt;Agile Coaching Engagements&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="nugget-ref"&gt;nugget&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-14&lt;/small&gt; &lt;a href="/agile-coaching-roles"&gt;Agile Coaching Roles&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-14&lt;/small&gt; &lt;a href="/agile-coaching-engagements"&gt;Agile Coaching Engagements&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
   &lt;h3 id="talk-ref"&gt;talk&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3 id="nugget-ref"&gt;nugget&lt;/h3&gt;
-  &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
   &lt;h3 id="coding-ref"&gt;coding&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
