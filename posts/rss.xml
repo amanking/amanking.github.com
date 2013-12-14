@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-15 00:11:02 +0530</pubDate>
+    <pubDate>2013-12-15 01:16:03 +0530</pubDate>
     <item>
       <title>Agile Coaching Roles</title>
       <link>http://www.amanking.com/agile-coaching-roles</link>
@@ -35,6 +35,40 @@ In most cases, a single Agile Coach on an engagement will touch upon all of the 
 &lt;li&gt;&lt;a href="http://www.agilecoachinginstitute.com/agile-competency-whitepaper/"&gt;Agile Coaching Competencies&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://blogs.agilefaqs.com/2013/07/21/how-coaching-is-different-from-training-mentoring-counseling-and-consulting"&gt;Comparison of Coaching, Training, Mentoring, Consulting&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley-ebook/dp/B003QP47YG/"&gt;Coaching Agile Teams&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Agile Coaching Engagements</title>
+      <link>http://www.amanking.com/agile-coaching-engagements</link>
+      <pubDate>2013-12-14</pubDate>
+      <description>&lt;p&gt;In Agile consulting, there can be different types of engagements that you get into with your client. One type of engagement may lead to another type. As an Agile Coach, you will find yourself participating across the board. Your focus areas will change based on what the engagement objectives are.&lt;/p&gt;
+
+&lt;p&gt;Here are the typical types of engagements I have encountered.&lt;/p&gt;
+
+&lt;h3 id="toc_0"&gt;Assessments&lt;/h3&gt;
+
+&lt;p&gt;Sometimes a team, a department, or an organization simply is not aware of where they stand with respect to Agile adoption. They need answers to questions like: &amp;quot;Will they benefit from Agile Coaching, or are there too many prerequisites missing? Tentatively for how long will they need coaching before achieving self-sustenance? What areas need the most focus on?&amp;quot; Answering such questions means at least 2-3 days of work, involving interviews, discovery workshops, first-hand observations, metrics collections, etc. This is then followed by summarization and recommendation in the form of an assessment report, which typically contains a proposed coaching plan.&lt;/p&gt;
+
+&lt;h3 id="toc_1"&gt;Pilot / Proof of Concept&lt;/h3&gt;
+
+&lt;p&gt;Despite Agile initiatives at an organization level, a department could have doubts about whether or not Agile would work for their specific context. In such cases, people agree to a Proof of Concept or Pilot, starting off with Agile Coaching with one selected team for a given duration of time, having a limited set of objectives. If the Pilot goes well, the department may agree to an overall Agile adoption. Coaches involved in a Pilot have to remain very conscious of how their time is spent, what activities they take up, and what focus areas to target, all the while keeping an eye out on measuring and showcasing benefits, even if small. Periodically they will send out progress reports, and finally wrap up the engagement with a summarization that highlights what worked and what did not work, challenges faced, and recommendations to overcome them. It is important to remind clients of what was decidedly out of scope. A Pilot could be anywhere between 2-8 weeks depending on the scope of objectives.&lt;/p&gt;
+
+&lt;h3 id="toc_2"&gt;Agile Adoption&lt;/h3&gt;
+
+&lt;p&gt;Agile Adoption primarily refers to teams picking up Agile practices and using them for productivity gains and quality improvements. These practices could be process related such as time-boxed iterations, iteration planning, estimation, stand ups, and so on. Or these could be engineering related such as Test-driven Development, Refactoring, Continuous Integration, functional test automation, etc. However, it is established in most circles that Agile is more of a mindset than a set of processes and practices. That said, the latter helps teams try out well-described techniques that may be new to them, and possibly with time and guidance, they are able to see the short-term and long-term benefits behind the practices. Once teams reach this competency level, they are better placed to recognize and embrace the mindset change. This is what the Agile Coach will focus on: helping teams adopt certain practices, and gain higher skill levels in those, while also gradually guiding them towards the reasoning and benefits behind the practices. Tracking the team&amp;#39;s progress, checking for any drop in adoption after an initial spike, and continued efforts at sustenance, are also some of the key areas an Agile Coach looks into. Agile Adoption generally takes time, with some factors being team size, project complexity, and attitude and capabilities of team members. An Agile Coach will typically end up coaching multiple teams. Such an engagement can easily range from 2 months to a year.&lt;/p&gt;
+
+&lt;h3 id="toc_3"&gt;Agile Transformation&lt;/h3&gt;
+
+&lt;p&gt;Having had success with Agile Adoption, an organization may chose to embrace Agile completely across all of its departments and teams. This is Agile Transformation. It is typically organization-wide, spread horizontally as well as vertically. The focus shifts very visibly from processes and practices to mindset and culture. For it to be successful, common vision and buy-in are needed from all levels in the organization and across all departments. This will even include aspects such as IT policies, Recruitment, Performance Reviews, etc. An Agile consultant will end up focusing almost solely on strategic discussion and planning, with a lot of support from continued tactical coaching, either internal or external, at team levels. Such engagements are seen less frequently and are definitely long-term, easily spanning more than a year.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+For a further exploration of such topics, you can consider:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.infoq.com/minibooks/agile-adoption-transformation"&gt;Michael Sahota&amp;#39;s book&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.agilealliance.org/programs/supporting-agile-adoption-it-is-about-change/"&gt;Agile Alliance documents&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://martinfowler.com/tags/agile%20adoption.html"&gt;Martin Fowler&amp;#39;s bliki&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -135,83 +169,6 @@ In most cases, a single Agile Coach on an engagement will touch upon all of the 
 
 &lt;p&gt;[2] I will use &amp;quot;greenfield&amp;quot; to mean systems that are written in recent times. They run on newer technologies, using frameworks for MVC, ORM, IoC, etc. I will assume that the developers are aware of clean code practices and do unit testing, perhaps even TDD along with refactoring.
 &lt;/small&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>From Practitioner to Coach - I</title>
-      <link>http://www.amanking.com/from-practitioner-to-coach-i</link>
-      <pubDate>2013-04-03</pubDate>
-      <description>&lt;p&gt;For an organization to be successful at Agile transformation, one aspect that needs attention is self-sustenance. Having external coaches is useful as they bring in experience and a third-party perspective. Over time though, it makes sense to groom internal Agile practitioners as Agile champions, who can spread the mindset and practices further.&lt;/p&gt;
-
-&lt;p&gt;Transitioning from a practitioner to a coach is non-trivial. The organization should look out for certain characteristics in individuals to identify potential coaches, and follow that up by providing support to prepare them for the role. In a series of articles, we will delve into each of these aspects.&lt;/p&gt;
-
-&lt;p&gt;First off, let us establish practitioner-to-coach transition as an effective strategy for Agile transformation.&lt;/p&gt;
-
-&lt;h2 id="toc_0"&gt;&lt;em&gt;When do we know we are done?&lt;/em&gt;&lt;/h2&gt;
-
-&lt;p&gt;This is a difficult question to answer at the onset of any Agile enablement undertaking. Some answers rely on metrics, measuring how the coached teams have progressed in those. A more subjective answer, but perhaps more relevant, relies on people:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;We are done coaching a team when team members are capable of coaching others.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The above is indicative of the skills, mindset, and experiences picked up by team members. On the ground, not every team member will reach the same level at the same time, and while many may progress as practitioners, they may not make good coaches. Coaching does not come naturally to everyone, not even to long-time practitioners. One needs certain qualities and skills that require further grooming. We will talk about this in more detail later. For now let us assume we can get good coaches out of a coached team.&lt;/p&gt;
-
-&lt;h2 id="toc_1"&gt;&lt;em&gt;How can producing internal coaches benefit Agile transformation?&lt;/em&gt;&lt;/h2&gt;
-
-&lt;p&gt;Here is a simple illustration.&lt;/p&gt;
-
-&lt;p&gt;FakeFincorp Ltd is an organization looking at Agile transformation. They have multiple co-located teams. They hire an Agile Coach, named &lt;span style="color:orange"&gt;Jake&lt;/span&gt;, to help them on their Agile journey.&lt;/p&gt;
-
-&lt;p&gt;Note: in the diagrams below, the &lt;span style="color:orange"&gt;orange&lt;/span&gt; circle represents the external coach; the &lt;span style="color:blue"&gt;blue&lt;/span&gt; circles represent team members; the &lt;span style="color:#0C0"&gt;green&lt;/span&gt; circles represent team members who are ready to transition into a coaching role.&lt;/p&gt;
-
-&lt;h3 id="toc_2"&gt;Step 1&lt;/h3&gt;
-
-&lt;p&gt;&lt;img alt="step 1" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step01.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span style="color:orange"&gt;Jake&lt;/span&gt; works actively with the team members of only one team. Other teams may choose to continue working in their regular manner or try to emulate the coached team. However, &lt;span style="color:orange"&gt;Jake&lt;/span&gt;&amp;#39;s focus remains on the one team he is actively coaching.&lt;/p&gt;
-
-&lt;h3 id="toc_3"&gt;Step 2&lt;/h3&gt;
-
-&lt;p&gt;&lt;img alt="step 2" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step02.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
-
-&lt;p&gt;Having spent considerable time with a particular team, &lt;span style="color:orange"&gt;Jake&lt;/span&gt; gets a sense of the various team members&amp;#39; strengths. He identifies two individuals, &lt;span style="color:#0C0"&gt;John&lt;/span&gt; and &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt;, who demonstrate qualities suitable for a coaching role. He now gears his coaching style towards a coach-the-coach approach, focusing on these individuals. Over a short duration, &lt;span style="color:#0C0"&gt;John&lt;/span&gt; picks up coaching skills comfortably while &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; could use more mentoring on the coaching aspects.&lt;/p&gt;
-
-&lt;h3 id="toc_4"&gt;Step 3&lt;/h3&gt;
-
-&lt;p&gt;&lt;img alt="step 3" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step03.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
-
-&lt;p&gt;Confident of &lt;span style="color:#0C0"&gt;John&lt;/span&gt;&amp;#39;s coaching ability, &lt;span style="color:orange"&gt;Jake&lt;/span&gt; pulls &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; and himself out of the team, leaving &lt;span style="color:#0C0"&gt;John&lt;/span&gt; in charge of sustaining the Agile mindset and practices in that team. Capacity is adjusted by bringing fresh members into the team. &lt;span style="color:orange"&gt;Jake&lt;/span&gt; and &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; together move into the next team that will undergo Agile coaching. &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; works as a team member but continues to focus on picking up coaching skills. &lt;span style="color:orange"&gt;Jake&lt;/span&gt; balances coaching the new team actively along with his coach-the-coach approach for &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt;. Every now and then, he allows &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; to take a lead in coaching.&lt;/p&gt;
-
-&lt;h3 id="toc_5"&gt;Step 4&lt;/h3&gt;
-
-&lt;p&gt;&lt;img alt="step 4" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step04.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
-
-&lt;p&gt;Over time, another practitioner in the new team seems to emerge as a potential coach.&lt;/p&gt;
-
-&lt;h3 id="toc_6"&gt;Step 5&lt;/h3&gt;
-
-&lt;p&gt;&lt;img alt="step 5" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step05.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
-
-&lt;p&gt;Like before, when the time is right, &lt;span style="color:orange"&gt;Jake&lt;/span&gt; moves out of the team with the new potential coach, leaving a more confident &lt;span style="color:#0C0"&gt;Jane&lt;/span&gt; in charge of the previous team. The approach continues across multiple teams.&lt;/p&gt;
-
-&lt;h3 id="toc_7"&gt;Step 6&lt;/h3&gt;
-
-&lt;p&gt;&lt;img alt="step 6" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step06.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
-
-&lt;p&gt;After a point, &lt;span style="color:orange"&gt;Jake&lt;/span&gt;&amp;#39;s role becomes more of a specialist or expert consultant that the internal coaches leverage. &lt;span style="color:orange"&gt;Jake&lt;/span&gt; oversees the progress of the internal coaches and provides guidance where required. Most of the changes are now channelized through the internal coaches on the ground.&lt;/p&gt;
-
-&lt;h3 id="toc_8"&gt;Step 7&lt;/h3&gt;
-
-&lt;p&gt;&lt;img alt="step 7" src="/assets/media/images/from-practitioner-to-coach-i/agile-transformation-step07.png" style="width: 400px; height: auto;"&gt;&lt;/p&gt;
-
-&lt;p&gt;At some stage, when both FakeFincorp Ltd and the external Agile Coach agree, the Agile transformation can be deemed complete, and the remaining work of sustaining it and evolving it can be carried on internally.&lt;/p&gt;
-
-&lt;h3 id="toc_9"&gt;Disclaimer&lt;/h3&gt;
-
-&lt;p&gt;The above is an over-simplification that highlights the basic tenets of this strategy. Creating capable internal coaches will be more difficult in some teams than others. It will also not happen overnight. Sometimes even good internal coaches do not have enough experience to guide teams under difficult circumstances. A structured support system is needed for such an initiative to be successful.&lt;/p&gt;
-
-&lt;p&gt;We will go deeper into these details in subsequent articles. Until then, stay tuned!&lt;/p&gt;
 </description>
     </item>
   </channel>
