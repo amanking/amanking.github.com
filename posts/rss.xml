@@ -3,11 +3,52 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-15 01:24:49 +0530</pubDate>
+    <pubDate>2013-12-15 17:02:24 +0530</pubDate>
+    <item>
+      <title>Assessment Interviews</title>
+      <link>http://www.amanking.com/assessment-interviews</link>
+      <pubDate>2013-12-13</pubDate>
+      <description>&lt;p&gt;During the assessment week of an &lt;a href="/agile-coaching-engagements"&gt;Agile coaching engagement&lt;/a&gt;, the goal is to learn about the current state of the team. Special attention is needed towards capturing:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Day-to-day activities of various roles&lt;/li&gt;
+&lt;li&gt;Additional activities such as on planning day, deployment day, etc&lt;/li&gt;
+&lt;li&gt;Tools used to support these activities&lt;/li&gt;
+&lt;li&gt;Processes around these activities&lt;/li&gt;
+&lt;li&gt;Interaction, collaboration, and dependency on other roles or teams during these activities&lt;/li&gt;
+&lt;li&gt;Infrastructure environments involved in these activities&lt;/li&gt;
+&lt;li&gt;Outcome of these activities in an iteration-level view&lt;/li&gt;
+&lt;li&gt;Challenges faced in performing any of these activities or the role in general&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It is important to remain objective while making observations, and to not fall into the temptation of drawing conclusions or making recommendations. The latter is needed but should come towards the end of the assessment when holistic information is available.&lt;/p&gt;
+
+&lt;p&gt;One way to get visibility into the above aspects is conducting interviews of team members. We need not talk to everyone but only a representative sample (perhaps 1-2 individuals) from each role. This should be complemented with first-hand observation of how they work. Here is a suggestion of how you could go about this activity.&lt;/p&gt;
+
+&lt;h3 id="toc_0"&gt;Interview preparation&lt;/h3&gt;
+
+&lt;p&gt;Inform the Project Manager or equivalent a day or two in advance about the interviews you are planning to do. Learn about the various roles in the team, and ask the PM to inform team members to make time for the interview, which could last anywhere between 30 mins to an hour. It is usually a good idea to not conduct the interviews in a meeting room but at the desk of the individual. You should set up a time beforehand so that the interviewee is not distracted during the interview. Based on any insights already shared with you about the team&amp;#39;s current context, make a list of areas you want to specifically ask about. Some of these will be role-specific, and some general.&lt;/p&gt;
+
+&lt;h3 id="toc_1"&gt;Interview kickoff&lt;/h3&gt;
+
+&lt;p&gt;Introduce or re-introduce yourself to the individual. Briefly let them know why you are there with the team. Explain what the interview is about and how it will help. The interviewee should not feel like this is a test which has right or wrong answers. Thank the person for agreeing to the interview. Try to keep the interaction balanced between formal and informal so that it seems important and yet the interviewee feels comfortable in opening up and being forthright. Keep a notebook handy, and inform the interviewee that you&amp;#39;ll be scribbling notes during the interview, which you can share later after some clean-up if the interviewee is interested. It helps to reinforce transparency. First thing to note down is the person&amp;#39;s name and role, along with the interview date.&lt;/p&gt;
+
+&lt;h3 id="toc_2"&gt;Interview questions&lt;/h3&gt;
+
+&lt;p&gt;Start simple by asking about the person&amp;#39;s background in brief, typically around industry experience, how long with the current team, and role description. Follow this up by asking the person to describe their &lt;em&gt;typical day&lt;/em&gt;. You can expect to get a lot of information out of this. Be ready to probe for details as and when required. Don&amp;#39;t stick to going breadth-wise or depth-wise; switch how you elicit details based on how relevant you feel a topic is. You can even ask the individual to &lt;em&gt;show-and-tell&lt;/em&gt; some aspects, perhaps by using a computer or walking up to a board. That said, remember to timebox. After a point too much detail is unnecessary at this stage. Try to cover all the aspects mentioned at the start of this post, not in that order but activity by activity. An important piece that you can end the interview with, is asking about the challenges faced on the project. You will get insights that you might not gain by first-hand observation. If you have done a few interviews already, use further interviews to validate some of the points mentioned by others to get different viewpoints on the same thing. That too can be quite revealing at times.&lt;/p&gt;
+
+&lt;h3 id="toc_3"&gt;Interview documentation&lt;/h3&gt;
+
+&lt;p&gt;Scribbling on a notepad may not feel like an overhead but cleaning up your notes to put in a Word document or a wiki page might seem tiresome. But you will thank yourself later for doing so. I am surprised how often I can&amp;#39;t read my own handwriting just a few days later. Also, searching for something specific in a physical notepad is not as quick as one might imagine. Typing out the notes electronically is also an opportunity to structure the observations better. This is when you can collate information in a role-specific manner rather than as individual interviews. You may start to see patterns. These will feed into the later phases of assessment, ie, highlighting bottlenecks and challenges, and making recommendations.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+Here is a &lt;a href="/assets/media/docs/sample-assessment-interview-notes.pdf"&gt;sample document&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Agile Coaching Engagements</title>
       <link>http://www.amanking.com/agile-coaching-engagements</link>
-      <pubDate>2013-12-15</pubDate>
+      <pubDate>2013-12-12</pubDate>
       <description>&lt;p&gt;In Agile consulting, there can be different types of engagements that you get into with your client. One type of engagement may lead to another type. As an Agile Coach, you will find yourself participating across the board. Your focus areas will change based on what the engagement objectives are.&lt;/p&gt;
 
 &lt;p&gt;Here are the typical types of engagements I have encountered.&lt;/p&gt;
@@ -41,7 +82,7 @@ For a further exploration of such topics, you can consider:&lt;/p&gt;
     <item>
       <title>Agile Coaching Roles</title>
       <link>http://www.amanking.com/agile-coaching-roles</link>
-      <pubDate>2013-12-14</pubDate>
+      <pubDate>2013-12-11</pubDate>
       <description>&lt;p&gt;To me, &lt;a href="/coaching-basics"&gt;Coaching&lt;/a&gt; is about getting the most out of individuals or teams by raising their awareness levels, about their current environment, about the environment outside theirs, and most important of all, about their own potential. This is done mostly by asking them the right questions, and not by providing them ready-made answers.&lt;/p&gt;
 
 &lt;p&gt;My definition of an &lt;em&gt;Agile Coach&lt;/em&gt;, on the other hand, is less restrictive. As an Agile Coach, coaching is my primary &lt;em&gt;modus operandi&lt;/em&gt;. But there are times when I make recommendations based on my practitioner background. I also complement coaching with aspects of mentoring and training. For example, relating personal experiences and sharing useful resources can increase someone&amp;#39;s curiosity and give them a clear direction. Conducting a workshop can help kickstart a group on practices like TDD and Refactoring.&lt;/p&gt;
@@ -75,7 +116,7 @@ In most cases, a single Agile Coach on an engagement will touch upon all of the 
     <item>
       <title>Coaching Basics</title>
       <link>http://www.amanking.com/coaching-basics</link>
-      <pubDate>2013-12-09</pubDate>
+      <pubDate>2013-12-10</pubDate>
       <description>&lt;p&gt;The term &lt;em&gt;Coaching&lt;/em&gt; is overloaded.&lt;/p&gt;
 
 &lt;p&gt;Comparatively, terms like &lt;em&gt;&lt;a href="http://www.refactoring.com/"&gt;Refactoring&lt;/a&gt;&lt;/em&gt; and &lt;em&gt;&lt;a href="http://c2.com/cgi/wiki?YouArentGonnaNeedIt"&gt;YAGNI&lt;/a&gt;&lt;/em&gt; are recently invented. But despite having had clear definitions to start with, these words still suffer from &lt;a href="http://martinfowler.com/bliki/RefactoringMalapropism.html"&gt;malapropism&lt;/a&gt;.&lt;/p&gt;
@@ -110,65 +151,6 @@ In most cases, a single Agile Coach on an engagement will touch upon all of the 
 &lt;p&gt;I&amp;#39;m looking forward to the conference! It has an excellent line up of speakers and topics. Do check it out yourself.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href="http://2014.agileindia.org/" target="_blank" title="I am speaking at Agile India 2014"&gt;&lt;img src="/assets/media/images/badges/speaker-agile-india-2014.png" title="I am speaking at Agile India 2014" alt="I am speaking at Agile India 2014"/&gt;&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Common code smells</title>
-      <link>http://www.amanking.com/common-code-smells</link>
-      <pubDate>2013-04-21</pubDate>
-      <description>&lt;p&gt;I have worked on multiple systems written in object-oriented languages. Time and again, I encounter common code smells. What is curious is that these smells are observable not only in legacy&lt;small&gt;&lt;sup&gt;[1]&lt;/sup&gt;&lt;/small&gt; systems but also in well-intentioned greenfield&lt;small&gt;&lt;sup&gt;[2]&lt;/sup&gt;&lt;/small&gt; projects.&lt;/p&gt;
-
-&lt;p&gt;One could ascribe these to the developers not knowing any better, or possibly to a more common reason, &lt;a href="http://martinfowler.com/bliki/TechnicalDebt.html"&gt;Technical Debt&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Either way, I have learnt that being conscious of these code smells is important while working with code bases. Simply learning about the code smells is not enough. You need to actively look out for them &lt;em&gt;all the time&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;The next step, after identifying the smell, is of course to deal with it. For now, I will only list the code smells. I am planning a separate series of &lt;em&gt;nugget&lt;/em&gt; posts to get into more details later. But don&amp;#39;t wait for those posts! Read &lt;a href="http://martinfowler.com/books/refactoring.html"&gt;the Refactoring book&lt;/a&gt; now for most of the common smells!&lt;/p&gt;
-
-&lt;h2 id="toc_0"&gt;The smells!&lt;/h2&gt;
-
-&lt;h3 id="toc_1"&gt;In both legacy and greenfield projects&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Multiple assignments to local variable&lt;/li&gt;
-&lt;li&gt;Law of Demeter violation&lt;/li&gt;
-&lt;li&gt;Data clumps&lt;/li&gt;
-&lt;li&gt;Null checks&lt;/li&gt;
-&lt;li&gt;Switch case&lt;/li&gt;
-&lt;li&gt;Primitive obsession&lt;/li&gt;
-&lt;li&gt;Long method&lt;/li&gt;
-&lt;li&gt;Feature envy&lt;/li&gt;
-&lt;li&gt;Using language features or core APIs like &lt;code&gt;Collections.emptyList()&lt;/code&gt; wrongly&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="toc_2"&gt;Usually in legacy systems&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Setters in domain objects&lt;/li&gt;
-&lt;li&gt;Use of &lt;code&gt;static&lt;/code&gt; methods&lt;/li&gt;
-&lt;li&gt;Use of Singleton pattern&lt;/li&gt;
-&lt;li&gt;Violations of layered architecture&lt;/li&gt;
-&lt;li&gt;Long class&lt;/li&gt;
-&lt;li&gt;Commented code&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="toc_3"&gt;Usually in greenfield systems&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Field injection&lt;/li&gt;
-&lt;li&gt;Inappropriate mocking, such as misuse of &lt;code&gt;Mockito.any()&lt;/code&gt; with &lt;code&gt;Mockito.when()&lt;/code&gt;&lt;/li&gt;
-&lt;li&gt;Unit tests not respecting architecture layers&lt;/li&gt;
-&lt;li&gt;Complicated setup in unit tests&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I will keep adding to these lists over time.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;&lt;small&gt;
-[1] For the purposes of this post and others, I will use &amp;quot;legacy&amp;quot; to mean systems that have survived for nearly 10 years or more, running on old or raw technologies like Servlets, JDBC, etc, and without much automated test coverage. There may have been attempts to mix in new technologies and increase test coverage but the majority is still legacy.&lt;/p&gt;
-
-&lt;p&gt;[2] I will use &amp;quot;greenfield&amp;quot; to mean systems that are written in recent times. They run on newer technologies, using frameworks for MVC, ORM, IoC, etc. I will assume that the developers are aware of clean code practices and do unit testing, perhaps even TDD along with refactoring.
-&lt;/small&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>

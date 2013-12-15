@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-15 01:24:48 +0530</pubDate>
+    <pubDate>2013-12-15 17:02:22 +0530</pubDate>
     <item>
       <title>About Me</title>
       <link>http://www.amanking.com/about-me</link>
@@ -43,9 +43,57 @@
       <pubDate/>
       <description>  &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
+      &lt;h1 class="title"&gt;&lt;a href="/assessment-interviews"&gt;Assessment Interviews&lt;/a&gt;&lt;/h1&gt;
+      &lt;div class="muted"&gt;
+        &lt;span&gt;2013-12-13&lt;/strong&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="post-full"&gt;
+      &lt;div class="text"&gt;
+        &lt;div class="content"&gt;
+          &lt;div class="summary ellipsis"&gt;
+&lt;p&gt;During the assessment week of an &lt;a href="/agile-coaching-engagements"&gt;Agile coaching engagement&lt;/a&gt;, the goal is to learn about the current state of the team. Special attention is needed towards capturing:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Day-to-day activities of various roles&lt;/li&gt;
+&lt;li&gt;Additional activities such as on planning day, deployment day, etc&lt;/li&gt;
+&lt;li&gt;Tools used to support these activities&lt;/li&gt;
+&lt;li&gt;Processes around these activities&lt;/li&gt;
+&lt;li&gt;Interaction, collaboration, and dependency on other roles or teams during these activities&lt;/li&gt;
+&lt;li&gt;Infrastructure environments involved in these activities&lt;/li&gt;
+&lt;li&gt;Outcome of these activities in an iteration-level view&lt;/li&gt;
+&lt;li&gt;Challenges faced in performing any of these activities or the role in general&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is important to remain objective while making observations, and to not fall into the temptation of drawing conclusions or making recommendations. The latter is needed but should come towards the end of the assessment when holistic information is available.&lt;/p&gt;
+
+&lt;p&gt;One way to get visibility into the above aspects is conducting interviews of team members. We need not talk to everyone but only a representative sample (perhaps 1-2 individuals) from each role. This should be complemented with first-hand observation of how they work. Here is a suggestion of how you could go about this activity.&lt;/p&gt;
+
+&lt;h3 id="toc_0"&gt;Interview preparation&lt;/h3&gt;
+
+&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="controls clearfix"&gt;
+      &lt;ul class="tag_box inline"&gt;
+        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;4&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/assessment-interviews" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/assessment-interviews#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="post summary"&gt;
+    &lt;div class="page-header text"&gt;
       &lt;h1 class="title"&gt;&lt;a href="/agile-coaching-engagements"&gt;Agile Coaching Engagements&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-12-15&lt;/strong&gt;
+        &lt;span&gt;2013-12-12&lt;/strong&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
@@ -76,10 +124,10 @@
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;5&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;4&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
       &lt;div class="more"&gt;
@@ -91,7 +139,7 @@
     &lt;div class="page-header text"&gt;
       &lt;h1 class="title"&gt;&lt;a href="/agile-coaching-roles"&gt;Agile Coaching Roles&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-12-14&lt;/strong&gt;
+        &lt;span&gt;2013-12-11&lt;/strong&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
@@ -122,10 +170,10 @@
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;5&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;4&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
       &lt;div class="more"&gt;
@@ -137,7 +185,7 @@
     &lt;div class="page-header text"&gt;
       &lt;h1 class="title"&gt;&lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-12-09&lt;/strong&gt;
+        &lt;span&gt;2013-12-10&lt;/strong&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
@@ -168,10 +216,10 @@
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;5&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;4&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
       &lt;div class="more"&gt;
@@ -205,7 +253,7 @@
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;5&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
             &lt;a href="/tags#talk-ref"&gt;talk &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
@@ -310,7 +358,7 @@
             &lt;a href="/tags#transformation-ref"&gt;transformation &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;5&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
       &lt;div class="more"&gt;
@@ -422,10 +470,10 @@
     &lt;a href="/tags#blog-ref"&gt;blog &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;5&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;3&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;4&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/tags#talk-ref"&gt;talk &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
@@ -456,17 +504,19 @@
   &lt;/ul&gt;
   &lt;h3 id="coaching-ref"&gt;coaching&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-15&lt;/small&gt; &lt;a href="/agile-coaching-engagements"&gt;Agile Coaching Engagements&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-14&lt;/small&gt; &lt;a href="/agile-coaching-roles"&gt;Agile Coaching Roles&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-12&lt;/small&gt; &lt;a href="/agile-coaching-engagements"&gt;Agile Coaching Engagements&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-11&lt;/small&gt; &lt;a href="/agile-coaching-roles"&gt;Agile Coaching Roles&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-13&lt;/small&gt; &lt;a href="/assessment-interviews"&gt;Assessment Interviews&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-10&lt;/small&gt; &lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
   &lt;h3 id="nugget-ref"&gt;nugget&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-15&lt;/small&gt; &lt;a href="/agile-coaching-engagements"&gt;Agile Coaching Engagements&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-14&lt;/small&gt; &lt;a href="/agile-coaching-roles"&gt;Agile Coaching Roles&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-12&lt;/small&gt; &lt;a href="/agile-coaching-engagements"&gt;Agile Coaching Engagements&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-11&lt;/small&gt; &lt;a href="/agile-coaching-roles"&gt;Agile Coaching Roles&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-13&lt;/small&gt; &lt;a href="/assessment-interviews"&gt;Assessment Interviews&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-10&lt;/small&gt; &lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
   &lt;h3 id="talk-ref"&gt;talk&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
