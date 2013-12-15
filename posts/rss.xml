@@ -3,7 +3,68 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-15 21:12:40 +0530</pubDate>
+    <pubDate>2013-12-16 00:38:29 +0530</pubDate>
+    <item>
+      <title>Facilitation Techniques</title>
+      <link>http://www.amanking.com/facilitation-techniques</link>
+      <pubDate>2013-12-16</pubDate>
+      <description>&lt;p&gt;Facilitation is a very useful skill to have. It helps not only in &lt;a href="/coaching-basics"&gt;coaching&lt;/a&gt; but in many day-to-day activities. Whether a team discussion or a team activity, a good facilitator can make all the difference.&lt;/p&gt;
+
+&lt;h2 id="toc_0"&gt;Retrospective&lt;/h2&gt;
+
+&lt;p&gt;A common facilitation technique is a &lt;em&gt;Retrospective&lt;/em&gt;. It has a clear objective of looking back, as a group, at a recent time period or a particular incident, collect thoughts around different aspects, and then brainstorm on action items related to the topic. Agile teams use this technique for continuous improvement. I like relating it to &lt;a href="http://agilemanifesto.org/principles.html"&gt;the 12th Agile Principle&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;quot;At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While there are some well-known Retrospective formats, I try to customize the experience based on context. This could be how the recent iteration went, the motivation levels of the team, concepts that the team can relate to, or sometimes just something random that could be fun!&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;img alt="Retro" src="/assets/media/images/coaching/retro.png"&gt;&lt;br&gt;
+&lt;small class="muted"&gt;Retro using a Fuel/Mud analogy&lt;/small&gt;&lt;/p&gt;
+
+&lt;h2 id="toc_1"&gt;Future-spective&lt;/h2&gt;
+
+&lt;p&gt;A variation of the Retrospective is a &lt;em&gt;Future-spective&lt;/em&gt;. As the name suggests, it is not about looking back but about looking forward. Such an exercise helps in goal-setting, expectation-setting, coming up with a common vision, and sometimes an actionable plan. Typically it involves having the group imagine that they are in the future, and then describing what they see has gone well or what has gone wrong.&lt;/p&gt;
+
+&lt;h2 id="toc_2"&gt;Mind Mapping&lt;/h2&gt;
+
+&lt;p&gt;A lesser used technique for facilitation is &lt;em&gt;Mind Mapping&lt;/em&gt;. A number of people have discovered it for personal use. I have used it in group situations as well, whether to make my own thoughts visual so that others can follow or to capture thoughts of the group, presenting it back to them in real time. Having thoughts captured visually and linked together, helps explore the topic space even further, and make stronger connections between different ideas. It also helps retention. Mind Mapping can be used effectively for cause-effect analysis or for drilling down a concept into granular levels which are more easily recognizable or actionable.&lt;/p&gt;
+
+&lt;h2 id="toc_3"&gt;Fishbowl&lt;/h2&gt;
+
+&lt;p&gt;Sometimes you may be facilitating a large group, or a group that isn&amp;#39;t very vocal, or perhaps a topic that is a bit controversial. In all of these cases, having an effective discussion may be difficult. Here a technique called as &lt;em&gt;Fishbowl&lt;/em&gt; can help. It is a constrained form of discussion where there are set rules for participation. At any given point in time, there is a panel with a fixed number of chairs. Out of these chairs, all but one can be filled by people who wish to participate in the discussion. If someone new steps in and sits on the vacant chair, one of the other participants has to volunteer to step out. This encourages multiple viewpoints to be heard, and discourages anyone from overtaking the discussion for long. With groups that are not vocal, having many chairs empty creates an awkward situation, forcing a few people to self-nominate themselves for the panel discussion. Seeing a few people start off, others feel encouraged to join in.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+There are even more facilitation techniques that one can employ. It is good to have them in your toolkit especially if you are in a role that could benefit from a collaborative team.&lt;/p&gt;
+
+&lt;h2 id="toc_4"&gt;Further Resources&lt;/h2&gt;
+
+&lt;h3 id="toc_5"&gt;Retrospectives&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.funretrospectives.com/"&gt;Fun Retrospectives&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://retrospectivewiki.org/"&gt;Retrospectives Wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://pragprog.com/book/dlret/agile-retrospectives"&gt;Agile Retrospectives&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://leanpub.com/the-retrospective-handbook"&gt;The Retrospective Handbook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="toc_6"&gt;Mind Mapping&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Mind_map"&gt;Mind Mapping&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://freemind.sourceforge.net/wiki/index.php/Main_Page"&gt;FreeMind&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.mindmup.com/"&gt;MindMup&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="toc_7"&gt;General&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Fishbowl_(conversation)"&gt;Fishbowl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amazon.com/Secrets-Facilitation-S-M-R-T-Getting/dp/0787975788"&gt;The Secrets of Facilitation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     <item>
       <title>Metrics Baselining</title>
       <link>http://www.amanking.com/metrics-baselining</link>
@@ -82,7 +143,7 @@
 
 &lt;p&gt;Take a pic of the process map you&amp;#39;ve come up with, and take it off the board. Keep the stickies handy though. Schedule an hour-long meeting with those roles who&amp;#39;d be aware of these steps at a high level. Typically it is a Project Manager, a Tech Lead, or the Product Owner. Repeat the above process in front of them (using your earlier stickies) but clearly call out every addition you make to the process map. Give them a chance to react at every step, getting either validation or corrections from them. Annotate the flow or the stickies themselves with any details you get. For the gaps or the big picture (before/after iteration), let them call out the activities and the roles involved (you could capture exact names of people as well). Cross-check with what you&amp;#39;d assumed. For those that match, use your stickies. For those that don&amp;#39;t, tear off your sticky and create new ones on the fly. In the end, summarize the map on the board to catch any obvious misses.&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;img alt="Process Map" src="/assets/media/images/process-mapping/process-map.png"&gt;&lt;br&gt;
+&lt;p&gt;&lt;br&gt;&lt;img alt="Process Map" src="/assets/media/images/coaching/process-map.png"&gt;&lt;br&gt;
 &lt;small class="muted"&gt;Sample process map&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;Keep the map on the board, and show it to team members you had interviewed before. Get their insights about the visual. Mostly it should be a confirmation of the activities depicted. You could also get more details around certain activities. Additionally, you can cross-check different people&amp;#39;s viewpoints.&lt;/p&gt;
@@ -179,40 +240,6 @@ For a further exploration of such topics, you can consider:&lt;/p&gt;
 &lt;li&gt;&lt;a href="http://www.infoq.com/minibooks/agile-adoption-transformation"&gt;Michael Sahota&amp;#39;s book&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.agilealliance.org/programs/supporting-agile-adoption-it-is-about-change/"&gt;Agile Alliance documents&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://martinfowler.com/tags/agile%20adoption.html"&gt;Martin Fowler&amp;#39;s bliki&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
-      <title>Agile Coaching Roles</title>
-      <link>http://www.amanking.com/agile-coaching-roles</link>
-      <pubDate>2013-12-11</pubDate>
-      <description>&lt;p&gt;To me, &lt;a href="/coaching-basics"&gt;Coaching&lt;/a&gt; is about getting the most out of individuals or teams by raising their awareness levels, about their current environment, about the environment outside theirs, and most important of all, about their own potential. This is done mostly by asking them the right questions, and not by providing them ready-made answers.&lt;/p&gt;
-
-&lt;p&gt;My definition of an &lt;em&gt;Agile Coach&lt;/em&gt;, on the other hand, is less restrictive. As an Agile Coach, coaching is my primary &lt;em&gt;modus operandi&lt;/em&gt;. But there are times when I make recommendations based on my practitioner background. I also complement coaching with aspects of mentoring and training. For example, relating personal experiences and sharing useful resources can increase someone&amp;#39;s curiosity and give them a clear direction. Conducting a workshop can help kickstart a group on practices like TDD and Refactoring.&lt;/p&gt;
-
-&lt;p&gt;Even within the scope of Agile Coaching, I have been exposed to a variety of roles.&lt;/p&gt;
-
-&lt;h3 id="toc_0"&gt;Role-based Practices Coaching&lt;/h3&gt;
-
-&lt;p&gt;An Agile Coach helps team members understand their roles in an Agile setting. This involves skills-building. You may join a team as a single cross-skilled coach or as a trio of role-specific coaches: a Tech Coach, a QA Coach, and a BA Coach. With Developers, a coach will pair actively to spread practices like TDD, Refactoring, CI, etc, and will run workshops and brown bag sessions. With Testers, a coach could cover creating test scenarios from acceptance criteria, automated testing, test pyramid, and so on. For Business Analysts or Product Owners, the focus will be on prioritization exercises, negotiation skills, story writing, story slicing, determining NFRs, etc.&lt;/p&gt;
-
-&lt;h3 id="toc_1"&gt;Process Coaching&lt;/h3&gt;
-
-&lt;p&gt;While focusing on role-specific skills and practices is important, some teams may need help in determining what process works for them, adapting them over time, and so on. This could involve defining how each role contributes to the process, and also in general, how the entire team collaborates and focuses on improvement. Having effective stand ups, planning meetings, demos, and retrospectives fall under this. Other aspects could involve helping the team determine some metrics to observe and improve. Eg: pairing matrix, confidence meter, build failures in a day, velocity, cycle time, etc.&lt;/p&gt;
-
-&lt;h3 id="toc_2"&gt;Leadership Coaching&lt;/h3&gt;
-
-&lt;p&gt;At times, it is not only team members who need coaching, but their leadership as well. These may include the Team Lead, the Project Manager, the Architect Head, the Programme Manager, the Department Head, and so on. The conversation topics are usually broader level and strategic, such as prioritization of teams for Agile adoption, facilitating empowered teams, investing in appropriate infrastructure or continuous delivery initiatives, reducing overhead in IT policies, identifying improvements in architecture and ecosystem, etc.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-In most cases, a single Agile Coach on an engagement will touch upon all of the above but to varying degrees. It will be a factor of the company culture, need of the hour, and personal motivations of the people involved.&lt;/p&gt;
-
-&lt;p&gt;The following provide further insights:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.agilecoachinginstitute.com/agile-competency-whitepaper/"&gt;Agile Coaching Competencies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://blogs.agilefaqs.com/2013/07/21/how-coaching-is-different-from-training-mentoring-counseling-and-consulting"&gt;Comparison of Coaching, Training, Mentoring, Consulting&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley-ebook/dp/B003QP47YG/"&gt;Coaching Agile Teams&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

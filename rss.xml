@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-15 21:12:38 +0530</pubDate>
+    <pubDate>2013-12-16 00:38:22 +0530</pubDate>
     <item>
       <title>About Me</title>
       <link>http://www.amanking.com/about-me</link>
@@ -42,6 +42,46 @@
       <link>http://www.amanking.com/</link>
       <pubDate/>
       <description>  &lt;div class="post summary"&gt;
+    &lt;div class="page-header text"&gt;
+      &lt;h1 class="title"&gt;&lt;a href="/facilitation-techniques"&gt;Facilitation Techniques&lt;/a&gt;&lt;/h1&gt;
+      &lt;div class="muted"&gt;
+        &lt;span&gt;2013-12-16&lt;/strong&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="post-full"&gt;
+      &lt;div class="text"&gt;
+        &lt;div class="content"&gt;
+          &lt;div class="summary ellipsis"&gt;
+&lt;p&gt;Facilitation is a very useful skill to have. It helps not only in &lt;a href="/coaching-basics"&gt;coaching&lt;/a&gt; but in many day-to-day activities. Whether a team discussion or a team activity, a good facilitator can make all the difference.&lt;/p&gt;
+
+&lt;h2 id="toc_0"&gt;Retrospective&lt;/h2&gt;
+
+&lt;p&gt;A common facilitation technique is a &lt;em&gt;Retrospective&lt;/em&gt;. It has a clear objective of looking back, as a group, at a recent time period or a particular incident, collect thoughts around different aspects, and then brainstorm on action items related to the topic. Agile teams use this technique for continuous improvement. I like relating it to &lt;a href="http://agilemanifesto.org/principles.html"&gt;the 12th Agile Principle&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;"At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly."&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;While there are some well-known Retrospective formats, I try to customize the experience based on context. This could be how the recent iteration went, the motivation levels of the team, concepts that the team can relate to, or sometimes just something random that could be fun!&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;img alt="Retro" src="/assets/media/images/coaching/retro.png"&gt;&lt;br&gt;&lt;small class="muted"&gt;Retro using a Fuel/Mud analogy&lt;/small&gt;&lt;/p&gt;
+
+&lt;h2 id="toc_1"&gt;Future-spective&lt;/h2&gt;
+
+&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="controls clearfix"&gt;
+      &lt;ul class="tag_box inline"&gt;
+        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/facilitation-techniques" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/facilitation-techniques#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
       &lt;h1 class="title"&gt;&lt;a href="/metrics-baselining"&gt;Metrics Baselining&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
@@ -113,7 +153,7 @@
 
 &lt;p&gt;Take a pic of the process map you've come up with, and take it off the board. Keep the stickies handy though. Schedule an hour-long meeting with those roles who'd be aware of these steps at a high level. Typically it is a Project Manager, a Tech Lead, or the Product Owner. Repeat the above process in front of them (using your earlier stickies) but clearly call out every addition you make to the process map. Give them a chance to react at every step, getting either validation or corrections from them. Annotate the flow or the stickies themselves with any details you get. For the gaps or the big picture (before/after iteration), let them call out the activities and the roles involved (you could capture exact names of people as well). Cross-check with what you'd assumed. For those that match, use your stickies. For those that don't, tear off your sticky and create new ones on the fly. In the end, summarize the map on the board to catch any obvious misses.&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;&lt;img alt="Process Map" src="/assets/media/images/process-mapping/process-map.png"&gt;&lt;br&gt;&lt;small class="muted"&gt;Sample process map&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;img alt="Process Map" src="/assets/media/images/coaching/process-map.png"&gt;&lt;br&gt;&lt;small class="muted"&gt;Sample process map&lt;/small&gt;&lt;/p&gt;
 
 &lt;p&gt;Keep the map on the board, and show it to team members you had interviewed before. Get their insights about the visual. Mostly it should be a confirmation of the activities depicted. You could also get more details around certain activities. Additionally, you can cross-check different people's viewpoints.&lt;/p&gt;
 

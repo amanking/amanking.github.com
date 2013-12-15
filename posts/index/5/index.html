@@ -52,6 +52,51 @@
         <div class="content span10">
   <div class="post summary">
     <div class="text">
+      <h1 class="title"><a href="/common-code-smells">Common code smells</a></h1>
+      <div class="date muted">2013-04-21</div>
+
+      <div class="content">
+        <div class="summary ellipsis">
+<p>I have worked on multiple systems written in object-oriented languages. Time and again, I encounter common code smells. What is curious is that these smells are observable not only in legacy<small><sup>[1]</sup></small> systems but also in well-intentioned greenfield<small><sup>[2]</sup></small> projects.</p>
+
+<p>One could ascribe these to the developers not knowing any better, or possibly to a more common reason, <a href="http://martinfowler.com/bliki/TechnicalDebt.html">Technical Debt</a>.</p>
+
+<p>Either way, I have learnt that being conscious of these code smells is important while working with code bases. Simply learning about the code smells is not enough. You need to actively look out for them <em>all the time</em>.</p>
+
+<p>The next step, after identifying the smell, is of course to deal with it. For now, I will only list the code smells. I am planning a separate series of <em>nugget</em> posts to get into more details later. But don't wait for those posts! Read <a href="http://martinfowler.com/books/refactoring.html">the Refactoring book</a> now for most of the common smells!</p>
+
+<h2 id="toc_0">The smells!</h2>
+
+<h3 id="toc_1">In both legacy and greenfield projects</h3>
+
+<ul>
+<li>Multiple assignments to local variable</li>
+<li>Law of Demeter violation</li>
+<li>Data clumps</li>
+<li>Null checks</li>
+<li>Switch case</li>
+<li>Primitive obsession</li>
+<li>Long method</li>
+<li>Feature envy</li>
+<li>Using language features or core APIs like <code>Collections.emptyList()</code> wrongly</li>
+</ul>
+</div>
+      </div>
+    </div>
+    <div class="controls clearfix">
+      <ul class="tag_box inline">
+        <li><i class="icon-tags"></i></li>
+          <li>
+            <a href="/tags#coding-ref">coding <span>1</span></a>
+          </li>
+      </ul>
+      <div class="more">
+        <small><a href="/common-code-smells" class="muted">Read more</a></small> | <small><a href="/common-code-smells#disqus_thread" class="muted">Comments</a></small>
+      </div>
+    </div>
+  </div>
+  <div class="post summary">
+    <div class="text">
       <h1 class="title"><a href="/from-practitioner-to-coach-i">From Practitioner to Coach - I</a></h1>
       <div class="date muted">2013-04-03</div>
 
@@ -94,49 +139,6 @@
       </ul>
       <div class="more">
         <small><a href="/from-practitioner-to-coach-i" class="muted">Read more</a></small> | <small><a href="/from-practitioner-to-coach-i#disqus_thread" class="muted">Comments</a></small>
-      </div>
-    </div>
-  </div>
-  <div class="post summary">
-    <div class="text">
-      <h1 class="title"><a href="/exit-mail">Exit mail</a></h1>
-      <div class="date muted">2013-03-31</div>
-
-      <div class="content">
-        <div class="summary">
-<p>No, this is not <em>my</em> exit mail. But a post about a reality in any organization: the <strong>exit mail</strong> that appears in our inbox occasionally.</p>
-
-<p>People have their reasons to quit a company. Even a company like <a href="http://www.thoughtworks.com">ThoughtWorks</a>. Not always an easy decision. But to each his own. This post is not about the reasons behind the exit mail but about how its readers react.</p>
-
-<p>Thinking about my reactions, I can tie them to the kind of person leaving:</p>
-
-<ul>
-<li><p><strong>Unfamiliar:</strong> With over 2000 ThoughtWorkers, there are bound to be exit mails from people I do not know. I skim through the first paragraph to get a brief background (how long in ThoughtWorks, which location, reason for leaving). If the writing is witty, I might read till the end. Else <em>delete.</em></p></li>
-<li><p><strong>Respected:</strong> These are the exit mails that make me look twice. I would know the person or know about the person. From working with them, or conversing with them, or reading their forum posts, or simply having heard praises about them from others. These people are opinionated, talented, experienced, and natural leaders in the ways we develop software. These mails get <em>archived.</em></p></li>
-<li><p><strong>Team member:</strong> These exit mails always get a <em>reply</em> from me. Having worked with someone, you develop a rapport, some mutual respect, and, on occasion, a camaraderie. How I feel about a team member can vary in degree, and a good measure of that is the effect their exit mail has on me.</p></li>
-<li><p><strong>Friend:</strong> Such an exit mail <em>hurts.</em> Most times I can anticipate its arrival because the person would keep me informed (it still hurts). Sometimes it can be a shock, if the decision was kept personal for whatever reason. But irrespective, it is a mail I dread. It is hardest to say goodbye to a friend. Each of these mails feels like one lost reason to come to office. But we move on. We have to. And we wish our friends well in their journey ahead.</p></li>
-</ul>
-<p>Exit mails make me think about what we hold dear in this much technical profession of ours. Yes, we appreciate our technology gurus. And we enjoy working with team members towards the common goal of client success. But most of all, we value the friends we make while accomplishing all this. I dedicate this post to such friends of mine.</p>
-
-<p>Amongst software, teams, and individuals, when it comes to exit mail reactions, the priority order is reversed.</p>
-</div>
-      </div>
-    </div>
-    <div class="controls clearfix">
-      <ul class="tag_box inline">
-        <li><i class="icon-tags"></i></li>
-          <li>
-            <a href="/tags#organizations-ref">organizations <span>2</span></a>
-          </li>
-          <li>
-            <a href="/tags#people-ref">people <span>1</span></a>
-          </li>
-          <li>
-            <a href="/tags#personal-ref">personal <span>1</span></a>
-          </li>
-      </ul>
-      <div class="more">
-        <small><a href="/exit-mail" class="muted">Read more</a></small> | <small><a href="/exit-mail#disqus_thread" class="muted">Comments</a></small>
       </div>
     </div>
   </div>
@@ -236,6 +238,7 @@
   <div class="archive_by_year">
       <h5>December 2013</h5>
       <ul class="archived_posts">
+        <li><a href="/facilitation-techniques" class="title">Facilitation Techniques</a></li>
         <li><a href="/metrics-baselining" class="title">Metrics Baselining</a></li>
         <li><a href="/process-mapping" class="title">Process Mapping</a></li>
         <li><a href="/assessment-interviews" class="title">Assessment Interviews</a></li>
