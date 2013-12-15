@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-15 20:08:31 +0530</pubDate>
+    <pubDate>2013-12-15 21:12:38 +0530</pubDate>
     <item>
       <title>About Me</title>
       <link>http://www.amanking.com/about-me</link>
@@ -42,6 +42,57 @@
       <link>http://www.amanking.com/</link>
       <pubDate/>
       <description>  &lt;div class="post summary"&gt;
+    &lt;div class="page-header text"&gt;
+      &lt;h1 class="title"&gt;&lt;a href="/metrics-baselining"&gt;Metrics Baselining&lt;/a&gt;&lt;/h1&gt;
+      &lt;div class="muted"&gt;
+        &lt;span&gt;2013-12-15&lt;/strong&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="post-full"&gt;
+      &lt;div class="text"&gt;
+        &lt;div class="content"&gt;
+          &lt;div class="summary ellipsis"&gt;
+&lt;p&gt;During the assessment period of an &lt;a href="/agile-coaching-engagements"&gt;Agile coaching engagement&lt;/a&gt;, a lot of information is captured around the team's &lt;a href="/process-mapping"&gt;current processes and practices&lt;/a&gt;. Along with these, gathering quantitative data is also important. These will go into the assessment report at the end, portraying some aspects of current state. Collecting such metrics during assessment is called &lt;em&gt;Metrics Baselining&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Recommendations can be made on the basis of numbers and trends observed, especially using complementary metrics. If the assessment is followed by Agile Adoption, these metrics can be used to indicate progress in chosen areas. From a sustenance point of view, a Before/After comparison around these metrics can determine comfort level and for demonstrating coaching effectiveness.&lt;/p&gt;
+
+&lt;p&gt;One may think capturing quantitative data will be simpler than gathering qualitative data. In my experience, the former is trickier and even risky. From a tooling perspective, getting to the numbers might be easy enough. But knowing what numbers actually matter is where the complexity lies. Especially since typically during an assessment, the team and the coach themselves are unaware of exactly where the team's challenges lie, and the assessment is supposed to help discover these. Tracking irrelevant metrics may send a team down a useless path, or worse, a harmful path. Metrics selection should be guided by clear meaningful goals. But when unsure, an Agile Coach may choose to capture whatever can be captured, with a clear disclaimer that it's being done so that the information is available &lt;em&gt;if&lt;/em&gt; it becomes useful later. So be sure to archive these metrics somewhere safe.&lt;/p&gt;
+
+&lt;p&gt;Some typical metrics captured are as follows.&lt;/p&gt;
+
+&lt;h3 id="toc_0"&gt;Productivity&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cycle time&lt;/li&gt;
+&lt;li&gt;Say/Do ratio&lt;/li&gt;
+&lt;li&gt;Velocity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id="toc_1"&gt;Quality&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Defect count over time&lt;/li&gt;
+&lt;li&gt;Defect ratio across environments or testing stages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="controls clearfix"&gt;
+      &lt;ul class="tag_box inline"&gt;
+        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;8&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;6&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/metrics-baselining" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/metrics-baselining#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
       &lt;h1 class="title"&gt;&lt;a href="/process-mapping"&gt;Process Mapping&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
@@ -555,8 +606,8 @@
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-13&lt;/small&gt; &lt;a href="/assessment-interviews"&gt;Assessment Interviews&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-10&lt;/small&gt; &lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-15&lt;/small&gt; &lt;a href="/metrics-baselining"&gt;Metrics Baselining&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-12-15&lt;/small&gt; &lt;a href="/metrics-baselining"&gt;Metrics Baselining&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-14&lt;/small&gt; &lt;a href="/process-mapping"&gt;Process Mapping&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
   &lt;h3 id="nugget-ref"&gt;nugget&lt;/h3&gt;

@@ -3,7 +3,71 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-15 20:08:33 +0530</pubDate>
+    <pubDate>2013-12-15 21:12:40 +0530</pubDate>
+    <item>
+      <title>Metrics Baselining</title>
+      <link>http://www.amanking.com/metrics-baselining</link>
+      <pubDate>2013-12-15</pubDate>
+      <description>&lt;p&gt;During the assessment period of an &lt;a href="/agile-coaching-engagements"&gt;Agile coaching engagement&lt;/a&gt;, a lot of information is captured around the team&amp;#39;s &lt;a href="/process-mapping"&gt;current processes and practices&lt;/a&gt;. Along with these, gathering quantitative data is also important. These will go into the assessment report at the end, portraying some aspects of current state. Collecting such metrics during assessment is called &lt;em&gt;Metrics Baselining&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Recommendations can be made on the basis of numbers and trends observed, especially using complementary metrics. If the assessment is followed by Agile Adoption, these metrics can be used to indicate progress in chosen areas. From a sustenance point of view, a Before/After comparison around these metrics can determine comfort level and for demonstrating coaching effectiveness.&lt;/p&gt;
+
+&lt;p&gt;One may think capturing quantitative data will be simpler than gathering qualitative data. In my experience, the former is trickier and even risky. From a tooling perspective, getting to the numbers might be easy enough. But knowing what numbers actually matter is where the complexity lies. Especially since typically during an assessment, the team and the coach themselves are unaware of exactly where the team&amp;#39;s challenges lie, and the assessment is supposed to help discover these. Tracking irrelevant metrics may send a team down a useless path, or worse, a harmful path. Metrics selection should be guided by clear meaningful goals. But when unsure, an Agile Coach may choose to capture whatever can be captured, with a clear disclaimer that it&amp;#39;s being done so that the information is available &lt;em&gt;if&lt;/em&gt; it becomes useful later. So be sure to archive these metrics somewhere safe.&lt;/p&gt;
+
+&lt;p&gt;Some typical metrics captured are as follows.&lt;/p&gt;
+
+&lt;h3 id="toc_0"&gt;Productivity&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cycle time&lt;/li&gt;
+&lt;li&gt;Say/Do ratio&lt;/li&gt;
+&lt;li&gt;Velocity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="toc_1"&gt;Quality&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Defect count over time&lt;/li&gt;
+&lt;li&gt;Defect ratio across environments or testing stages&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="toc_2"&gt;Code base&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Code coverage&lt;/li&gt;
+&lt;li&gt;Cyclomatic complexity&lt;/li&gt;
+&lt;li&gt;Code toxicity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id="toc_3"&gt;Build and deployment&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Build frequency&lt;/li&gt;
+&lt;li&gt;Build pass/fail ratio&lt;/li&gt;
+&lt;li&gt;Deployment frequency&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Depending on where the team is with certain practices, some of the above metrics may not be readily available or even applicable at the time of assessment. You may need to tweak what kind of metrics you gather in such cases by finding reasonable context-based alternatives.&lt;/p&gt;
+
+&lt;p&gt;I cannot overstate how important it is to not become metrics-driven at this stage or even later. It is likely that the client may need to be educated around the perils of the same. A good guide may be the Goal-Question-Metric model.&lt;/p&gt;
+
+&lt;h3 id="toc_4"&gt;Further resources&lt;/h3&gt;
+
+&lt;h4 id="toc_5"&gt;Metrics related&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.leadingagile.com/2013/07/agile-health-metrics-for-predictability/"&gt;Agile Health Metrics for Predictability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/GQM"&gt;Goal-Question-Metric model&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="toc_6"&gt;Tools related&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Cycle time: &lt;a href="http://www.thoughtworks.com/insights/blog/get-better-2-minutes-mingle-cycle-time-analytics"&gt;Mingle&lt;/a&gt;, &lt;a href="https://confluence.atlassian.com/display/AGILE/Viewing+the+Control+Chart"&gt;JIRA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Code metrics: &lt;a href="http://erik.doernenburg.com/2008/11/how-toxic-is-your-code/"&gt;Code Toxicity&lt;/a&gt;, &lt;a href="http://checkstyle.sourceforge.net/"&gt;Checkstyle&lt;/a&gt;, &lt;a href="http://www.sonarqube.org/"&gt;Sonar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     <item>
       <title>Process Mapping</title>
       <link>http://www.amanking.com/process-mapping</link>
@@ -149,33 +213,6 @@ In most cases, a single Agile Coach on an engagement will touch upon all of the 
 &lt;li&gt;&lt;a href="http://www.agilecoachinginstitute.com/agile-competency-whitepaper/"&gt;Agile Coaching Competencies&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://blogs.agilefaqs.com/2013/07/21/how-coaching-is-different-from-training-mentoring-counseling-and-consulting"&gt;Comparison of Coaching, Training, Mentoring, Consulting&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley-ebook/dp/B003QP47YG/"&gt;Coaching Agile Teams&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
-      <title>Coaching Basics</title>
-      <link>http://www.amanking.com/coaching-basics</link>
-      <pubDate>2013-12-10</pubDate>
-      <description>&lt;p&gt;The term &lt;em&gt;Coaching&lt;/em&gt; is overloaded.&lt;/p&gt;
-
-&lt;p&gt;Comparatively, terms like &lt;em&gt;&lt;a href="http://www.refactoring.com/"&gt;Refactoring&lt;/a&gt;&lt;/em&gt; and &lt;em&gt;&lt;a href="http://c2.com/cgi/wiki?YouArentGonnaNeedIt"&gt;YAGNI&lt;/a&gt;&lt;/em&gt; are recently invented. But despite having had clear definitions to start with, these words still suffer from &lt;a href="http://martinfowler.com/bliki/RefactoringMalapropism.html"&gt;malapropism&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Coaching&lt;/em&gt; is a plain English word, around since ages. It is not surprising that its definition in the professional world remains open. This is evident from its &lt;a href="http://en.wikipedia.org/wiki/Coaching"&gt;Wikipedia page&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;That said, there have been attempts to describe coaching better, acknowledging the wide spectrum it could cover, and yet putting some boundaries to it.&lt;/p&gt;
-
-&lt;p&gt;My personal view on the term is still evolving despite having played the Agile Coach role. So far I&amp;#39;ve kept it simple:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Coaching is not classroom training; it is interpersonal; it creates awareness in individuals and teams; it is more about asking than telling.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Check these links for less &lt;em&gt;fuzzy&lt;/em&gt; definitions:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.abdn.ac.uk/mgtskills/people/people2/people2-4/"&gt;Key elements of coaching&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://tle.tafevc.com.au/toolbox/file/44cc9067-a0f9-5e24-d9c7-67a5678d4aa9/1/10_04a.zip/toolbox/resources/res1050/res1050.htm"&gt;Coaching styles&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.coachville.com/home/html/coaching_basics"&gt;Coaching skills&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
