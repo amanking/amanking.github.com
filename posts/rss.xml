@@ -3,7 +3,39 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-15 17:26:08 +0530</pubDate>
+    <pubDate>2013-12-15 18:43:21 +0530</pubDate>
+    <item>
+      <title>Process Mapping</title>
+      <link>http://www.amanking.com/process-mapping</link>
+      <pubDate>2013-12-14</pubDate>
+      <description>&lt;p&gt;After having collected enough information during the assessment period of an &lt;a href="/agile-coaching-engagements"&gt;Agile coaching engagement&lt;/a&gt;, especially using &lt;a href="/assessment-interviews"&gt;interviews&lt;/a&gt;, you should be in a position to draw a &lt;em&gt;Process Map&lt;/em&gt; of what you&amp;#39;ve learnt.&lt;/p&gt;
+
+&lt;p&gt;You could go use a tool to build a clean and elaborate process map but I recommend starting with stickies. Take a bunch of stickies and write down the important activities that you know different roles get involved in during the start of an iteration, at the end of an iteration, and in-between. Give a short name for the activity and note the name of the role as well. Keep the granularity at medium level, as you don&amp;#39;t want too many stickies at once, at least not initially.&lt;/p&gt;
+
+&lt;p&gt;Now on a whiteboard, sequence these stickies, one at a time, in the order they are done. Draw connecting lines between the stickies as you proceed. If some activities are repeated, draw loops accordingly. You will now have a visual timeline of an iteration. If you can spot obvious gaps in the timeline, add more stickies for those missing activities along with role participation.&lt;/p&gt;
+
+&lt;p&gt;Now you will want to know more about what feeds into an iteration and how, and what goes out of an iteration and how. The former is usually around requirements and defect management. The latter is typically about releases and deployments. In most organizations, customer feedback and customer support connects the end point to the starting point. However, some of this could be just your assumption. It is unlikely you&amp;#39;d have gotten a complete view of the process as some of these aspects are not apparent mid-release nor are all team members aware of them. It is time to get proper validation.&lt;/p&gt;
+
+&lt;p&gt;Take a pic of the process map you&amp;#39;ve come up with, and take it off the board. Keep the stickies handy though. Schedule an hour-long meeting with those roles who&amp;#39;d be aware of these steps at a high level. Typically it is a Project Manager, a Tech Lead, or the Product Owner. Repeat the above process in front of them (using your earlier stickies) but clearly call out every addition you make to the process map. Give them a chance to react at every step, getting either validation or corrections from them. Annotate the flow or the stickies themselves with any details you get. For the gaps or the big picture (before/after iteration), let them call out the activities and the roles involved (you could capture exact names of people as well). Cross-check with what you&amp;#39;d assumed. For those that match, use your stickies. For those that don&amp;#39;t, tear off your sticky and create new ones on the fly. In the end, summarize the map on the board to catch any obvious misses.&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;img alt="Process Map" src="/assets/media/images/process-mapping/process-map.png"&gt;&lt;br&gt;
+&lt;small class="muted"&gt;Sample process map&lt;/small&gt;&lt;/p&gt;
+
+&lt;p&gt;Keep the map on the board, and show it to team members you had interviewed before. Get their insights about the visual. Mostly it should be a confirmation of the activities depicted. You could also get more details around certain activities. Additionally, you can cross-check different people&amp;#39;s viewpoints.&lt;/p&gt;
+
+&lt;p&gt;Try to capture this map using a tool or in the simplest case, attach a picture of it on a wiki page that describes the process in words as well.&lt;/p&gt;
+
+&lt;p&gt;Once you have a process map, you could consider doing a &lt;em&gt;value stream mapping&lt;/em&gt; if you feel it will help with the engagement objectives.&lt;/p&gt;
+
+&lt;p&gt;Some related links:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.isixsigma.com/tools-templates/process-mapping/building-valuable-process-maps-takes-skill-and-time/"&gt;Building process maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Value_stream_mapping"&gt;Value stream mapping - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.slideshare.net/michael.sahota/value-stream-mapping-workshop"&gt;Value stream mapping workshop slides&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     <item>
       <title>Assessment Interviews</title>
       <link>http://www.amanking.com/assessment-interviews</link>
@@ -145,19 +177,6 @@ In most cases, a single Agile Coach on an engagement will touch upon all of the 
 &lt;li&gt;&lt;a href="http://tle.tafevc.com.au/toolbox/file/44cc9067-a0f9-5e24-d9c7-67a5678d4aa9/1/10_04a.zip/toolbox/resources/res1050/res1050.htm"&gt;Coaching styles&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.coachville.com/home/html/coaching_basics"&gt;Coaching skills&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    <item>
-      <title>Agile India 2014</title>
-      <link>http://www.amanking.com/agile-india-2014</link>
-      <pubDate>2013-12-09</pubDate>
-      <description>&lt;p&gt;&lt;a href="http://2014.agileindia.org/"&gt;Agile India 2014&lt;/a&gt; is scheduled for 26th Feb - 1st Mar 2014 in Bangalore. My talk, &lt;a href="http://present.agileindia.org/proposal/16/from-practitioner-to-coach"&gt;From Practitioner to Coach&lt;/a&gt;, has been selected for the conference under the Scaling Agile track.&lt;/p&gt;
-
-&lt;p&gt;In support of the presentation, I will blog about various coaching-related topics here. Most of the posts will be short, and will be tagged as a &lt;em&gt;nugget&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;I&amp;#39;m looking forward to the conference! It has an excellent line up of speakers and topics. Do check it out yourself.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="http://2014.agileindia.org/" target="_blank" title="I am speaking at Agile India 2014"&gt;&lt;img src="/assets/media/images/badges/speaker-agile-india-2014.png" title="I am speaking at Agile India 2014" alt="I am speaking at Agile India 2014"/&gt;&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
   </channel>
