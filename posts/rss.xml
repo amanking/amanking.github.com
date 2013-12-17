@@ -3,7 +3,88 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-17 23:18:29 +0530</pubDate>
+    <pubDate>2013-12-18 01:21:35 +0530</pubDate>
+    <item>
+      <title>Measuring Progress</title>
+      <link>http://www.amanking.com/measuring-progress</link>
+      <pubDate>2013-12-17</pubDate>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&amp;quot;If you can not measure it, you can not improve it.&amp;quot;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin"&gt;Lord Kelvin&lt;/a&gt; is accredited with the above quote. He was not talking about Agile software development but he was probably on to &lt;em&gt;continuous improvement&lt;/em&gt;. The latter is integral to the former.&lt;/p&gt;
+
+&lt;p&gt;A positive change on a metric can be an &lt;em&gt;indicator&lt;/em&gt; of progress or improvement. It is not a guarantee of progress but an indicator. Perhaps if we combine different metrics, all indicating progress on interconnected concepts, we can have higher confidence that there is improvement.&lt;/p&gt;
+
+&lt;h3 id="toc_0"&gt;Sample Case Study&lt;/h3&gt;
+
+&lt;p&gt;Let us say Team A and Team B both start off with 2% code coverage. There is strong &lt;em&gt;encouragement&lt;/em&gt; from Management that coverage needs to improve. Team A adopts a traditional unit testing approach, ie, adding tests after code is written. Team B adopts TDD, ie, writing test first and then code.&lt;/p&gt;
+
+&lt;p&gt;Two months later, Team A has 25% code coverage. Team B has 10%.&lt;/p&gt;
+
+&lt;p&gt;Which team has made better progress?&lt;/p&gt;
+
+&lt;p&gt;Answer is we don&amp;#39;t know. If we treat &lt;em&gt;measuring progress&lt;/em&gt; as equivalent to &lt;em&gt;measuring code coverage&lt;/em&gt;, clearly Team A is better off. But is progress the same as code coverage?&lt;/p&gt;
+
+&lt;p&gt;Let us bring in another metric: Avg Defect Count per Iteration. Let&amp;#39;s say Team A and B both started with 20. After the two months, Team A has a defect count of 12, while Team B has 8.&lt;/p&gt;
+
+&lt;p&gt;Looking at this:&lt;/p&gt;
+
+&lt;table border="1"&gt;
+  &lt;tr&gt;
+      &lt;th&gt;Team&lt;/th&gt;
+      &lt;th&gt;Coverage - Before&lt;/th&gt;
+      &lt;th&gt;Avg Defect Count - Before&lt;/th&gt;
+      &lt;th&gt;Coverage - After&lt;/th&gt;
+      &lt;th&gt;Avg Defect Count - After&lt;/th&gt;
+  &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;A&lt;/td&gt;
+        &lt;td&gt;2%&lt;/td&gt;
+        &lt;td&gt;20&lt;/td&gt;
+        &lt;td&gt;25%&lt;/td&gt;
+        &lt;td&gt;12&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;B&lt;/td&gt;
+        &lt;td&gt;2%&lt;/td&gt;
+        &lt;td&gt;20&lt;/td&gt;
+        &lt;td&gt;10%&lt;/td&gt;
+        &lt;td&gt;8&lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br&gt;
+Which team has made better progress?&lt;/p&gt;
+
+&lt;p&gt;With these combined metrics, we are tempted to say Team B. Because having lesser defects seems associated with quality improvement.&lt;/p&gt;
+
+&lt;p&gt;Perhaps for Team B, TDD led to better understanding of new features and improved quality. However, it did not increase code coverage for existing code that was not touched. On the other hand, Team A focused on increasing code coverage but the effectiveness of the covering tests was questionable, which resulted in higher coverage but not a proportional gain in quality.&lt;/p&gt;
+
+&lt;p&gt;Of course, our answer could still be wrong! Perhaps Team B had a couple of QAs go on vacation, which led to some stories not being tested exhaustively (functional, manual, exploratory, etc), and hence, lesser defects were found.&lt;/p&gt;
+
+&lt;p&gt;The learning is that these numbers are all indicators, and subjectivity has to be applied. Measuring progress is not about measuring numbers. Continuous improvement is not about improving numbers.&lt;/p&gt;
+
+&lt;h3 id="toc_1"&gt;Techniques&lt;/h3&gt;
+
+&lt;p&gt;Having established that, indicators are still necessary and can be an asset during &lt;a href="/agile-coaching-roles"&gt;Agile Coaching&lt;/a&gt;. If we feel the team is making progress, an improvement in numbers will support that. Corollary is that if numbers show a downward trend, we need to investigate if there are slippages or reasonable circumstances to account for that. For all the following suggestions, what is useful is tracking them over a period of time. Based on context, you could decided how frequently to capture them, and how to analyze the results, and if any action item is needed.&lt;/p&gt;
+
+&lt;h4 id="toc_2"&gt;Metrics&lt;/h4&gt;
+
+&lt;p&gt;Metrics used for &lt;em&gt;baselining&lt;/em&gt; can be used for continuous monitoring. Remember to choose metrics based on goals, and definitely choose more than one. You can read more &lt;a href="/metrics-baselining"&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id="toc_3"&gt;Confidence Meter&lt;/h4&gt;
+
+&lt;p&gt;Another technique I have seen used effectively is a &lt;em&gt;Confidence Meter&lt;/em&gt;. On or near the Story Wall, we could have a flipchart or whiteboard area to capture the confidence which individual team members have in making a successful release at the end of the iteration. 90% or higher reflects great confidence while anything lower than 30% shows lack of confidence. Team members could update these numbers against their name at the end of a stand up, and if there is a wide variance in perspectives, it could trigger discussions immediately instead of waiting till a Retrospective.&lt;/p&gt;
+
+&lt;h4 id="toc_4"&gt;Surveys&lt;/h4&gt;
+
+&lt;p&gt;One technique, strong on subjectivity, is &lt;em&gt;Surveys&lt;/em&gt;. It may seem casual and imprecise but the results can be revealing. A good survey will have a mix of objective and subjective questions. An objective question could be &lt;em&gt;&amp;quot;Has frequency and pace of refactoring increased?&amp;quot;&lt;/em&gt;, with options ranging from &lt;em&gt;0 (Barely)&lt;/em&gt; to &lt;em&gt;5 (Great extent)&lt;/em&gt;. A subjective comment box could capture something like &lt;em&gt;&amp;quot;Do you feel confident to help others with XP Practices, and in what areas?&amp;quot;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+You can come up with more things to track to indicate progress in your team&amp;#39;s context. It also helps motivation if you can make the trend visible, perhaps by using Big Visible Charts or Information Radiators. But yes, ever so often, do check and remind people that the goal is to make progress and to improve on aspects that provide value to the Business or end users, and not to get solely number-driven.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Facilitation Techniques</title>
       <link>http://www.amanking.com/facilitation-techniques</link>
@@ -207,40 +288,6 @@ Here is a &lt;a href="/assets/media/docs/sample-assessment-interview-notes.pdf"&
 &lt;li&gt;&lt;a href="http://www.skillsyouneed.com/ips/active-listening.html"&gt;Active listening signs&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.skillsyouneed.com/ips/questioning.html"&gt;Questioning&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://pagilista.blogspot.co.uk/2012/04/wait-crucial-consulting-advice.html"&gt;W.A.I.T.&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
-      <title>Agile Coaching Engagements</title>
-      <link>http://www.amanking.com/agile-coaching-engagements</link>
-      <pubDate>2013-12-12</pubDate>
-      <description>&lt;p&gt;In Agile consulting, there can be different types of engagements that you get into with your client. One type of engagement may lead to another type. As an Agile Coach, you will find yourself participating across the board. Your focus areas will change based on what the engagement objectives are.&lt;/p&gt;
-
-&lt;p&gt;Here are the typical types of engagements I have encountered.&lt;/p&gt;
-
-&lt;h3 id="toc_0"&gt;Assessments&lt;/h3&gt;
-
-&lt;p&gt;Sometimes a team, a department, or an organization simply is not aware of where they stand with respect to Agile adoption. They need answers to questions like: &amp;quot;Will they benefit from Agile Coaching, or are there too many prerequisites missing? Tentatively for how long will they need coaching before achieving self-sustenance? What areas need the most focus on?&amp;quot; Answering such questions means at least 2-3 days of work, involving interviews, discovery workshops, first-hand observations, metrics collections, etc. This is then followed by summarization and recommendation in the form of an assessment report, which typically contains a proposed coaching plan.&lt;/p&gt;
-
-&lt;h3 id="toc_1"&gt;Pilot / Proof of Concept&lt;/h3&gt;
-
-&lt;p&gt;Despite Agile initiatives at an organization level, a department could have doubts about whether or not Agile would work for their specific context. In such cases, people agree to a Proof of Concept or Pilot, starting off with Agile Coaching with one selected team for a given duration of time, having a limited set of objectives. If the Pilot goes well, the department may agree to an overall Agile adoption. Coaches involved in a Pilot have to remain very conscious of how their time is spent, what activities they take up, and what focus areas to target, all the while keeping an eye out on measuring and showcasing benefits, even if small. Periodically they will send out progress reports, and finally wrap up the engagement with a summarization that highlights what worked and what did not work, challenges faced, and recommendations to overcome them. It is important to remind clients of what was decidedly out of scope. A Pilot could be anywhere between 2-8 weeks depending on the scope of objectives.&lt;/p&gt;
-
-&lt;h3 id="toc_2"&gt;Agile Adoption&lt;/h3&gt;
-
-&lt;p&gt;Agile Adoption primarily refers to teams picking up Agile practices and using them for productivity gains and quality improvements. These practices could be process related such as time-boxed iterations, iteration planning, estimation, stand ups, and so on. Or these could be engineering related such as Test-driven Development, Refactoring, Continuous Integration, functional test automation, etc. However, it is established in most circles that Agile is more of a mindset than a set of processes and practices. That said, the latter helps teams try out well-described techniques that may be new to them, and possibly with time and guidance, they are able to see the short-term and long-term benefits behind the practices. Once teams reach this competency level, they are better placed to recognize and embrace the mindset change. This is what the Agile Coach will focus on: helping teams adopt certain practices, and gain higher skill levels in those, while also gradually guiding them towards the reasoning and benefits behind the practices. Tracking the team&amp;#39;s progress, checking for any drop in adoption after an initial spike, and continued efforts at sustenance, are also some of the key areas an Agile Coach looks into. Agile Adoption generally takes time, with some factors being team size, project complexity, and attitude and capabilities of team members. An Agile Coach will typically end up coaching multiple teams. Such an engagement can easily range from 2 months to a year.&lt;/p&gt;
-
-&lt;h3 id="toc_3"&gt;Agile Transformation&lt;/h3&gt;
-
-&lt;p&gt;Having had success with Agile Adoption, an organization may chose to embrace Agile completely across all of its departments and teams. This is Agile Transformation. It is typically organization-wide, spread horizontally as well as vertically. The focus shifts very visibly from processes and practices to mindset and culture. For it to be successful, common vision and buy-in are needed from all levels in the organization and across all departments. This will even include aspects such as IT policies, Recruitment, Performance Reviews, etc. An Agile consultant will end up focusing almost solely on strategic discussion and planning, with a lot of support from continued tactical coaching, either internal or external, at team levels. Such engagements are seen less frequently and are definitely long-term, easily spanning more than a year.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-For a further exploration of such topics, you can consider:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.infoq.com/minibooks/agile-adoption-transformation"&gt;Michael Sahota&amp;#39;s book&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.agilealliance.org/programs/supporting-agile-adoption-it-is-about-change/"&gt;Agile Alliance documents&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://martinfowler.com/tags/agile%20adoption.html"&gt;Martin Fowler&amp;#39;s bliki&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
