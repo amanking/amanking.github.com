@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-18 01:21:35 +0530</pubDate>
+    <pubDate>2013-12-18 01:23:55 +0530</pubDate>
     <item>
       <title>Measuring Progress</title>
       <link>http://www.amanking.com/measuring-progress</link>
@@ -12,7 +12,7 @@
 &lt;p&gt;&lt;em&gt;&amp;quot;If you can not measure it, you can not improve it.&amp;quot;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin"&gt;Lord Kelvin&lt;/a&gt; is accredited with the above quote. He was not talking about Agile software development but he was probably on to &lt;em&gt;continuous improvement&lt;/em&gt;. The latter is integral to the former.&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin"&gt;Lord Kelvin&lt;/a&gt; is accredited with the above quote. He was not talking about Agile software development but he was probably on to &lt;em&gt;continuous improvement&lt;/em&gt;. The latter is &lt;a href="http://agilemanifesto.org/principles.html"&gt;integral&lt;/a&gt; to the former.&lt;/p&gt;
 
 &lt;p&gt;A positive change on a metric can be an &lt;em&gt;indicator&lt;/em&gt; of progress or improvement. It is not a guarantee of progress but an indicator. Perhaps if we combine different metrics, all indicating progress on interconnected concepts, we can have higher confidence that there is improvement.&lt;/p&gt;
 
