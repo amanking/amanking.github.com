@@ -3,7 +3,63 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-18 01:23:55 +0530</pubDate>
+    <pubDate>2013-12-20 02:18:39 +0530</pubDate>
+    <item>
+      <title>Self-discovery</title>
+      <link>http://www.amanking.com/self-discovery</link>
+      <pubDate>2013-12-19</pubDate>
+      <description>&lt;p&gt;&lt;em&gt;Self-discovery&lt;/em&gt; is important for an individual to understand oneself better, and to continuously grow or evolve. While important for one&amp;#39;s personal life, it is also applicable to one&amp;#39;s professional life.&lt;/p&gt;
+
+&lt;p&gt;In &lt;a href="/coaching-basics"&gt;coaching&lt;/a&gt;, one of the goals is to aid individuals to gain better awareness of their own potential. While one way to address this is to provide continuous feedback, it additionally helps if individuals are enabled to learn more about themselves on their own.&lt;/p&gt;
+
+&lt;p&gt;Some tools that I have personally found useful and have recommended to others:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://strengths.gallup.com/110440/About-StrengthsFinder-20.aspx"&gt;Strengths Finder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.mindtimemaps.com/"&gt;MindTimeMaps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Other activity-based suggestions include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.noop.nl/2011/09/moving-motivators-free-exercise.html"&gt;Moving Motivators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.jthoenes.net/personal-retrospectives/"&gt;Personal Retrospectives&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Whether you take online questionnaires, conduct introspective exercises or retrospectives, or simply reflect on feedback received, it is useful to take some time out to think about yourself and your place in the surrounding context. Having gone through certain experiences and learnings, reflecting on those and imbibing key takeaways will ensure that you grow in the process. Else there is a risk that each incident, whether good or bad, remains just as an incident in your memory, and does not become an opportunity to improve.&lt;/p&gt;
+
+&lt;p&gt;Self-discovery in individuals, combined with &lt;a href="/self-learning"&gt;self-learning&lt;/a&gt;, is key to sustenance, especially in Agile Coaching.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>Self-learning</title>
+      <link>http://www.amanking.com/self-learning</link>
+      <pubDate>2013-12-18</pubDate>
+      <description>&lt;p&gt;A good degree of &lt;em&gt;self-learning&lt;/em&gt; is expected out of every individual being coached during an &lt;a href="/agile-coaching-engagements"&gt;Agile Adoption&lt;/a&gt;. Without it, individuals cannot move through the various stages of learning as put across by the &lt;a href="http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition"&gt;Dreyfus Model&lt;/a&gt;. An Agile Coach may pair on tasks with individuals but such an approach is limited by team size, and one-on-one attention cannot be given for extended durations of time. After all, the way an Agile Coach operates is different from that of a Personal Trainer.&lt;/p&gt;
+
+&lt;p&gt;An Agile Coach will usually focus on providing the building blocks, and then set the individual on the path of self-learning. This is the approach right from the onset, where instead of spoon-feeding answers, the coach will use effective questioning to guide the individual to come up with their own reasonable conclusions. This is an application of what is widely known as &lt;a href="http://en.wikipedia.org/wiki/Socratic_method"&gt;Socratic Method&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Additionally what I follow is the &lt;a href="http://www.princeton.edu/hr/learning/philosophy/"&gt;Princeton Model&lt;/a&gt; of learning:&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Princeton Model" src="/assets/media/images/coaching/princeton-model.png" style="float:right; margin: 0px 0px 0px 20px; width: auto"&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;70%&lt;/em&gt; of the skills adoption comes from real work done on the ground. I pair with individuals on actual project work, and have coached individuals pair with others.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;20%&lt;/em&gt; of the skills adoption happens via workshops, sessions, and demos. These workshops are conducted by me or other invited experts. Demos and knowledge-sharing brown bag sessions are conducted on a regular basis within the team, where team members themselves volunteer to show-and-tell.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;10%&lt;/em&gt; of skills exposure happens via reading. Links to relevant articles and blogs are shared via mailing lists or wiki pages. Book recommendations are also made, and possibly added to a library.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What I have also seen encourage self-learning in teams is to throw challenges at them, and see them cope with it by upgrading their skill levels.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="Challenges vs Skills" src="/assets/media/images/coaching/challenges-vs-skills.png" style="float:left; margin: 0px 20px 20px 0px; width: auto"&gt;&lt;/p&gt;
+
+&lt;p&gt;If an individual is dealing with challenges which are underwhelming, and do not require full utilization of existing skills, the individual gets bored or complacent. If, however, the individual is put up with overwhelming challenges, the individual will experience some frustration or stress, and will either try to reduce the challenges or will learn skills appropriate to overcome the challenges. If steered toward the latter behavior, the person grows in competence.&lt;/p&gt;
+
+&lt;div style="clear:both"&gt;&lt;/div&gt;
+
+&lt;p&gt;These are some of the ways in which self-learning can take place in individuals and teams. They are effective tools to use during active coaching, to make a team reach levels of sustenance. This process may lead some individuals down the path to &lt;a href="/self-discovery"&gt;self-discovery&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Measuring Progress</title>
       <link>http://www.amanking.com/measuring-progress</link>
@@ -208,86 +264,6 @@ There are even more facilitation techniques that one can employ, for example, &l
 &lt;ul&gt;
 &lt;li&gt;Cycle time: &lt;a href="http://www.thoughtworks.com/insights/blog/get-better-2-minutes-mingle-cycle-time-analytics"&gt;Mingle&lt;/a&gt;, &lt;a href="https://confluence.atlassian.com/display/AGILE/Viewing+the+Control+Chart"&gt;JIRA&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Code metrics: &lt;a href="http://erik.doernenburg.com/2008/11/how-toxic-is-your-code/"&gt;Code Toxicity&lt;/a&gt;, &lt;a href="http://checkstyle.sourceforge.net/"&gt;Checkstyle&lt;/a&gt;, &lt;a href="http://www.sonarqube.org/"&gt;Sonar&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
-      <title>Process Mapping</title>
-      <link>http://www.amanking.com/process-mapping</link>
-      <pubDate>2013-12-14</pubDate>
-      <description>&lt;p&gt;After having collected enough information during the assessment period of an &lt;a href="/agile-coaching-engagements"&gt;Agile coaching engagement&lt;/a&gt;, especially using &lt;a href="/assessment-interviews"&gt;interviews&lt;/a&gt;, an Agile Coach should be in a position to draw a &lt;em&gt;Process Map&lt;/em&gt; of whatever has been discovered.&lt;/p&gt;
-
-&lt;p&gt;You could go use a tool to build a clean and elaborate process map but I recommend starting with stickies. Take a bunch of stickies and write down the important activities that you know different roles get involved in during the start of an iteration, at the end of an iteration, and in-between. Give a short name for the activity and note the name of the role as well. Keep the granularity at medium level, as you don&amp;#39;t want too many stickies at once, at least not initially.&lt;/p&gt;
-
-&lt;p&gt;Now on a whiteboard, sequence these stickies, one at a time, in the order they are done. Draw connecting lines between the stickies as you proceed. If some activities are repeated, draw loops accordingly. You will now have a visual timeline of an iteration. If you can spot obvious gaps in the timeline, add more stickies for those missing activities along with role participation.&lt;/p&gt;
-
-&lt;p&gt;Now you will want to know more about what feeds into an iteration and how, and what goes out of an iteration and how. The former is usually around requirements and defect management. The latter is typically about releases and deployments. In most organizations, customer feedback and customer support connects the end point to the starting point. However, some of this could be just your assumption. It is unlikely you&amp;#39;d have gotten a complete view of the process as some of these aspects are not apparent mid-release nor are all team members aware of them. It is time to get proper validation.&lt;/p&gt;
-
-&lt;p&gt;Take a pic of the process map you&amp;#39;ve come up with, and take it off the board. Keep the stickies handy though. Schedule an hour-long meeting with those roles who&amp;#39;d be aware of these steps at a high level. Typically it is a Project Manager, a Tech Lead, or the Product Owner. Repeat the above process in front of them (using your earlier stickies) but clearly call out every addition you make to the process map. Give them a chance to react at every step, getting either validation or corrections from them. Annotate the flow or the stickies themselves with any details you get. For the gaps or the big picture (before/after iteration), let them call out the activities and the roles involved (you could capture exact names of people as well). Cross-check with what you&amp;#39;d assumed. For those that match, use your stickies. For those that don&amp;#39;t, tear off your sticky and create new ones on the fly. In the end, summarize the map on the board to catch any obvious misses.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;img alt="Process Map" src="/assets/media/images/coaching/process-map.png"&gt;&lt;br&gt;
-&lt;small class="muted"&gt;Sample process map&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;Keep the map on the board, and show it to team members you had interviewed before. Get their insights about the visual. Mostly it should be a confirmation of the activities depicted. You could also get more details around certain activities. Additionally, you can cross-check different people&amp;#39;s viewpoints.&lt;/p&gt;
-
-&lt;p&gt;Try to capture this map using a tool or in the simplest case, attach a picture of it on a wiki page that describes the process in words as well.&lt;/p&gt;
-
-&lt;p&gt;Once you have a process map, you could consider doing a &lt;em&gt;value stream mapping&lt;/em&gt; if you feel it will help with the engagement objectives.&lt;/p&gt;
-
-&lt;p&gt;Some related links:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.isixsigma.com/tools-templates/process-mapping/building-valuable-process-maps-takes-skill-and-time/"&gt;Building process maps&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Value_stream_mapping"&gt;Value stream mapping - Wikipedia&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.slideshare.net/michael.sahota/value-stream-mapping-workshop"&gt;Value stream mapping workshop slides&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    <item>
-      <title>Assessment Interviews</title>
-      <link>http://www.amanking.com/assessment-interviews</link>
-      <pubDate>2013-12-13</pubDate>
-      <description>&lt;p&gt;During the assessment week of an &lt;a href="/agile-coaching-engagements"&gt;Agile coaching engagement&lt;/a&gt;, the goal is to learn about the current state of the team. Special attention is needed towards capturing:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Day-to-day activities of various roles&lt;/li&gt;
-&lt;li&gt;Additional activities such as on planning day, deployment day, etc&lt;/li&gt;
-&lt;li&gt;Tools used to support these activities&lt;/li&gt;
-&lt;li&gt;Processes around these activities&lt;/li&gt;
-&lt;li&gt;Interaction, collaboration, and dependency on other roles or teams during these activities&lt;/li&gt;
-&lt;li&gt;Infrastructure environments involved in these activities&lt;/li&gt;
-&lt;li&gt;Outcome of these activities in an iteration-level view&lt;/li&gt;
-&lt;li&gt;Challenges faced in performing any of these activities or the role in general&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It is important to remain objective while making observations, and to not fall into the temptation of drawing conclusions or making recommendations. The latter is needed but should come towards the end of the assessment when holistic information is available.&lt;/p&gt;
-
-&lt;p&gt;One way to get visibility into the above aspects is conducting interviews of team members. We need not talk to everyone but only a representative sample (perhaps 1-2 individuals) from each role. This should be complemented with first-hand observation of how they work. Here is a suggestion of how you could go about this activity.&lt;/p&gt;
-
-&lt;h3 id="toc_0"&gt;Interview preparation&lt;/h3&gt;
-
-&lt;p&gt;Inform the Project Manager or equivalent a day or two in advance about the interviews you are planning to do. Learn about the various roles in the team, and ask the PM to inform team members to make time for the interview, which could last anywhere between 30 mins to an hour. It is usually a good idea to not conduct the interviews in a meeting room but at the desk of the individual. You should set up a time beforehand so that the interviewee is not distracted during the interview. Based on any insights already shared with you about the team&amp;#39;s current context, make a list of areas you want to specifically ask about. Some of these will be role-specific, and some general.&lt;/p&gt;
-
-&lt;h3 id="toc_1"&gt;Interview kickoff&lt;/h3&gt;
-
-&lt;p&gt;Introduce or re-introduce yourself to the individual. Briefly let them know why you are there with the team. Explain what the interview is about and how it will help. The interviewee should not feel like this is a test which has right or wrong answers. Thank the person for agreeing to the interview. Try to keep the interaction balanced between formal and informal so that it seems important and yet the interviewee feels comfortable in opening up and being forthright. Keep a notebook handy, and inform the interviewee that you&amp;#39;ll be scribbling notes during the interview, which you can share later after some clean-up if the interviewee is interested. It helps to reinforce transparency. First thing to note down is the person&amp;#39;s name and role, along with the interview date.&lt;/p&gt;
-
-&lt;h3 id="toc_2"&gt;Interview questions&lt;/h3&gt;
-
-&lt;p&gt;Start simple by asking about the person&amp;#39;s background in brief, typically around industry experience, how long with the current team, and role description. Follow this up by asking the person to describe their &lt;em&gt;typical day&lt;/em&gt;. You can expect to get a lot of information out of this. Be ready to probe for details as and when required. Don&amp;#39;t stick to going breadth-wise or depth-wise; switch how you elicit details based on how relevant you feel a topic is. You can even ask the individual to &lt;em&gt;show-and-tell&lt;/em&gt; some aspects, perhaps by using a computer or walking up to a board. That said, remember to timebox. After a point too much detail is unnecessary at this stage. Try to cover all the aspects mentioned at the start of this post, not in that order but activity by activity. An important piece that you can end the interview with, is asking about the challenges faced on the project. You will get insights that you might not gain by first-hand observation. If you have done a few interviews already, use further interviews to validate some of the points mentioned by others to get different viewpoints on the same thing. That too can be quite revealing at times.&lt;/p&gt;
-
-&lt;h3 id="toc_3"&gt;Interview documentation&lt;/h3&gt;
-
-&lt;p&gt;Scribbling on a notepad may not feel like an overhead but cleaning up your notes to put in a Word document or a wiki page might seem tiresome. But you will thank yourself later for doing so. I am surprised how often I can&amp;#39;t read my own handwriting just a few days later. Also, searching for something specific in a physical notepad is not as quick as one might imagine. Typing out the notes electronically is also an opportunity to structure the observations better. This is when you can collate information in a role-specific manner rather than as individual interviews. You may start to see patterns. These will feed into the later phases of assessment, ie, highlighting bottlenecks and challenges, and making recommendations.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-Here is a &lt;a href="/assets/media/docs/sample-assessment-interview-notes.pdf"&gt;sample document&lt;/a&gt;. And below are links on related skills:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.mindtools.com/CommSkll/ActiveListening.htm"&gt;Active listening skills&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.skillsyouneed.com/ips/active-listening.html"&gt;Active listening signs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.skillsyouneed.com/ips/questioning.html"&gt;Questioning&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://pagilista.blogspot.co.uk/2012/04/wait-crucial-consulting-advice.html"&gt;W.A.I.T.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
