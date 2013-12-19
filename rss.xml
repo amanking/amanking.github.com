@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-20 02:18:36 +0530</pubDate>
+    <pubDate>2013-12-20 02:26:01 +0530</pubDate>
     <item>
       <title>About Me</title>
       <link>http://www.amanking.com/about-me</link>
@@ -119,9 +119,10 @@
 &lt;/ul&gt;
 &lt;p&gt;What I have also seen encourage self-learning in teams is to throw challenges at them, and see them cope with it by upgrading their skill levels.&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt="Challenges vs Skills" src="/assets/media/images/coaching/challenges-vs-skills.png" style="float:left; margin: 0px 20px 20px 0px; width: auto"&gt;&lt;/p&gt;
+&lt;div style="float:left; margin: 0px 20px 20px 0px; width: auto"&gt;
+  &lt;img alt="Challenges vs Skills" src="/assets/media/images/coaching/challenges-vs-skills.png" style="border: 1px solid silver"&gt;&lt;br&gt;&lt;small class="muted"&gt;Graph introduced to me by &lt;a href="http://www.linkedin.com/pub/julian-parry/3/999/31"&gt;Jules Parry&lt;/a&gt;&lt;/small&gt;
+&lt;/div&gt;
 
-&lt;p&gt;If an individual is dealing with challenges which are underwhelming, and do not require full utilization of existing skills, the individual gets bored or complacent. If, however, the individual is put up with overwhelming challenges, the individual will experience some frustration or stress, and will either try to reduce the challenges or will learn skills appropriate to overcome the challenges. If steered toward the latter behavior, the person grows in competence.&lt;/p&gt;
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
