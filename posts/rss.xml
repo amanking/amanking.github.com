@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-23 00:34:04 +0530</pubDate>
+    <pubDate>2013-12-23 00:37:27 +0530</pubDate>
     <item>
       <title>Coaching Benefits Reporting</title>
       <link>http://www.amanking.com/coaching-benefits-reporting</link>
@@ -22,7 +22,7 @@
 
 &lt;h4 id="toc_1"&gt;Sample Case Study 1&lt;/h4&gt;
 
-&lt;p&gt;During assessment you measure Defect Count within Iteration, ie, the number of defects found by QA for the Iteration&amp;#39;s stories within the Iteration itself. You find it to be 10. After active coaching, let&amp;#39;s say you expected a decrease in defects. Turns out the number has increased to 15!&lt;/p&gt;
+&lt;p&gt;During assessment you measure Defect Count within Iteration, ie, the number of defects found by QA for the iteration&amp;#39;s stories within the iteration itself. You find it to be 10. After active coaching, let&amp;#39;s say you expected a decrease in defects. Turns out the number has increased to 15!&lt;/p&gt;
 
 &lt;p&gt;You and your stakeholders may end up asking: what Agile Coaching have we done that actually led to an increase in defects?!&lt;/p&gt;
 
@@ -30,11 +30,11 @@
 
 &lt;h4 id="toc_2"&gt;Sample Case Study 2&lt;/h4&gt;
 
-&lt;p&gt;Consider per Iteration, the % of stories that have automated tests. During assessment of a team which had started some Agile practices, let&amp;#39;s say the number was 50%. We measure this number again to get final numbers before wrapping up, and we see it&amp;#39;s 35%!!&lt;/p&gt;
+&lt;p&gt;Consider per iteration, the % of stories that have automated tests. During assessment of a team which had started some Agile practices, let&amp;#39;s say the number was 50%. We measure this number again to get final numbers before wrapping up, and we see it&amp;#39;s 35%!!&lt;/p&gt;
 
 &lt;p&gt;What happened?! Was the team doing better off on their own, before Agile Coaching?&lt;/p&gt;
 
-&lt;p&gt;No. The last Iteration we measured just happened to be during Christmas time, when most of the team was on leave, and most of the work happened to be spikes or proof of concept, done in a temporary code repository, in preparation for a new features coming in the new year backed by a fresh tech stack!&lt;/p&gt;
+&lt;p&gt;No. The last iteration we measured just happened to be during Christmas time, when most of the team was on leave, and most of the work happened to be spikes or proof of concept, done in a temporary code repository, in preparation for a new features coming in the new year backed by a fresh tech stack!&lt;/p&gt;
 
 &lt;h4 id="toc_3"&gt;Takeaway&lt;/h4&gt;
 
