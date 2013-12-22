@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-23 00:48:42 +0530</pubDate>
+    <pubDate>2013-12-23 01:00:17 +0530</pubDate>
     <item>
       <title>About Me</title>
       <link>http://www.amanking.com/about-me</link>
@@ -59,20 +59,14 @@
 &lt;h3 id="toc_0"&gt;Metrics&lt;/h3&gt;
 
 &lt;p&gt;This will be the third time I talk about &lt;em&gt;metrics&lt;/em&gt;. We used metrics for &lt;a href="/metrics-baselining"&gt;baselining&lt;/a&gt;; we used it for &lt;a href="/measuring-progress"&gt;measuring progress&lt;/a&gt;; and we will use it for a Before/After comparison in a Benefits document.&lt;/p&gt;
-
-&lt;p&gt;The idea is simple: you got some numbers when you started the engagement with an assessment; you saw how the numbers varied during active coaching; and finally, the numbers have reached a certain level when it's time to wrap up. A Before/After will typically stress on comparing the starting numbers against the final numbers; in an appendix, you could attach a trend graph for what happened in between.&lt;/p&gt;
-
-&lt;p&gt;Beyond this obvious approach to metrics, I want to call out some gotchas, basically some numbers that could confuse you and your stakeholders at first look!&lt;/p&gt;
-
-&lt;h4 id="toc_1"&gt;Sample Case Study 1&lt;/h4&gt;
-
-&lt;p&gt;During assessment you measure Defect Count within Iteration, ie, the number of defects found by QA for the iteration's stories within the iteration itself. You find it to be 10. After active coaching, let's say you expected a decrease in defects. Turns out the number has increased to 15!&lt;/p&gt;
-
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/coaching-benefits-reporting"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/coaching-benefits-reporting#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
@@ -82,9 +76,6 @@
             &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-      &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/coaching-benefits-reporting" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/coaching-benefits-reporting#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
-      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
@@ -97,7 +88,7 @@
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
         &lt;div class="content"&gt;
-          &lt;div class="summary"&gt;
+          &lt;div class="summary ellipsis"&gt;
 &lt;p&gt;&lt;em&gt;Self-discovery&lt;/em&gt; is important for an individual to understand oneself better, and to continuously grow or evolve. While important for one's personal life, it is also applicable to one's professional life.&lt;/p&gt;
 
 &lt;p&gt;In &lt;a href="/coaching-basics"&gt;coaching&lt;/a&gt;, one of the goals is to aid individuals to gain better awareness of their own potential. While one way to address this is to provide continuous feedback, it additionally helps if individuals are enabled to learn more about themselves on their own.&lt;/p&gt;
@@ -108,20 +99,14 @@
 &lt;li&gt;&lt;a href="http://strengths.gallup.com/110440/About-StrengthsFinder-20.aspx"&gt;Strengths Finder&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.mindtimemaps.com/"&gt;MindTimeMaps&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Other activity-based suggestions include:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.noop.nl/2011/09/moving-motivators-free-exercise.html"&gt;Moving Motivators&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://blog.jthoenes.net/personal-retrospectives/"&gt;Personal Retrospectives&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Whether you take online questionnaires, conduct introspective exercises or retrospectives, or simply reflect on feedback received, it is useful to take some time out to think about yourself and your place in the surrounding context. Having gone through certain experiences and learnings, reflecting on those and imbibing key takeaways will ensure that you grow in the process. Else there is a risk that each incident, whether good or bad, remains just as an incident in your memory, and does not become an opportunity to improve.&lt;/p&gt;
-
-&lt;p&gt;Self-discovery in individuals, combined with &lt;a href="/self-learning"&gt;self-learning&lt;/a&gt;, is key to sustenance, especially in Agile Coaching.&lt;/p&gt;
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/self-discovery"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/self-discovery#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
@@ -131,9 +116,6 @@
             &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-      &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/self-discovery" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/self-discovery#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
-      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
@@ -155,25 +137,14 @@
 
 &lt;p&gt;&lt;img alt="Princeton Model" src="/assets/media/images/coaching/princeton-model.png" style="float:right; margin: 0px 0px 0px 20px; width: auto"&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;
-&lt;em&gt;70%&lt;/em&gt; of the skills adoption comes from real work done on the ground. I pair with individuals on actual project work, and have coached individuals pair with others.&lt;/li&gt;
-&lt;li&gt;
-&lt;em&gt;20%&lt;/em&gt; of the skills adoption happens via workshops, sessions, and demos. These workshops are conducted by me or other invited experts. Demos and knowledge-sharing brown bag sessions are conducted on a regular basis within the team, where team members themselves volunteer to show-and-tell.&lt;/li&gt;
-&lt;li&gt;
-&lt;em&gt;10%&lt;/em&gt; of skills exposure happens via reading. Links to relevant articles and blogs are shared via mailing lists or wiki pages. Book recommendations are also made, and possibly added to a library.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;What I have also seen encourage self-learning in teams is to throw challenges at them, and see them cope with it by upgrading their skill levels.&lt;/p&gt;
-
-&lt;div style="float:left; margin: 0px 20px 20px 0px; width: auto"&gt;
-  &lt;img alt="Challenges vs Skills" src="/assets/media/images/coaching/challenges-vs-skills.png" style="border: 1px solid silver"&gt;&lt;br&gt;&lt;small class="muted"&gt;Graph introduced to me by &lt;a href="http://www.linkedin.com/pub/julian-parry/3/999/31"&gt;Jules Parry&lt;/a&gt;&lt;/small&gt;
-&lt;/div&gt;
-
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/self-learning"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/self-learning#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
@@ -183,9 +154,6 @@
             &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-      &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/self-learning" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/self-learning#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
-      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
@@ -206,20 +174,14 @@
 &lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin"&gt;Lord Kelvin&lt;/a&gt; is accredited with the above quote. He was not talking about Agile software development but he was probably on to &lt;em&gt;continuous improvement&lt;/em&gt;. The latter is &lt;a href="http://agilemanifesto.org/principles.html"&gt;integral&lt;/a&gt; to the former.&lt;/p&gt;
 
 &lt;p&gt;A positive change on a metric can be an &lt;em&gt;indicator&lt;/em&gt; of progress or improvement. It is not a guarantee of progress but an indicator. Perhaps if we combine different metrics, all indicating progress on interconnected concepts, we can have higher confidence that there is improvement.&lt;/p&gt;
-
-&lt;h3 id="toc_0"&gt;Sample Case Study&lt;/h3&gt;
-
-&lt;p&gt;Let us say Team A and Team B both start off with 2% code coverage. There is strong &lt;em&gt;encouragement&lt;/em&gt; from Management that coverage needs to improve. Team A adopts a traditional unit testing approach, ie, adding tests after code is written. Team B adopts TDD, ie, writing test first and then code.&lt;/p&gt;
-
-&lt;p&gt;Two months later, Team A has 25% code coverage. Team B has 10%.&lt;/p&gt;
-
-&lt;p&gt;Which team has made better progress?&lt;/p&gt;
-
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/measuring-progress"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/measuring-progress#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
@@ -229,9 +191,6 @@
             &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-      &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/measuring-progress" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/measuring-progress#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
-      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
@@ -254,18 +213,14 @@
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;"At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly."&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;p&gt;While there are some well-known Retrospective formats, I try to customize the experience based on context. This could be how the recent iteration went, the motivation levels of the team, concepts that the team can relate to, or sometimes just something random that could be fun!&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;img alt="Retro" src="/assets/media/images/coaching/retro.png"&gt;&lt;br&gt;&lt;small class="muted"&gt;Retro using a Fuel/Mud analogy&lt;/small&gt;&lt;/p&gt;
-
-&lt;h2 id="toc_1"&gt;Future-spective&lt;/h2&gt;
-
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/facilitation-techniques"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/facilitation-techniques#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
@@ -275,9 +230,6 @@
             &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-      &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/facilitation-techniques" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/facilitation-techniques#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
-      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
@@ -298,25 +250,14 @@
 &lt;p&gt;One may think capturing quantitative data will be simpler than gathering qualitative data. In my experience, the former is trickier and even risky. From a tooling perspective, getting to the numbers might be easy enough. But knowing what numbers actually matter is where the complexity lies. Especially since typically during an assessment, the team and the coach themselves are unaware of exactly where the team's challenges lie, and the assessment is supposed to help discover these. Tracking irrelevant metrics may send a team down a useless path, or worse, a harmful path. Metrics selection should be guided by clear meaningful goals. But when unsure, an Agile Coach may choose to capture whatever can be captured, with a clear disclaimer that it's being done so that the information is available &lt;em&gt;if&lt;/em&gt; it becomes useful later. So be sure to archive these metrics somewhere safe.&lt;/p&gt;
 
 &lt;p&gt;Some typical metrics captured are as follows.&lt;/p&gt;
-
-&lt;h3 id="toc_0"&gt;Productivity&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Cycle time&lt;/li&gt;
-&lt;li&gt;Say/Do ratio&lt;/li&gt;
-&lt;li&gt;Velocity&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="toc_1"&gt;Quality&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Defect count over time&lt;/li&gt;
-&lt;li&gt;Defect ratio across environments or testing stages&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/metrics-baselining"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/metrics-baselining#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
@@ -326,9 +267,6 @@
             &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-      &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/metrics-baselining" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/metrics-baselining#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
-      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
@@ -349,20 +287,14 @@
 &lt;p&gt;Now on a whiteboard, sequence these stickies, one at a time, in the order they are done. Draw connecting lines between the stickies as you proceed. If some activities are repeated, draw loops accordingly. You will now have a visual timeline of an iteration. If you can spot obvious gaps in the timeline, add more stickies for those missing activities along with role participation.&lt;/p&gt;
 
 &lt;p&gt;Now you will want to know more about what feeds into an iteration and how, and what goes out of an iteration and how. The former is usually around requirements and defect management. The latter is typically about releases and deployments. In most organizations, customer feedback and customer support connects the end point to the starting point. However, some of this could be just your assumption. It is unlikely you'd have gotten a complete view of the process as some of these aspects are not apparent mid-release nor are all team members aware of them. It is time to get proper validation.&lt;/p&gt;
-
-&lt;p&gt;Take a pic of the process map you've come up with, and take it off the board. Keep the stickies handy though. Schedule an hour-long meeting with those roles who'd be aware of these steps at a high level. Typically it is a Project Manager, a Tech Lead, or the Product Owner. Repeat the above process in front of them (using your earlier stickies) but clearly call out every addition you make to the process map. Give them a chance to react at every step, getting either validation or corrections from them. Annotate the flow or the stickies themselves with any details you get. For the gaps or the big picture (before/after iteration), let them call out the activities and the roles involved (you could capture exact names of people as well). Cross-check with what you'd assumed. For those that match, use your stickies. For those that don't, tear off your sticky and create new ones on the fly. In the end, summarize the map on the board to catch any obvious misses.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;img alt="Process Map" src="/assets/media/images/coaching/process-map.png"&gt;&lt;br&gt;&lt;small class="muted"&gt;Sample process map&lt;/small&gt;&lt;/p&gt;
-
-&lt;p&gt;Keep the map on the board, and show it to team members you had interviewed before. Get their insights about the visual. Mostly it should be a confirmation of the activities depicted. You could also get more details around certain activities. Additionally, you can cross-check different people's viewpoints.&lt;/p&gt;
-
-&lt;p&gt;Try to capture this map using a tool or in the simplest case, attach a picture of it on a wiki page that describes the process in words as well.&lt;/p&gt;
-
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/process-mapping"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/process-mapping#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
@@ -372,9 +304,6 @@
             &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-      &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/process-mapping" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/process-mapping#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
-      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
@@ -400,17 +329,14 @@
 &lt;li&gt;Outcome of these activities in an iteration-level view&lt;/li&gt;
 &lt;li&gt;Challenges faced in performing any of these activities or the role in general&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;It is important to remain objective while making observations, and to not fall into the temptation of drawing conclusions or making recommendations. The latter is needed but should come towards the end of the assessment when holistic information is available.&lt;/p&gt;
-
-&lt;p&gt;One way to get visibility into the above aspects is conducting interviews of team members. We need not talk to everyone but only a representative sample (perhaps 1-2 individuals) from each role. This should be complemented with first-hand observation of how they work. Here is a suggestion of how you could go about this activity.&lt;/p&gt;
-
-&lt;h3 id="toc_0"&gt;Interview preparation&lt;/h3&gt;
-
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/assessment-interviews"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/assessment-interviews#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
@@ -420,9 +346,6 @@
             &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-      &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/assessment-interviews" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/assessment-interviews#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
-      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
@@ -443,20 +366,14 @@
 &lt;h3 id="toc_0"&gt;Assessments&lt;/h3&gt;
 
 &lt;p&gt;Sometimes a team, a department, or an organization simply is not aware of where they stand with respect to Agile adoption. They need answers to questions like: "Will they benefit from Agile Coaching, or are there too many prerequisites missing? Tentatively for how long will they need coaching before achieving self-sustenance? What areas need the most focus on?" Answering such questions means at least 2-3 days of work, involving interviews, discovery workshops, first-hand observations, metrics collections, etc. This is then followed by summarization and recommendation in the form of an assessment report, which typically contains a proposed coaching plan.&lt;/p&gt;
-
-&lt;h3 id="toc_1"&gt;Pilot / Proof of Concept&lt;/h3&gt;
-
-&lt;p&gt;Despite Agile initiatives at an organization level, a department could have doubts about whether or not Agile would work for their specific context. In such cases, people agree to a Proof of Concept or Pilot, starting off with Agile Coaching with one selected team for a given duration of time, having a limited set of objectives. If the Pilot goes well, the department may agree to an overall Agile adoption. Coaches involved in a Pilot have to remain very conscious of how their time is spent, what activities they take up, and what focus areas to target, all the while keeping an eye out on measuring and showcasing benefits, even if small. Periodically they will send out progress reports, and finally wrap up the engagement with a summarization that highlights what worked and what did not work, challenges faced, and recommendations to overcome them. It is important to remind clients of what was decidedly out of scope. A Pilot could be anywhere between 2-8 weeks depending on the scope of objectives.&lt;/p&gt;
-
-&lt;h3 id="toc_2"&gt;Agile Adoption&lt;/h3&gt;
-
-&lt;p&gt;Agile Adoption primarily refers to teams picking up Agile practices and using them for productivity gains and quality improvements. These practices could be process related such as time-boxed iterations, iteration planning, estimation, stand ups, and so on. Or these could be engineering related such as Test-driven Development, Refactoring, Continuous Integration, functional test automation, etc. However, it is established in most circles that Agile is more of a mindset than a set of processes and practices. That said, the latter helps teams try out well-described techniques that may be new to them, and possibly with time and guidance, they are able to see the short-term and long-term benefits behind the practices. Once teams reach this competency level, they are better placed to recognize and embrace the mindset change. This is what the Agile Coach will focus on: helping teams adopt certain practices, and gain higher skill levels in those, while also gradually guiding them towards the reasoning and benefits behind the practices. Tracking the team's progress, checking for any drop in adoption after an initial spike, and continued efforts at sustenance, are also some of the key areas an Agile Coach looks into. Agile Adoption generally takes time, with some factors being team size, project complexity, and attitude and capabilities of team members. An Agile Coach will typically end up coaching multiple teams. Such an engagement can easily range from 2 months to a year.&lt;/p&gt;
-
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/agile-coaching-engagements"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/agile-coaching-engagements#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
@@ -466,9 +383,6 @@
             &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-      &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/agile-coaching-engagements" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/agile-coaching-engagements#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
-      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
@@ -489,20 +403,14 @@
 &lt;p&gt;Even within the scope of Agile Coaching, I have been exposed to a variety of roles.&lt;/p&gt;
 
 &lt;h3 id="toc_0"&gt;Role-based Practices Coaching&lt;/h3&gt;
-
-&lt;p&gt;An Agile Coach helps team members understand their roles in an Agile setting. This involves skills-building. You may join a team as a single cross-skilled coach or as a trio of role-specific coaches: a Tech Coach, a QA Coach, and a BA Coach. With Developers, a coach will pair actively to spread practices like TDD, Refactoring, CI, etc, and will run workshops and brown bag sessions. With Testers, a coach could cover creating test scenarios from acceptance criteria, automated testing, test pyramid, and so on. For Business Analysts or Product Owners, the focus will be on prioritization exercises, negotiation skills, story writing, story slicing, determining NFRs, etc.&lt;/p&gt;
-
-&lt;h3 id="toc_1"&gt;Process Coaching&lt;/h3&gt;
-
-&lt;p&gt;While focusing on role-specific skills and practices is important, some teams may need help in determining what process works for them, adapting them over time, and so on. This could involve defining how each role contributes to the process, and also in general, how the entire team collaborates and focuses on improvement. Having effective stand ups, planning meetings, demos, and retrospectives fall under this. Other aspects could involve helping the team determine some metrics to observe and improve. Eg: pairing matrix, confidence meter, build failures in a day, velocity, cycle time, etc.&lt;/p&gt;
-
-&lt;h3 id="toc_2"&gt;Leadership Coaching&lt;/h3&gt;
-
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/agile-coaching-roles"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/agile-coaching-roles#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
@@ -512,9 +420,6 @@
             &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-      &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/agile-coaching-roles" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/agile-coaching-roles#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
-      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
@@ -535,20 +440,14 @@
 &lt;p&gt;&lt;em&gt;Coaching&lt;/em&gt; is a plain English word, around since ages. It is not surprising that its definition in the professional world remains open. This is evident from its &lt;a href="http://en.wikipedia.org/wiki/Coaching"&gt;Wikipedia page&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;That said, there have been attempts to describe coaching better, acknowledging the wide spectrum it could cover, and yet putting some boundaries to it.&lt;/p&gt;
-
-&lt;p&gt;My personal view on the term is still evolving despite having played the Agile Coach role. So far I've kept it simple:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Coaching is not classroom training; it is interpersonal; it creates awareness in individuals and teams; it is more about asking than telling.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Check these links for less &lt;em&gt;fuzzy&lt;/em&gt; definitions:&lt;/p&gt;
-
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/coaching-basics"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/coaching-basics#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
@@ -558,9 +457,6 @@
             &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-      &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/coaching-basics" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/coaching-basics#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
-      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
@@ -586,6 +482,9 @@
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/agile-india-2014"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/agile-india-2014#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
@@ -595,9 +494,6 @@
             &lt;a href="/tags#talk-ref"&gt;talk &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-      &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/agile-india-2014" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/agile-india-2014#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
-      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
@@ -618,36 +514,20 @@
 &lt;p&gt;Either way, I have learnt that being conscious of these code smells is important while working with code bases. Simply learning about the code smells is not enough. You need to actively look out for them &lt;em&gt;all the time&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;The next step, after identifying the smell, is of course to deal with it. For now, I will only list the code smells. I am planning a separate series of &lt;em&gt;nugget&lt;/em&gt; posts to get into more details later. But don't wait for those posts! Read &lt;a href="http://martinfowler.com/books/refactoring.html"&gt;the Refactoring book&lt;/a&gt; now for most of the common smells!&lt;/p&gt;
-
-&lt;h2 id="toc_0"&gt;The smells!&lt;/h2&gt;
-
-&lt;h3 id="toc_1"&gt;In both legacy and greenfield projects&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Multiple assignments to local variable&lt;/li&gt;
-&lt;li&gt;Law of Demeter violation&lt;/li&gt;
-&lt;li&gt;Data clumps&lt;/li&gt;
-&lt;li&gt;Null checks&lt;/li&gt;
-&lt;li&gt;Switch case&lt;/li&gt;
-&lt;li&gt;Primitive obsession&lt;/li&gt;
-&lt;li&gt;Long method&lt;/li&gt;
-&lt;li&gt;Feature envy&lt;/li&gt;
-&lt;li&gt;Using language features or core APIs like &lt;code&gt;Collections.emptyList()&lt;/code&gt; wrongly&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/common-code-smells"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/common-code-smells#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
             &lt;a href="/tags#coding-ref"&gt;coding &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-      &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/common-code-smells" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/common-code-smells#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
-      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
@@ -668,20 +548,14 @@
 &lt;p&gt;First off, let us establish practitioner-to-coach transition as an effective strategy for Agile transformation.&lt;/p&gt;
 
 &lt;h2 id="toc_0"&gt;&lt;em&gt;When do we know we are done?&lt;/em&gt;&lt;/h2&gt;
-
-&lt;p&gt;This is a difficult question to answer at the onset of any Agile enablement undertaking. Some answers rely on metrics, measuring how the coached teams have progressed in those. A more subjective answer, but perhaps more relevant, relies on people:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;We are done coaching a team when team members are capable of coaching others.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The above is indicative of the skills, mindset, and experiences picked up by team members. On the ground, not every team member will reach the same level at the same time, and while many may progress as practitioners, they may not make good coaches. Coaching does not come naturally to everyone, not even to long-time practitioners. One needs certain qualities and skills that require further grooming. We will talk about this in more detail later. For now let us assume we can get good coaches out of a coached team.&lt;/p&gt;
-
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/from-practitioner-to-coach-i"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/from-practitioner-to-coach-i#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
@@ -697,9 +571,6 @@
             &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-      &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/from-practitioner-to-coach-i" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/from-practitioner-to-coach-i#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
-      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
@@ -712,7 +583,7 @@
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
         &lt;div class="content"&gt;
-          &lt;div class="summary"&gt;
+          &lt;div class="summary ellipsis"&gt;
 &lt;p&gt;No, this is not &lt;em&gt;my&lt;/em&gt; exit mail. But a post about a reality in any organization: the &lt;strong&gt;exit mail&lt;/strong&gt; that appears in our inbox occasionally.&lt;/p&gt;
 
 &lt;p&gt;People have their reasons to quit a company. Even a company like &lt;a href="http://www.thoughtworks.com"&gt;ThoughtWorks&lt;/a&gt;. Not always an easy decision. But to each his own. This post is not about the reasons behind the exit mail but about how its readers react.&lt;/p&gt;
@@ -725,14 +596,14 @@
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Team member:&lt;/strong&gt; These exit mails always get a &lt;em&gt;reply&lt;/em&gt; from me. Having worked with someone, you develop a rapport, some mutual respect, and, on occasion, a camaraderie. How I feel about a team member can vary in degree, and a good measure of that is the effect their exit mail has on me.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;strong&gt;Friend:&lt;/strong&gt; Such an exit mail &lt;em&gt;hurts.&lt;/em&gt; Most times I can anticipate its arrival because the person would keep me informed (it still hurts). Sometimes it can be a shock, if the decision was kept personal for whatever reason. But irrespective, it is a mail I dread. It is hardest to say goodbye to a friend. Each of these mails feels like one lost reason to come to office. But we move on. We have to. And we wish our friends well in their journey ahead.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Exit mails make me think about what we hold dear in this much technical profession of ours. Yes, we appreciate our technology gurus. And we enjoy working with team members towards the common goal of client success. But most of all, we value the friends we make while accomplishing all this. I dedicate this post to such friends of mine.&lt;/p&gt;
-
-&lt;p&gt;Amongst software, teams, and individuals, when it comes to exit mail reactions, the priority order is reversed.&lt;/p&gt;
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/exit-mail"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/exit-mail#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
@@ -745,9 +616,6 @@
             &lt;a href="/tags#personal-ref"&gt;personal &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-      &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/exit-mail" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/exit-mail#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
-      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
@@ -760,7 +628,7 @@
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
         &lt;div class="content"&gt;
-          &lt;div class="summary"&gt;
+          &lt;div class="summary ellipsis"&gt;
 &lt;p&gt;I enjoy blogging: writing about my learnings and experiences, and what others may find useful. For many years, I hosted my blog at &lt;a href="http://www.wikyblog.com/AmanKing"&gt;WikyBlog&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;I blogged regularly during the early parts of my career. After a few years, the posts came in less frequently. This was not accidental. I consciously set off on a personal journey which was more inward-looking.&lt;/p&gt;
@@ -768,31 +636,20 @@
 &lt;p&gt;I now feel the need to blog again. But with a coming-of-age outlook. And a fresh &lt;em&gt;look&lt;/em&gt; to go with that.&lt;/p&gt;
 
 &lt;p&gt;I am hosting this blog on &lt;a href="http://pages.github.com/"&gt;Github Pages&lt;/a&gt;, powered by &lt;a href="https://github.com/amanking/ruhoh.rb"&gt;my fork&lt;/a&gt; of &lt;a href="http://ruhoh.com"&gt;ruhoh&lt;/a&gt;. It gives me a sense of control as I can create my own theme, and even code my own features.&lt;/p&gt;
-
-&lt;p&gt;This blog will capture my thoughts on &lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;software, &lt;/li&gt;
-&lt;li&gt;teams, and &lt;/li&gt;
-&lt;li&gt;individuals.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Each of these elements are independently worthy of attention. And when these come together, there is great potential to create something worthwhile.&lt;/p&gt;
-
-&lt;p&gt;I hope you will find my blog interesting. Keep visiting. I look forward to your thoughts via comments.&lt;/p&gt;
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/a-fresh-look-and-outlook"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/a-fresh-look-and-outlook#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
             &lt;a href="/tags#blog-ref"&gt;blog &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-      &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/a-fresh-look-and-outlook" class="muted"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/a-fresh-look-and-outlook#disqus_thread" class="muted"&gt;Comments&lt;/a&gt;&lt;/small&gt;
-      &lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 </description>
