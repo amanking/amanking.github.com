@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-23 16:24:44 +0530</pubDate>
+    <pubDate>2014-01-11 23:02:46 +0530</pubDate>
     <item>
       <title>About Me</title>
       <link>http://www.amanking.com/about-me</link>
@@ -42,6 +42,49 @@
       <link>http://www.amanking.com/</link>
       <pubDate/>
       <description>  &lt;div class="post summary"&gt;
+    &lt;div class="page-header text"&gt;
+      &lt;h1 class="title"&gt;&lt;a href="/garden-city-rubyconf-2014"&gt;Garden City Rubyconf 2014&lt;/a&gt;&lt;/h1&gt;
+      &lt;div class="muted"&gt;
+        &lt;span&gt;2014-01-11&lt;/strong&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="post-full"&gt;
+      &lt;div class="text"&gt;
+        &lt;div class="content"&gt;
+          &lt;div class="summary ellipsis"&gt;
+&lt;p&gt;Had the opportunity to attend and speak at the first Bangalore-based Ruby conference, &lt;a href="http://www.gardencityruby.org/"&gt;Garden City RubyConf 2014&lt;/a&gt;. It was reminiscent of the first &lt;a href="http://rubyconfindia.org/2010/speakers.html"&gt;RubyConf India in 2010&lt;/a&gt;, where I also spoke incidentally.&lt;/p&gt;
+
+&lt;p&gt;Among the conferences I've attended recently, this was definitely among the better ones. Great job by the organizers to line up some &lt;a href="http://gardencityruby2014.busyconf.com/schedule"&gt;interesting talks&lt;/a&gt;, including keynotes.&lt;/p&gt;
+
+&lt;p&gt;I got to meet &lt;a href="http://chadfowler.com/"&gt;Chad Fowler&lt;/a&gt; after many years. In 2007, he was one of my trainers in an &lt;a href="http://pragmaticstudio.com/"&gt;Advanced Ruby on Rails workshop&lt;/a&gt; I had attended in Dallas, US. In fact, I showed him a copy of &lt;a href="http://www.amazon.com/Job-Went-India-Pragmatic-Programmers/dp/0976694018"&gt;My Job Went to India&lt;/a&gt; that he'd signed for me back then. Chad's keynote was quite thought-provoking. He challenged many existing notions about developing and deploying software, and encouraged looking at some refreshingly new approaches out there.&lt;/p&gt;
+
+&lt;p&gt;Besides Chad, other speakers were good too. I also noticed something curiously common among the speakers: most were ex-ThoughtWorkers. The conference allowed me to catch up with my ex-colleagues, and hear them share experiences on and off stage. In fact, the conference allowed ample time to network with new and old friends. I later learnt the number of breaks and their durations were consciously planned by the organizers to allow networking. Definitely a good move!&lt;/p&gt;
+&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/garden-city-rubyconf-2014"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/garden-city-rubyconf-2014#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
+      &lt;ul class="tag_box inline"&gt;
+        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#event-ref"&gt;event &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#conference-ref"&gt;conference &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#slides-ref"&gt;slides &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#ruby-ref"&gt;ruby &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
       &lt;h1 class="title"&gt;&lt;a href="/coaching-benefits-reporting"&gt;Coaching Benefits Reporting&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
@@ -689,6 +732,18 @@
   &lt;li&gt;
     &lt;a href="/tags#transformation-ref"&gt;transformation &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#event-ref"&gt;event &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#conference-ref"&gt;conference &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#slides-ref"&gt;slides &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#ruby-ref"&gt;ruby &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
 &lt;/ul&gt;
 
   &lt;h3 id="blog-ref"&gt;blog&lt;/h3&gt;
@@ -753,6 +808,22 @@
   &lt;h3 id="transformation-ref"&gt;transformation&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="event-ref"&gt;event&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2014-01-11&lt;/small&gt; &lt;a href="/garden-city-rubyconf-2014"&gt;Garden City Rubyconf 2014&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="conference-ref"&gt;conference&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2014-01-11&lt;/small&gt; &lt;a href="/garden-city-rubyconf-2014"&gt;Garden City Rubyconf 2014&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="slides-ref"&gt;slides&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2014-01-11&lt;/small&gt; &lt;a href="/garden-city-rubyconf-2014"&gt;Garden City Rubyconf 2014&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="ruby-ref"&gt;ruby&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2014-01-11&lt;/small&gt; &lt;a href="/garden-city-rubyconf-2014"&gt;Garden City Rubyconf 2014&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 </description>
     </item>

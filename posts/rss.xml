@@ -3,7 +3,29 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2013-12-23 16:24:46 +0530</pubDate>
+    <pubDate>2014-01-11 23:02:49 +0530</pubDate>
+    <item>
+      <title>Garden City Rubyconf 2014</title>
+      <link>http://www.amanking.com/garden-city-rubyconf-2014</link>
+      <pubDate>2014-01-11</pubDate>
+      <description>&lt;p&gt;Had the opportunity to attend and speak at the first Bangalore-based Ruby conference, &lt;a href="http://www.gardencityruby.org/"&gt;Garden City RubyConf 2014&lt;/a&gt;. It was reminiscent of the first &lt;a href="http://rubyconfindia.org/2010/speakers.html"&gt;RubyConf India in 2010&lt;/a&gt;, where I also spoke incidentally.&lt;/p&gt;
+
+&lt;p&gt;Among the conferences I&amp;#39;ve attended recently, this was definitely among the better ones. Great job by the organizers to line up some &lt;a href="http://gardencityruby2014.busyconf.com/schedule"&gt;interesting talks&lt;/a&gt;, including keynotes.&lt;/p&gt;
+
+&lt;p&gt;I got to meet &lt;a href="http://chadfowler.com/"&gt;Chad Fowler&lt;/a&gt; after many years. In 2007, he was one of my trainers in an &lt;a href="http://pragmaticstudio.com/"&gt;Advanced Ruby on Rails workshop&lt;/a&gt; I had attended in Dallas, US. In fact, I showed him a copy of &lt;a href="http://www.amazon.com/Job-Went-India-Pragmatic-Programmers/dp/0976694018"&gt;My Job Went to India&lt;/a&gt; that he&amp;#39;d signed for me back then. Chad&amp;#39;s keynote was quite thought-provoking. He challenged many existing notions about developing and deploying software, and encouraged looking at some refreshingly new approaches out there.&lt;/p&gt;
+
+&lt;p&gt;Besides Chad, other speakers were good too. I also noticed something curiously common among the speakers: most were ex-ThoughtWorkers. The conference allowed me to catch up with my ex-colleagues, and hear them share experiences on and off stage. In fact, the conference allowed ample time to network with new and old friends. I later learnt the number of breaks and their durations were consciously planned by the organizers to allow networking. Definitely a good move!&lt;/p&gt;
+
+&lt;p&gt;I made a lot of new acquaintances. My talk helped, as many reached out to me to share their appreciation, and to learn about my experiences with DSLs. I was pleasantly surprised that some of the attendees remembered my &lt;a href="http://www.slideshare.net/amanking/ruby-oop-objects-over-classes"&gt;RubyConf India 2010 talk&lt;/a&gt; as well!&lt;/p&gt;
+
+&lt;p&gt;My talk this time was about implementing simple Ruby DSL techniques to improve productivity in business application development. My slides are embeded below.&lt;/p&gt;
+
+&lt;p&gt;All in all, two days very well-spent! I will definitely recommend this conference to all Ruby developers out there!&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+&lt;iframe src="http://www.slideshare.net/slideshow/embed_code/29664669?rel=0" width="512" height="421" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt;&lt;small&gt;&lt;strong&gt; &lt;a href="https://www.slideshare.net/amanking/simple-ruby-dsl-techniques-big-project-impact" title="Simple Ruby DSL Techniques: Big Project Impact!" target="_blank"&gt;Simple Ruby DSL Techniques: Big Project Impact!&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="http://www.slideshare.net/amanking" target="_blank"&gt;Aman King&lt;/a&gt;&lt;/strong&gt;&lt;/small&gt;&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Coaching Benefits Reporting</title>
       <link>http://www.amanking.com/coaching-benefits-reporting</link>
@@ -205,69 +227,6 @@ Which team has made better progress?&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;
 You can come up with more things to track to indicate progress in your team&amp;#39;s context. It also helps motivation if you can make the trend visible, perhaps by using Big Visible Charts or Information Radiators. But yes, ever so often, do check and remind people that the goal is to make progress and to improve on aspects that provide value to the Business or end users, and not to get solely number-driven.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Facilitation Techniques</title>
-      <link>http://www.amanking.com/facilitation-techniques</link>
-      <pubDate>2013-12-16</pubDate>
-      <description>&lt;p&gt;Facilitation is a very useful skill to have. It helps not only in &lt;a href="/coaching-basics"&gt;coaching&lt;/a&gt; but in many day-to-day activities. Whether a team discussion or a team activity, a good facilitator can make all the difference.&lt;/p&gt;
-
-&lt;h2 id="toc_0"&gt;Retrospective&lt;/h2&gt;
-
-&lt;p&gt;A common facilitation technique is a &lt;em&gt;Retrospective&lt;/em&gt;. It has a clear objective of looking back, as a group, at a recent time period or a particular incident, collect thoughts around different aspects, and then brainstorm on action items related to the topic. Agile teams use this technique for continuous improvement. I like relating it to &lt;a href="http://agilemanifesto.org/principles.html"&gt;the 12th Agile Principle&lt;/a&gt;:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;&amp;quot;At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly.&amp;quot;&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;While there are some well-known Retrospective formats, I try to customize the experience based on context. This could be how the recent iteration went, the motivation levels of the team, concepts that the team can relate to, or sometimes just something random that could be fun!&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;img alt="Retro" src="/assets/media/images/coaching/retro.png"&gt;&lt;br&gt;
-&lt;small class="muted"&gt;Retro using a Fuel/Mud analogy&lt;/small&gt;&lt;/p&gt;
-
-&lt;h2 id="toc_1"&gt;Future-spective&lt;/h2&gt;
-
-&lt;p&gt;A variation of the Retrospective is a &lt;em&gt;Future-spective&lt;/em&gt;. As the name suggests, it is not about looking back but about looking forward. Such an exercise helps in goal-setting, expectation-setting, coming up with a common vision, and sometimes an actionable plan. Typically it involves having the group imagine that they are in the future, and then describing what they see has gone well or what has gone wrong.&lt;/p&gt;
-
-&lt;h2 id="toc_2"&gt;Mind Mapping&lt;/h2&gt;
-
-&lt;p&gt;A lesser used technique for facilitation is &lt;em&gt;Mind Mapping&lt;/em&gt;. A number of people have discovered it for personal use. I have used it in group situations as well, whether to make my own thoughts visual so that others can follow or to capture thoughts of the group, presenting it back to them in real time. Having thoughts captured visually and linked together, helps explore the topic space even further, and make stronger connections between different ideas. It also helps retention. Mind Mapping can be used effectively for cause-effect analysis or for drilling down a concept into granular levels which are more easily recognizable or actionable. In fact, you could use this technique in a Retrospective to draw out effective action items after points have been put forth.&lt;/p&gt;
-
-&lt;h2 id="toc_3"&gt;Fishbowl&lt;/h2&gt;
-
-&lt;p&gt;Sometimes you may be facilitating a large group, or a group that isn&amp;#39;t very vocal, or perhaps a topic that is a bit controversial. In all of these cases, having an effective discussion may be difficult. Here a technique called as &lt;em&gt;Fishbowl&lt;/em&gt; can help. It is a constrained form of discussion where there are set rules for participation. At any given point in time, there is a panel with a fixed number of chairs. Out of these chairs, all but one can be filled by people who wish to participate in the discussion. If someone new steps in and sits on the vacant chair, one of the other participants has to volunteer to step out. This encourages multiple viewpoints to be heard, and discourages anyone from overtaking the discussion for long. With groups that are not vocal, having many chairs empty creates an awkward situation, forcing a few people to self-nominate themselves for the panel discussion. Seeing a few people start off, others feel encouraged to join in.&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-There are even more facilitation techniques that one can employ, for example, &lt;em&gt;5 whys&lt;/em&gt; or &lt;em&gt;fist of five&lt;/em&gt;. It is good to have them in your toolkit especially if you are in a role that could benefit from a collaborative team.&lt;/p&gt;
-
-&lt;h2 id="toc_4"&gt;Further Resources&lt;/h2&gt;
-
-&lt;h3 id="toc_5"&gt;Retrospectives&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.funretrospectives.com/"&gt;Fun Retrospectives&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://retrospectivewiki.org/"&gt;Retrospectives Wiki&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://pragprog.com/book/dlret/agile-retrospectives"&gt;Agile Retrospectives&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://leanpub.com/the-retrospective-handbook"&gt;The Retrospective Handbook&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="toc_6"&gt;Mind Mapping&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Mind_map"&gt;Mind Mapping&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://freemind.sourceforge.net/wiki/index.php/Main_Page"&gt;FreeMind&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.mindmup.com/"&gt;MindMup&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="toc_7"&gt;General&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Fishbowl_(conversation)"&gt;Fishbowl&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/5_Whys"&gt;5 Whys&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://java.dzone.com/articles/fist-five"&gt;Fist of five&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.amazon.com/Secrets-Facilitation-S-M-R-T-Getting/dp/0787975788"&gt;The Secrets of Facilitation&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
   </channel>
