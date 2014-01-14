@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2014-01-11 23:49:29 +0530</pubDate>
+    <pubDate>2014-01-14 22:47:29 +0530</pubDate>
     <item>
       <title>About Me</title>
       <link>http://www.amanking.com/about-me</link>
@@ -695,6 +695,34 @@
       &lt;/ul&gt;
     &lt;/div&gt;
   &lt;/div&gt;
+</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://www.amanking.com/publications</link>
+      <pubDate>2014-01-14</pubDate>
+      <description>&lt;p&gt;&lt;br&gt;
+&lt;strong&gt;&lt;a href="http://pragprog.com/book/twa2/the-thoughtworks-anthology-volume-2"&gt;The ThoughtWorks Anthology, Volume 2&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Book &amp;dash; The Pragmatic Programmers&lt;/em&gt;&lt;br&gt;
+Authored a chapter named &#x201C;Object-oriented Programming: Objects over Classes&#x201D;. The book, an anthology on topics related to software development, was first published in Oct 2012.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href="/assets/media/docs/RubyAGemOfALanguageByAmanKing.pdf"&gt;Ruby, a Gem of a Language&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Article &amp;dash; The Smart Techie IT magazine, Oct 2008 issue&lt;/em&gt;&lt;br&gt;
+An article introducing the Ruby programming language, highlighting many distinctive language features.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;strong&gt;Matchmaking Ruby with Agile&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Whitepaper &amp;dash; GlobalLogic&lt;/em&gt;&lt;br&gt;
+A paper describing how the Ruby language directly complements principles of the Agile methodology.&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;p&gt;&lt;strong&gt;Looking Beyond the Customer&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Whitepaper &amp;dash; GlobalLogic&lt;/em&gt;&lt;br&gt;
+A proposal of a software development approach that leverages discovery and extensibility to benefit product engineering.&lt;/p&gt;
 </description>
     </item>
     <item>
