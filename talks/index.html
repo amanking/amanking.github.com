@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Aman King :: Common code smells</title>
+    <title>Aman King :: Talks</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Aman King">
 
@@ -40,14 +40,14 @@
       </div>
       <div class="row">
         <ul class="nav nav-tabs span12">
-              <li class="active"><a href="/" class="active">Blog</a></li>
             
+              <li><a href="/">Blog</a></li>
             
             
               <li><a href="/publications">Publications</a></li>
             
+              <li class="active"><a href="/talks" class="active">Talks</a></li>
             
-              <li><a href="/talks">Talks</a></li>
             
             
               <li><a href="/about-me">About Me</a></li>
@@ -56,104 +56,11 @@
       </div>
       <div class="row">
         <div class="content span10">
-          <div class="page-header text">
-  <h1>Common code smells </h1>
-  <div class="muted">
-    <span>2013-04-21</strong>
-  </div>
-</div>
 
-<div class="post-full">
-  <div class="text">
-    <div class="content">
-      <p>I have worked on multiple systems written in object-oriented languages. Time and again, I encounter common code smells. What is curious is that these smells are observable not only in legacy<small><sup>[1]</sup></small> systems but also in well-intentioned greenfield<small><sup>[2]</sup></small> projects.</p>
-
-<p>One could ascribe these to the developers not knowing any better, or possibly to a more common reason, <a href="http://martinfowler.com/bliki/TechnicalDebt.html">Technical Debt</a>.</p>
-
-<p>Either way, I have learnt that being conscious of these code smells is important while working with code bases. Simply learning about the code smells is not enough. You need to actively look out for them <em>all the time</em>.</p>
-
-<p>The next step, after identifying the smell, is of course to deal with it. For now, I will only list the code smells. I am planning a separate series of <em>nugget</em> posts to get into more details later. But don&#39;t wait for those posts! Read <a href="http://martinfowler.com/books/refactoring.html">the Refactoring book</a> now for most of the common smells!</p>
-
-<h2 id="toc_0">The smells!</h2>
-
-<h3 id="toc_1">In both legacy and greenfield projects</h3>
-
-<ul>
-<li>Multiple assignments to local variable</li>
-<li>Law of Demeter violation</li>
-<li>Data clumps</li>
-<li>Null checks</li>
-<li>Switch case</li>
-<li>Primitive obsession</li>
-<li>Long method</li>
-<li>Feature envy</li>
-<li>Using language features or core APIs like <code>Collections.emptyList()</code> wrongly</li>
-</ul>
-
-<h3 id="toc_2">Usually in legacy systems</h3>
-
-<ul>
-<li>Setters in domain objects</li>
-<li>Use of <code>static</code> methods</li>
-<li>Use of Singleton pattern</li>
-<li>Violations of layered architecture</li>
-<li>Long class</li>
-<li>Commented code</li>
-</ul>
-
-<h3 id="toc_3">Usually in greenfield systems</h3>
-
-<ul>
-<li>Field injection</li>
-<li>Inappropriate mocking, such as misuse of <code>Mockito.any()</code> with <code>Mockito.when()</code></li>
-<li>Unit tests not respecting architecture layers</li>
-<li>Complicated setup in unit tests</li>
-</ul>
-
-<p>I will keep adding to these lists over time.</p>
-
-<hr>
-
-<p><small>
-[1] For the purposes of this post and others, I will use &quot;legacy&quot; to mean systems that have survived for nearly 10 years or more, running on old or raw technologies like Servlets, JDBC, etc, and without much automated test coverage. There may have been attempts to mix in new technologies and increase test coverage but the majority is still legacy.</p>
-
-<p>[2] I will use &quot;greenfield&quot; to mean systems that are written in recent times. They run on newer technologies, using frameworks for MVC, ORM, IoC, etc. I will assume that the developers are aware of clean code practices and do unit testing, perhaps even TDD along with refactoring.
-</small></p>
-
-    </div>
-  </div>
-  <ul class="tag_box inline">
-    <li><i class="icon-tags"></i></li>
-    <li>
-      <a href="/tags#coding-ref">coding <span>1</span></a>
-    </li>
-  </ul>
-  <hr>
-  <div class="pagination">
-    <ul>
-        <li class="prev"><a href="/from-practitioner-to-coach-i" title="From Practitioner to Coach - I">&larr; Previous</a></li>
-
-        <li class="next"><a href="/agile-india-2014" title="Agile India 2014">Next &rarr;</a></li>
-    </ul>
-  </div>
-  <hr>
-
-  <div id="disqus_thread"></div>
-<script>
-    var disqus_developer = 1;
-    var disqus_shortname = 'amanking'; // required: replace example with your forum shortname
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    (function() {
-        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+<div class="text">
+  <iframe src="http://www.slideshare.net/amanking/slideshelf" width="760px" height="570px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen></iframe>
 
 </div>
-
 
         </div>
 

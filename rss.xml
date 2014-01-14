@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2014-01-14 22:47:29 +0530</pubDate>
+    <pubDate>2014-01-14 22:50:30 +0530</pubDate>
     <item>
       <title>About Me</title>
       <link>http://www.amanking.com/about-me</link>
@@ -853,6 +853,13 @@ A proposal of a software development approach that leverages discovery and exten
   &lt;ul class="unstyled"&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2014-01-11&lt;/small&gt; &lt;a href="/garden-city-rubyconf-2014"&gt;Garden City RubyConf 2014&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
+</description>
+    </item>
+    <item>
+      <title>Talks</title>
+      <link>http://www.amanking.com/talks</link>
+      <pubDate>2014-01-14</pubDate>
+      <description>&lt;iframe src="http://www.slideshare.net/amanking/slideshelf" width="760px" height="570px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
   </channel>
