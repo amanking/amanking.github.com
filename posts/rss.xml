@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2014-02-18 18:36:51 +0530</pubDate>
+    <pubDate>2014-02-18 22:01:16 +0530</pubDate>
     <item>
       <title>Tips for Technical Conference Presentations</title>
       <link>http://www.amanking.com/tips-for-technical-conference-presentations</link>
@@ -13,24 +13,24 @@
 &lt;h4 id="toc_0"&gt;Resolution&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Find out about the resolution&lt;/em&gt; supported by the projector at the conference venue. Set your machine&amp;#39;s resolution to the same and check your presentation. At times you&amp;#39;ll find your text word-wrapped in weird ways or your pictures going outside the screen boundary&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Find out about the resolution&lt;/em&gt; supported by the projector at the conference venue. Set your machine&amp;#39;s resolution to the same and check your presentation. At times you&amp;#39;ll find your text word-wrapped in weird ways or your pictures going outside the screen boundary.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id="toc_1"&gt;Font &amp;amp; Colours&lt;/h4&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Do not use low contrast colours.&lt;/em&gt; Especially between the slide background and the text. Audiences at any distance, close or far, will have difficulty reading your slides if you choose an Emacs-style scheme. I typically prefer a simple white background and black text, with some red or blue thrown in for effect.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Use less text with large font size.&lt;/em&gt; Not just to keep the audience focused on you. But also to make your slide actually readable from a distance. Text in small font is worse than no text at all.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Avoid complex diagrams&lt;/em&gt; with many components. Labels should be in large fonts. The audience should be able to comprehend the diagram quickly and without hurting their eyes.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Use safe colours for text and diagrams.&lt;/em&gt; Basically distinct shades that have a good chance of being projected correctly. Some colours on your monitor could look completely different on a projected screen. Subtle colour variations also get lost when projected, so do not rely on those.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Use less text. But large font size.&lt;/em&gt; Keeps the audience focused on you. But also makes your slide readable from a distance. Text in small font is worse than no text at all.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Avoid complex diagrams.&lt;/em&gt; Labels should be in large fonts. The audience should be able to comprehend the diagram quickly and without hurting their eyes.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Use safe colours for text and diagrams.&lt;/em&gt; Basically distinct shades that have a good chance of being projected correctly. Some colours on your monitor look completely different on a projected screen. Subtle colour variations get lost when projected, so do not rely on those.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h4 id="toc_2"&gt;Code snippets&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;For code snippets, &lt;em&gt;adjust your editor&amp;#39;s look and feel&lt;/em&gt; before taking a screenshot. Choose a white background with dark text, and make the font size large.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Have the code snippets ready on your machine&lt;/em&gt; in case the screenshots do not appear clearly. You could then switch to your editor to show the code better. Also, keep the editor already in an easy-to-view colour scheme with a large font.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Annotate diagrams or code snippets&lt;/em&gt; where applicable. Helps the audience follow the parts you want to talk about.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Adjust your editor&amp;#39;s look and feel&lt;/em&gt; before taking a screenshot of code snippets. Choose a white background with dark text, and make the font size large.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Have the code snippets ready on your machine&lt;/em&gt; in case the screenshots do not appear clearly. During the presentation, you could switch to your editor to show the code. Keep the editor in an easy-to-view colour scheme with a large font.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Annotate code snippets&lt;/em&gt; where applicable. Helps the audience follow the parts you want to talk about.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Final advice: &lt;strong&gt;do a trial run,&lt;/strong&gt; ideally at the venue itself, and get feedback.&lt;/p&gt;
