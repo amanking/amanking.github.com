@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2014-01-14 23:41:34 +0530</pubDate>
+    <pubDate>2014-02-18 18:25:43 +0530</pubDate>
     <item>
       <title>About</title>
       <link>http://www.amanking.com/about-me</link>
@@ -43,6 +43,43 @@
       <pubDate/>
       <description>  &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
+      &lt;h1 class="title"&gt;&lt;a href="/tips-for-technical-conference-presentations"&gt;Tips for Technical Conference Presentations&lt;/a&gt;&lt;/h1&gt;
+      &lt;div class="muted"&gt;
+        &lt;span&gt;2014-02-18&lt;/strong&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="post-full"&gt;
+      &lt;div class="text"&gt;
+        &lt;div class="content"&gt;
+          &lt;div class="summary ellipsis"&gt;
+&lt;p&gt;Googling for "&lt;a href="https://www.google.co.in/?#q=tips+for+presentations"&gt;tips for presentations&lt;/a&gt;" will give you a lot of useful links. I want to capture here some basic tips, specifically for technical conferences. Not much about beautiful slides but about readable ones. As an audience, I find it unfair when a talk is really good but the slides are unreadable!&lt;/p&gt;
+
+&lt;h4 id="toc_0"&gt;Resolution&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;
+&lt;em&gt;Find out about the resolution&lt;/em&gt; supported by the projector at the conference venue. Set your machine's resolution to the same and check your presentation. At times you'll find your text word-wrapped in weird ways or your pictures going outside the screen boundary&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="toc_1"&gt;Font &amp;amp; Colours&lt;/h4&gt;
+
+&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="/tips-for-technical-conference-presentations"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/tips-for-technical-conference-presentations#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
+      &lt;ul class="tag_box inline"&gt;
+        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="/tags#conference-ref"&gt;conference &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="post summary"&gt;
+    &lt;div class="page-header text"&gt;
       &lt;h1 class="title"&gt;&lt;a href="/garden-city-rubyconf-2014"&gt;Garden City RubyConf 2014&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
         &lt;span&gt;2014-01-11&lt;/strong&gt;
@@ -73,7 +110,7 @@
             &lt;a href="/tags#event-ref"&gt;event &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#conference-ref"&gt;conference &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="/tags#conference-ref"&gt;conference &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
             &lt;a href="/tags#slides-ref"&gt;slides &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
@@ -764,7 +801,7 @@ A proposal of a software development approach that leverages discovery and exten
     &lt;a href="/tags#event-ref"&gt;event &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#conference-ref"&gt;conference &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="/tags#conference-ref"&gt;conference &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/tags#slides-ref"&gt;slides &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
@@ -844,6 +881,7 @@ A proposal of a software development approach that leverages discovery and exten
   &lt;h3 id="conference-ref"&gt;conference&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2014-01-11&lt;/small&gt; &lt;a href="/garden-city-rubyconf-2014"&gt;Garden City RubyConf 2014&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2014-02-18&lt;/small&gt; &lt;a href="/tips-for-technical-conference-presentations"&gt;Tips for Technical Conference Presentations&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
   &lt;h3 id="slides-ref"&gt;slides&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;

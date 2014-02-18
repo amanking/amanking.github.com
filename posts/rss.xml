@@ -3,7 +3,39 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2014-01-14 23:41:37 +0530</pubDate>
+    <pubDate>2014-02-18 18:25:45 +0530</pubDate>
+    <item>
+      <title>Tips for Technical Conference Presentations</title>
+      <link>http://www.amanking.com/tips-for-technical-conference-presentations</link>
+      <pubDate>2014-02-18</pubDate>
+      <description>&lt;p&gt;Googling for &amp;quot;&lt;a href="https://www.google.co.in/?#q=tips+for+presentations"&gt;tips for presentations&lt;/a&gt;&amp;quot; will give you a lot of useful links. I want to capture here some basic tips, specifically for technical conferences. Not much about beautiful slides but about readable ones. As an audience, I find it unfair when a talk is really good but the slides are unreadable!&lt;/p&gt;
+
+&lt;h4 id="toc_0"&gt;Resolution&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Find out about the resolution&lt;/em&gt; supported by the projector at the conference venue. Set your machine&amp;#39;s resolution to the same and check your presentation. At times you&amp;#39;ll find your text word-wrapped in weird ways or your pictures going outside the screen boundary&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="toc_1"&gt;Font &amp;amp; Colours&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Do not use low contrast colours.&lt;/em&gt; Especially between the slide background and the text. Audiences at any distance, close or far, will have difficulty reading your slides if you choose an Emacs-style scheme. I typically prefer a simple white background and black text, with some red or blue thrown in for effect.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Use less text with large font size.&lt;/em&gt; Not just to keep the audience focused on you. But also to make your slide actually readable from a distance. Text in small font is worse than no text at all.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Avoid complex diagrams&lt;/em&gt; with many components. Labels should be in large fonts. The audience should be able to comprehend the diagram quickly and without hurting their eyes.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Use safe colours for text and diagrams.&lt;/em&gt; Basically distinct shades that have a good chance of being projected correctly. Some colours on your monitor could look completely different on a projected screen. Subtle colour variations also get lost when projected, so do not rely on those.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id="toc_2"&gt;Code snippets&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;For code snippets, &lt;em&gt;adjust your editor&amp;#39;s look and feel&lt;/em&gt; before taking a screenshot. Choose a white background with dark text, and make the font size large.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Have the code snippets ready on your machine&lt;/em&gt; in case the screenshots do not appear clearly. You could then switch to your editor to show the code better. Also, keep the editor already in an easy-to-view colour scheme with a large font.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Annotate diagrams or code snippets&lt;/em&gt; where applicable. Helps the audience follow the parts you want to talk about.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Final advice: &lt;strong&gt;do a trial run,&lt;/strong&gt; ideally at the venue itself, and get feedback.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>Garden City RubyConf 2014</title>
       <link>http://www.amanking.com/garden-city-rubyconf-2014</link>
@@ -146,87 +178,6 @@ Do not forget to share drafts of the Coaching Benefits Report with the client st
 &lt;div style="clear:both"&gt;&lt;/div&gt;
 
 &lt;p&gt;These were some effective approaches to encourage self-learning during active coaching. The process may lead some individuals down the path to &lt;a href="/self-discovery"&gt;self-discovery&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Measuring Progress</title>
-      <link>http://www.amanking.com/measuring-progress</link>
-      <pubDate>2013-12-17</pubDate>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;&amp;quot;If you can not measure it, you can not improve it.&amp;quot;&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin"&gt;Lord Kelvin&lt;/a&gt; is accredited with the above quote. He was not talking about Agile software development but he was probably on to &lt;em&gt;continuous improvement&lt;/em&gt;. The latter is &lt;a href="http://agilemanifesto.org/principles.html"&gt;integral&lt;/a&gt; to the former.&lt;/p&gt;
-
-&lt;p&gt;A positive change on a metric can be an &lt;em&gt;indicator&lt;/em&gt; of progress or improvement. It is not a guarantee of progress but an indicator. Perhaps if we combine different metrics, all indicating progress on interconnected concepts, we can have higher confidence that there is improvement.&lt;/p&gt;
-
-&lt;h3 id="toc_0"&gt;Sample Case Study&lt;/h3&gt;
-
-&lt;p&gt;Let us say Team A and Team B both start off with 2% code coverage. There is strong &lt;em&gt;encouragement&lt;/em&gt; from Management that coverage needs to improve. Team A adopts a traditional unit testing approach, ie, adding tests after code is written. Team B adopts TDD, ie, writing test first and then code.&lt;/p&gt;
-
-&lt;p&gt;Two months later, Team A has 25% code coverage. Team B has 10%.&lt;/p&gt;
-
-&lt;p&gt;Which team has made better progress?&lt;/p&gt;
-
-&lt;p&gt;Answer is we don&amp;#39;t know. If we treat &lt;em&gt;measuring progress&lt;/em&gt; as equivalent to &lt;em&gt;measuring code coverage&lt;/em&gt;, clearly Team A is better off. But is progress the same as code coverage?&lt;/p&gt;
-
-&lt;p&gt;Let us bring in another metric: Avg Defect Count per Iteration. Let&amp;#39;s say Team A and B both started with 20. After the two months, Team A has a defect count of 12, while Team B has 8.&lt;/p&gt;
-
-&lt;p&gt;Looking at this:&lt;/p&gt;
-
-&lt;table border="1"&gt;
-  &lt;tr&gt;
-      &lt;th&gt;Team&lt;/th&gt;
-      &lt;th&gt;Coverage - Before&lt;/th&gt;
-      &lt;th&gt;Avg Defect Count - Before&lt;/th&gt;
-      &lt;th&gt;Coverage - After&lt;/th&gt;
-      &lt;th&gt;Avg Defect Count - After&lt;/th&gt;
-  &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;A&lt;/td&gt;
-        &lt;td&gt;2%&lt;/td&gt;
-        &lt;td&gt;20&lt;/td&gt;
-        &lt;td&gt;25%&lt;/td&gt;
-        &lt;td&gt;12&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-        &lt;td&gt;B&lt;/td&gt;
-        &lt;td&gt;2%&lt;/td&gt;
-        &lt;td&gt;20&lt;/td&gt;
-        &lt;td&gt;10%&lt;/td&gt;
-        &lt;td&gt;8&lt;/td&gt;
-    &lt;/tr&gt;
-&lt;/table&gt;
-
-&lt;p&gt;&lt;br&gt;
-Which team has made better progress?&lt;/p&gt;
-
-&lt;p&gt;With these combined metrics, we are tempted to say Team B. Because having lesser defects seems associated with quality improvement.&lt;/p&gt;
-
-&lt;p&gt;Perhaps for Team B, TDD led to better understanding of new features and improved quality. However, it did not increase code coverage for existing code that was not touched. On the other hand, Team A focused on increasing code coverage but the effectiveness of the covering tests was questionable, which resulted in higher coverage but not a proportional gain in quality.&lt;/p&gt;
-
-&lt;p&gt;Of course, our answer could still be wrong! Perhaps Team B had a couple of QAs go on vacation, which led to some stories not being tested exhaustively (functional, manual, exploratory, etc), and hence, lesser defects were found.&lt;/p&gt;
-
-&lt;p&gt;The learning is that these numbers are all indicators, and subjectivity has to be applied. Measuring progress is not about measuring numbers. Continuous improvement is not about improving numbers.&lt;/p&gt;
-
-&lt;h3 id="toc_1"&gt;Techniques&lt;/h3&gt;
-
-&lt;p&gt;Having established that, indicators are still necessary and can be an asset during &lt;a href="/agile-coaching-roles"&gt;Agile Coaching&lt;/a&gt;. If we feel the team is making progress, an improvement in numbers will support that. Corollary is that if numbers show a downward trend, we need to investigate if there are slippages or reasonable circumstances to account for that. For all the following suggestions, what is useful is tracking them over a period of time. Based on context, you could decided how frequently to capture them, and how to analyze the results, and if any action item is needed.&lt;/p&gt;
-
-&lt;h4 id="toc_2"&gt;Metrics&lt;/h4&gt;
-
-&lt;p&gt;Metrics used for &lt;em&gt;baselining&lt;/em&gt; can be used for continuous monitoring. Remember to choose metrics based on goals, and definitely choose more than one. You can read more &lt;a href="/metrics-baselining"&gt;here&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h4 id="toc_3"&gt;Confidence Meter&lt;/h4&gt;
-
-&lt;p&gt;Another technique I have seen used effectively is a &lt;em&gt;Confidence Meter&lt;/em&gt;. On or near the Story Wall, we could have a flipchart or whiteboard area to capture the confidence which individual team members have in making a successful release at the end of the iteration. 90% or higher reflects great confidence while anything lower than 30% shows lack of confidence. Team members could update these numbers against their name at the end of a stand up, and if there is a wide variance in perspectives, it could trigger discussions immediately instead of waiting till a Retrospective.&lt;/p&gt;
-
-&lt;h4 id="toc_4"&gt;Surveys&lt;/h4&gt;
-
-&lt;p&gt;One technique, strong on subjectivity, is &lt;em&gt;Surveys&lt;/em&gt;. It may seem casual and imprecise but the results can be revealing. A good survey will have a mix of objective and subjective questions. An objective question could be &lt;em&gt;&amp;quot;Has frequency and pace of refactoring increased?&amp;quot;&lt;/em&gt;, with options ranging from &lt;em&gt;0 (Barely)&lt;/em&gt; to &lt;em&gt;5 (Great extent)&lt;/em&gt;. A subjective comment box could capture something like &lt;em&gt;&amp;quot;Do you feel confident to help others with XP Practices, and in what areas?&amp;quot;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-You can come up with more things to track to indicate progress in your team&amp;#39;s context. It also helps motivation if you can make the trend visible, perhaps by using Big Visible Charts or Information Radiators. But yes, ever so often, do check and remind people that the goal is to make progress and to improve on aspects that provide value to the Business or end users, and not to get solely number-driven.&lt;/p&gt;
 </description>
     </item>
   </channel>
