@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2014-02-19 21:45:53 +0530</pubDate>
+    <pubDate>2014-02-20 12:21:57 +0530</pubDate>
     <item>
       <title>About</title>
       <link>http://www.amanking.com/about-me</link>
@@ -515,7 +515,7 @@
           &lt;div class="summary ellipsis"&gt;
 &lt;p&gt;The term &lt;em&gt;Coaching&lt;/em&gt; is overloaded.&lt;/p&gt;
 
-&lt;p&gt;Comparatively, terms like &lt;em&gt;&lt;a href="http://www.refactoring.com/"&gt;Refactoring&lt;/a&gt;&lt;/em&gt; and &lt;em&gt;&lt;a href="http://c2.com/cgi/wiki?YouArentGonnaNeedIt"&gt;YAGNI&lt;/a&gt;&lt;/em&gt; are recently invented. But despite having had clear definitions to start with, these words still suffer from &lt;a href="http://martinfowler.com/bliki/RefactoringMalapropism.html"&gt;malapropism&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Comparatively, terms like &lt;em&gt;&lt;a href="http://www.refactoring.com/"&gt;Refactoring&lt;/a&gt;&lt;/em&gt; and &lt;em&gt;&lt;a href="http://c2.com/cgi/wiki?YouArentGonnaNeedIt"&gt;YAGNI&lt;/a&gt;&lt;/em&gt; are recently invented. But despite having had clear definitions to start with, these words still suffer from &lt;a href="http://martinfowler.com/bliki/SemanticDiffusion.html"&gt;semantic diffusion&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;Coaching&lt;/em&gt; is a plain English word, around since ages. It is not surprising that its definition in the professional world remains open. This is evident from its &lt;a href="http://en.wikipedia.org/wiki/Coaching"&gt;Wikipedia page&lt;/a&gt;.&lt;/p&gt;
 
