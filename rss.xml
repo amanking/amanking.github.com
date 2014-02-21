@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2014-02-21 11:40:00 +0530</pubDate>
+    <pubDate>2014-02-21 12:03:45 +0530</pubDate>
     <item>
       <title>About</title>
       <link>http://www.amanking.com/about-me</link>
@@ -246,15 +246,16 @@
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
         &lt;div class="content"&gt;
-          &lt;div class="summary ellipsis"&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;"If you can not measure it, you can not improve it."&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href="http://en.wikipedia.org/wiki/William_Thomson,_1st_Baron_Kelvin"&gt;Lord Kelvin&lt;/a&gt; is accredited with the above quote. He was not talking about Agile software development but he was probably on to &lt;em&gt;continuous improvement&lt;/em&gt;. The latter is &lt;a href="http://agilemanifesto.org/principles.html"&gt;integral&lt;/a&gt; to the former.&lt;/p&gt;
-
-&lt;p&gt;A positive change on a metric can be an &lt;em&gt;indicator&lt;/em&gt; of progress or improvement. It is not a guarantee of progress but an indicator. Perhaps if we combine different metrics, all indicating progress on interconnected concepts, we can have higher confidence that there is improvement.&lt;/p&gt;
-&lt;/div&gt;
+          &lt;div class="summary ellipsis"&gt;&lt;style&gt;
+#metric-example {
+  border: 1px solid black;
+}
+#metric-example th, #metric-example td {
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}
+&lt;/style&gt;&lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;

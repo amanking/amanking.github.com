@@ -66,7 +66,18 @@
 <div class="post-full">
   <div class="text">
     <div class="content">
-      <blockquote>
+      <style>
+#metric-example {
+  border: 1px solid black;
+}
+#metric-example th, #metric-example td {
+  border: 1px solid black;
+  padding: 5px;
+  text-align: center;
+}
+</style>
+
+<blockquote>
 <p><em>&quot;If you can not measure it, you can not improve it.&quot;</em></p>
 </blockquote>
 
@@ -88,14 +99,18 @@
 
 <p>Looking at this:</p>
 
-<table border="1">
-  <tr>
-      <th>Team</th>
-      <th>Coverage - Before</th>
-      <th>Avg Defect Count - Before</th>
-      <th>Coverage - After</th>
-      <th>Avg Defect Count - After</th>
-  </tr>
+<table id="metric-example">
+    <tr>
+        <th rowspan="2">Team</th>
+        <th colspan="2">Before</th>
+        <th colspan="2">After</th>
+    </tr>
+    <tr>
+        <th>Coverage</th>
+        <th>Avg Defect Count</th>
+        <th>Coverage</th>
+        <th>Avg Defect Count</th>
+    </tr>
     <tr>
         <td>A</td>
         <td>2%</td>
