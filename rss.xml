@@ -3,7 +3,7 @@
   <channel>
     <title>Aman King</title>
     <link>http://www.amanking.com</link>
-    <pubDate>2014-02-21 12:47:02 +0530</pubDate>
+    <pubDate>2014-02-27 17:19:22 +0530</pubDate>
     <item>
       <title>About</title>
       <link>http://www.amanking.com/about-me</link>
@@ -613,7 +613,7 @@
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="/scaling-agile-coaching"&gt;Scaling Agile Coaching&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
         &lt;span&gt;2013-04-03&lt;/strong&gt;
       &lt;/div&gt;
@@ -635,7 +635,7 @@
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/from-practitioner-to-coach-i"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/from-practitioner-to-coach-i#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="/scaling-agile-coaching"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/scaling-agile-coaching#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
         &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
@@ -793,12 +793,6 @@ A proposal of a software development approach that leverages discovery and exten
     &lt;a href="/tags#personal-ref"&gt;personal &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#agile-ref"&gt;agile &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;a href="/tags#transformation-ref"&gt;transformation &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
     &lt;a href="/tags#event-ref"&gt;event &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -809,6 +803,12 @@ A proposal of a software development approach that leverages discovery and exten
   &lt;/li&gt;
   &lt;li&gt;
     &lt;a href="/tags#ruby-ref"&gt;ruby &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#agile-ref"&gt;agile &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;a href="/tags#transformation-ref"&gt;transformation &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
@@ -825,10 +825,10 @@ A proposal of a software development approach that leverages discovery and exten
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-10&lt;/small&gt; &lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-20&lt;/small&gt; &lt;a href="/coaching-benefits-reporting"&gt;Coaching Benefits Reporting&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-16&lt;/small&gt; &lt;a href="/facilitation-techniques"&gt;Facilitation Techniques&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-17&lt;/small&gt; &lt;a href="/measuring-progress"&gt;Measuring Progress&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-15&lt;/small&gt; &lt;a href="/metrics-baselining"&gt;Metrics Baselining&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-14&lt;/small&gt; &lt;a href="/process-mapping"&gt;Process Mapping&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/scaling-agile-coaching"&gt;Scaling Agile Coaching&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-19&lt;/small&gt; &lt;a href="/self-discovery"&gt;Self-discovery&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-12-18&lt;/small&gt; &lt;a href="/self-learning"&gt;Self-learning&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
@@ -857,7 +857,7 @@ A proposal of a software development approach that leverages discovery and exten
   &lt;h3 id="organizations-ref"&gt;organizations&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-03-31&lt;/small&gt; &lt;a href="/exit-mail"&gt;Exit mail&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/scaling-agile-coaching"&gt;Scaling Agile Coaching&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
   &lt;h3 id="people-ref"&gt;people&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
@@ -866,14 +866,6 @@ A proposal of a software development approach that leverages discovery and exten
   &lt;h3 id="personal-ref"&gt;personal&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2013-03-31&lt;/small&gt; &lt;a href="/exit-mail"&gt;Exit mail&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3 id="agile-ref"&gt;agile&lt;/h3&gt;
-  &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3 id="transformation-ref"&gt;transformation&lt;/h3&gt;
-  &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/from-practitioner-to-coach-i"&gt;From Practitioner to Coach - I&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
   &lt;h3 id="event-ref"&gt;event&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
@@ -891,6 +883,14 @@ A proposal of a software development approach that leverages discovery and exten
   &lt;h3 id="ruby-ref"&gt;ruby&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
     &lt;li&gt;&lt;small class="muted"&gt;2014-01-11&lt;/small&gt; &lt;a href="/garden-city-rubyconf-2014"&gt;Garden City RubyConf 2014&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="agile-ref"&gt;agile&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/scaling-agile-coaching"&gt;Scaling Agile Coaching&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+  &lt;h3 id="transformation-ref"&gt;transformation&lt;/h3&gt;
+  &lt;ul class="unstyled"&gt;
+    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/scaling-agile-coaching"&gt;Scaling Agile Coaching&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
 </description>
     </item>
