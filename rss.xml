@@ -2,14 +2,15 @@
 <rss version="2.0">
   <channel>
     <title>Aman King</title>
+    <description>Aman King</description>
     <link>http://www.amanking.com</link>
-    <pubDate>2014-02-27 17:19:22 +0530</pubDate>
+    <pubDate>2014-03-04 23:05:55 +0530</pubDate>
     <item>
       <title>About</title>
       <link>http://www.amanking.com/about-me</link>
       <pubDate/>
-      <description>&lt;p&gt;&lt;img alt="Aman King" src="/assets/media/images/about-me/aman-cover-photo.jpg" style="width: 100%; height: auto; margin: 0px auto 0px auto;"&gt;
-&lt;div class="muted" style="margin: -15px 0px 20px 0px; font-size: small;"&gt;Photo Credit: &lt;a href="http://fotografyc.com/about/"&gt;Akshay Dhavle&lt;/a&gt;&lt;/div&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;img alt="Aman King" src="http://www.amanking.com/assets/media/images/about-me/aman-cover-photo.jpg" style="width: 100%; height: auto; margin: 0px auto 0px auto;"&gt;&lt;/p&gt;&lt;div class="muted" style="margin: -15px 0px 20px 0px; font-size: small;"&gt;Photo Credit: &lt;a href="http://fotografyc.com/about/"&gt;Akshay Dhavle&lt;/a&gt;
+&lt;/div&gt;
 
 &lt;p&gt;My name is &lt;strong&gt;Aman King&lt;/strong&gt;. I am a technologist at &lt;a href="http://www.thoughtworks.com"&gt;ThoughtWorks&lt;/a&gt;, working as Lead Consultant.&lt;/p&gt;
 
@@ -32,10 +33,7 @@
 &lt;li&gt;&lt;a href="http://bitbucket.org/amanking"&gt;BitBucket&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://github.com/amanking"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.slideshare.net/amanking"&gt;SlideShare&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Email me at &lt;em&gt;my last name @ my full name dot com&lt;/em&gt;&lt;/p&gt;
-</description>
+&lt;/ul&gt;&lt;p&gt;Email me at &lt;em&gt;my last name @ my full name dot com&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog</title>
@@ -43,10 +41,11 @@
       <pubDate/>
       <description>  &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/tips-for-technical-conference-presentations"&gt;Tips for Technical Conference Presentations&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/tips-for-technical-conference-presentations"&gt;Tips for Technical Conference Presentations&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2014-02-18&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2014-02-18
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
@@ -68,22 +67,23 @@
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/tips-for-technical-conference-presentations"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/tips-for-technical-conference-presentations#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/tips-for-technical-conference-presentations"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/tips-for-technical-conference-presentations#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#conference-ref"&gt;conference &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#conference-ref"&gt;conference &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/garden-city-rubyconf-2014"&gt;Garden City RubyConf 2014&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/garden-city-rubyconf-2014"&gt;Garden City RubyConf 2014&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2014-01-11&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2014-01-11
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
@@ -102,68 +102,70 @@
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/garden-city-rubyconf-2014"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/garden-city-rubyconf-2014#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/garden-city-rubyconf-2014"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/garden-city-rubyconf-2014#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#event-ref"&gt;event &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#event-ref"&gt;event &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#conference-ref"&gt;conference &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#conference-ref"&gt;conference &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#slides-ref"&gt;slides &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#slides-ref"&gt;slides &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#ruby-ref"&gt;ruby &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#ruby-ref"&gt;ruby &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/coaching-benefits-reporting"&gt;Coaching Benefits Reporting&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/coaching-benefits-reporting"&gt;Coaching Benefits Reporting&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-12-20&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2013-12-20
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
         &lt;div class="content"&gt;
           &lt;div class="summary ellipsis"&gt;
-&lt;p&gt;Nearing the end of any &lt;a href="/agile-coaching-engagements"&gt;Agile Adoption&lt;/a&gt; engagement, client stakeholders will start wondering about the benefits received from coaching. This may be for their own curiosity, to justify ROI to their bosses, or simply to show off their initiatives to peers!&lt;/p&gt;
+&lt;p&gt;Nearing the end of any &lt;a href="http://www.amanking.com/agile-coaching-engagements"&gt;Agile Adoption&lt;/a&gt; engagement, client stakeholders will start wondering about the benefits received from coaching. This may be for their own curiosity, to justify ROI to their bosses, or simply to show off their initiatives to peers!&lt;/p&gt;
 
 &lt;p&gt;Often this translates into a &lt;em&gt;Coaching Benefits Report&lt;/em&gt;. But I doubt if a set template would work. Different stakeholders have different objectives, and the report may need to be presented accordingly. Some reports may stress on the subjective aspects, while others may rely on objective ones. Some may be formal in language, while others may have a more lively feel to them. In any case, some aspects you can touch upon are mentioned below.&lt;/p&gt;
 
 &lt;h3 id="toc_0"&gt;Metrics&lt;/h3&gt;
 
-&lt;p&gt;This will be the third time I talk about &lt;em&gt;metrics&lt;/em&gt;. We used metrics for &lt;a href="/metrics-baselining"&gt;baselining&lt;/a&gt;; we used it for &lt;a href="/measuring-progress"&gt;measuring progress&lt;/a&gt;; and we will use it for a Before/After comparison in a Benefits document.&lt;/p&gt;
+&lt;p&gt;This will be the third time I talk about &lt;em&gt;metrics&lt;/em&gt;. We used metrics for &lt;a href="http://www.amanking.com/metrics-baselining"&gt;baselining&lt;/a&gt;; we used it for &lt;a href="http://www.amanking.com/measuring-progress"&gt;measuring progress&lt;/a&gt;; and we will use it for a Before/After comparison in a Benefits document.&lt;/p&gt;
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/coaching-benefits-reporting"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/coaching-benefits-reporting#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/coaching-benefits-reporting"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/coaching-benefits-reporting#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/self-discovery"&gt;Self-discovery&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/self-discovery"&gt;Self-discovery&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-12-19&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2013-12-19
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
@@ -171,7 +173,7 @@
           &lt;div class="summary ellipsis"&gt;
 &lt;p&gt;&lt;em&gt;Self-discovery&lt;/em&gt; is important for an individual to understand oneself better, and to continuously grow or evolve. While useful for one's personal life, it is also applicable to one's professional life.&lt;/p&gt;
 
-&lt;p&gt;In &lt;a href="/coaching-basics"&gt;coaching&lt;/a&gt;, one of the goals is to aid individuals to gain better awareness of their own potential. While one way to address this is to provide &lt;em&gt;continuous feedback,&lt;/em&gt; it additionally helps if individuals are enabled to learn more about themselves on their own.&lt;/p&gt;
+&lt;p&gt;In &lt;a href="http://www.amanking.com/coaching-basics"&gt;coaching&lt;/a&gt;, one of the goals is to aid individuals to gain better awareness of their own potential. While one way to address this is to provide &lt;em&gt;continuous feedback,&lt;/em&gt; it additionally helps if individuals are enabled to learn more about themselves on their own.&lt;/p&gt;
 
 &lt;p&gt;Some tools that I have personally found useful and have recommended to others:&lt;/p&gt;
 
@@ -185,37 +187,38 @@
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/self-discovery"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/self-discovery#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/self-discovery"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/self-discovery#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/self-learning"&gt;Self-learning&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/self-learning"&gt;Self-learning&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-12-18&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2013-12-18
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
         &lt;div class="content"&gt;
           &lt;div class="summary ellipsis"&gt;
-&lt;p&gt;A good degree of &lt;em&gt;self-learning&lt;/em&gt; is expected out of every individual being coached during &lt;a href="/agile-coaching-engagements"&gt;Agile Adoption&lt;/a&gt;. Without it, individuals cannot move through the various stages of learning as presented by the &lt;a href="http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition"&gt;Dreyfus Model&lt;/a&gt;. An Agile Coach should pair on tasks with individuals but this approach is limited by team size: one-on-one attention cannot be given for extended durations of time. After all, an Agile Coach operates differently from a Personal Trainer.&lt;/p&gt;
+&lt;p&gt;A good degree of &lt;em&gt;self-learning&lt;/em&gt; is expected out of every individual being coached during &lt;a href="http://www.amanking.com/agile-coaching-engagements"&gt;Agile Adoption&lt;/a&gt;. Without it, individuals cannot move through the various stages of learning as presented by the &lt;a href="http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition"&gt;Dreyfus Model&lt;/a&gt;. An Agile Coach should pair on tasks with individuals but this approach is limited by team size: one-on-one attention cannot be given for extended durations of time. After all, an Agile Coach operates differently from a Personal Trainer.&lt;/p&gt;
 
 &lt;p&gt;An Agile Coach will usually focus on providing the building blocks, and then set the individual on the path of self-learning. Instead of spoon-feeding answers, the coach will use effective questioning to guide the individual to come up with their own reasonable conclusions. This is an application of what is widely known as &lt;a href="http://en.wikipedia.org/wiki/Socratic_method"&gt;Socratic Method&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Additionally what I follow is the &lt;a href="http://www.princeton.edu/hr/learning/philosophy/"&gt;Princeton Model&lt;/a&gt; of learning:&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt="Princeton Model" src="/assets/media/images/coaching/princeton-model.png" style="float:right; margin: 0px 0px 0px 20px; width: auto"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Princeton Model" src="http://www.amanking.com/assets/media/images/coaching/princeton-model.png" style="float:right; margin: 0px 0px 0px 20px; width: auto"&gt;&lt;/p&gt;
 
 &lt;/div&gt;
         &lt;/div&gt;
@@ -223,25 +226,26 @@
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/self-learning"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/self-learning#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/self-learning"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/self-learning#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/measuring-progress"&gt;Measuring Progress&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/measuring-progress"&gt;Measuring Progress&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-12-17&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2013-12-17
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
@@ -261,31 +265,32 @@
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/measuring-progress"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/measuring-progress#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/measuring-progress"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/measuring-progress#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/facilitation-techniques"&gt;Facilitation Techniques&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/facilitation-techniques"&gt;Facilitation Techniques&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-12-16&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2013-12-16
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
         &lt;div class="content"&gt;
           &lt;div class="summary ellipsis"&gt;
-&lt;p&gt;Facilitation is a very useful skill to have. It helps not only in &lt;a href="/coaching-basics"&gt;coaching&lt;/a&gt; but in many day-to-day activities. Whether a team discussion or a team activity, a good facilitator can make all the difference.&lt;/p&gt;
+&lt;p&gt;Facilitation is a very useful skill to have. It helps not only in &lt;a href="http://www.amanking.com/coaching-basics"&gt;coaching&lt;/a&gt; but in many day-to-day activities. Whether a team discussion or a team activity, a good facilitator can make all the difference.&lt;/p&gt;
 
 &lt;h2 id="toc_0"&gt;Retrospective&lt;/h2&gt;
 
@@ -300,31 +305,32 @@
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/facilitation-techniques"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/facilitation-techniques#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/facilitation-techniques"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/facilitation-techniques#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/metrics-baselining"&gt;Metrics Baselining&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/metrics-baselining"&gt;Metrics Baselining&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-12-15&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2013-12-15
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
         &lt;div class="content"&gt;
           &lt;div class="summary ellipsis"&gt;
-&lt;p&gt;During the assessment period of an &lt;a href="/agile-coaching-engagements"&gt;Agile coaching engagement&lt;/a&gt;, a lot of information is captured around the team's &lt;a href="/process-mapping"&gt;current processes and practices&lt;/a&gt;. Along with these, gathering quantitative data is also important. These will go into the assessment report at the end, portraying some aspects of current state. Collecting such metrics during assessment is called &lt;em&gt;Metrics Baselining&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;During the assessment period of an &lt;a href="http://www.amanking.com/agile-coaching-engagements"&gt;Agile coaching engagement&lt;/a&gt;, a lot of information is captured around the team's &lt;a href="http://www.amanking.com/process-mapping"&gt;current processes and practices&lt;/a&gt;. Along with these, gathering quantitative data is also important. These will go into the assessment report at the end, portraying some aspects of current state. Collecting such metrics during assessment is called &lt;em&gt;Metrics Baselining&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;Recommendations can be made on the basis of numbers and trends observed, especially using complementary metrics. If the assessment is followed by Agile Adoption, these metrics can be used to indicate progress in chosen areas. From a sustenance point of view, a Before/After comparison around these metrics can determine comfort level and for demonstrating coaching effectiveness.&lt;/p&gt;
 
@@ -337,31 +343,32 @@
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/metrics-baselining"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/metrics-baselining#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/metrics-baselining"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/metrics-baselining#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/process-mapping"&gt;Process Mapping&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/process-mapping"&gt;Process Mapping&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-12-14&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2013-12-14
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
         &lt;div class="content"&gt;
           &lt;div class="summary ellipsis"&gt;
-&lt;p&gt;After having collected enough information during the assessment period of an &lt;a href="/agile-coaching-engagements"&gt;Agile coaching engagement&lt;/a&gt;, especially using &lt;a href="/assessment-interviews"&gt;interviews&lt;/a&gt;, an Agile Coach should be in a position to draw a &lt;em&gt;Process Map&lt;/em&gt; of whatever has been discovered.&lt;/p&gt;
+&lt;p&gt;After having collected enough information during the assessment period of an &lt;a href="http://www.amanking.com/agile-coaching-engagements"&gt;Agile coaching engagement&lt;/a&gt;, especially using &lt;a href="http://www.amanking.com/assessment-interviews"&gt;interviews&lt;/a&gt;, an Agile Coach should be in a position to draw a &lt;em&gt;Process Map&lt;/em&gt; of whatever has been discovered.&lt;/p&gt;
 
 &lt;p&gt;You could go use a tool to build a clean and elaborate process map but I recommend starting with stickies. Take a bunch of stickies and write down the important activities that you know different roles get involved in during the start of an iteration, at the end of an iteration, and in-between. Give a short name for the activity and note the name of the role as well. Keep the granularity at medium level, as you don't want too many stickies at once, at least not initially.&lt;/p&gt;
 
@@ -374,31 +381,32 @@
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/process-mapping"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/process-mapping#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/process-mapping"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/process-mapping#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/assessment-interviews"&gt;Assessment Interviews&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/assessment-interviews"&gt;Assessment Interviews&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-12-13&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2013-12-13
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
         &lt;div class="content"&gt;
           &lt;div class="summary ellipsis"&gt;
-&lt;p&gt;During the assessment week of an &lt;a href="/agile-coaching-engagements"&gt;Agile coaching engagement&lt;/a&gt;, the goal is to learn about the current state of the team. Special attention is needed towards capturing:&lt;/p&gt;
+&lt;p&gt;During the assessment week of an &lt;a href="http://www.amanking.com/agile-coaching-engagements"&gt;Agile coaching engagement&lt;/a&gt;, the goal is to learn about the current state of the team. Special attention is needed towards capturing:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Day-to-day activities of various roles&lt;/li&gt;
@@ -416,25 +424,26 @@
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/assessment-interviews"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/assessment-interviews#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/assessment-interviews"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/assessment-interviews#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/agile-coaching-engagements"&gt;Agile Coaching Engagements&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/agile-coaching-engagements"&gt;Agile Coaching Engagements&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-12-12&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2013-12-12
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
@@ -453,31 +462,32 @@
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/agile-coaching-engagements"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/agile-coaching-engagements#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/agile-coaching-engagements"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/agile-coaching-engagements#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/agile-coaching-roles"&gt;Agile Coaching Roles&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/agile-coaching-roles"&gt;Agile Coaching Roles&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-12-11&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2013-12-11
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
         &lt;div class="content"&gt;
           &lt;div class="summary ellipsis"&gt;
-&lt;p&gt;To me, &lt;a href="/coaching-basics"&gt;Coaching&lt;/a&gt; is about getting the most out of individuals or teams by raising their awareness levels, about their current environment, about the environment outside theirs, and most important of all, about their own potential. This is done mostly by asking them the right questions, and not by providing them ready-made answers.&lt;/p&gt;
+&lt;p&gt;To me, &lt;a href="http://www.amanking.com/coaching-basics"&gt;Coaching&lt;/a&gt; is about getting the most out of individuals or teams by raising their awareness levels, about their current environment, about the environment outside theirs, and most important of all, about their own potential. This is done mostly by asking them the right questions, and not by providing them ready-made answers.&lt;/p&gt;
 
 &lt;p&gt;My definition of an &lt;em&gt;Agile Coach&lt;/em&gt; is even less restrictive. As an Agile Coach, coaching is my primary &lt;em&gt;modus operandi&lt;/em&gt;. But there are times when I make recommendations based on my practitioner background. I also complement coaching with aspects of mentoring and training. For example, relating personal experiences and sharing useful resources can increase someone's curiosity and give them a clear direction. Conducting a workshop can help kickstart a group on practices like TDD and Refactoring.&lt;/p&gt;
 
@@ -490,25 +500,26 @@
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/agile-coaching-roles"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/agile-coaching-roles#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/agile-coaching-roles"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/agile-coaching-roles#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-12-10&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2013-12-10
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
@@ -527,25 +538,26 @@
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/coaching-basics"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/coaching-basics#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/coaching-basics"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/coaching-basics#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-12-09&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2013-12-09
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
@@ -557,32 +569,33 @@
 
 &lt;p&gt;I'm looking forward to the conference! It has an excellent line up of speakers and topics. Do check it out yourself.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href="http://2014.agileindia.org/" target="_blank" title="I am speaking at Agile India 2014"&gt;&lt;img src="/assets/media/images/badges/speaker-agile-india-2014.png" title="I am speaking at Agile India 2014" alt="I am speaking at Agile India 2014"&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="http://2014.agileindia.org/" target="_blank" title="I am speaking at Agile India 2014"&gt;&lt;img src="http://www.amanking.com/assets/media/images/badges/speaker-agile-india-2014.png" title="I am speaking at Agile India 2014" alt="I am speaking at Agile India 2014"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
         &lt;/div&gt;
       &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/agile-india-2014"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/agile-india-2014#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/agile-india-2014"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/agile-india-2014#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#talk-ref"&gt;talk &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#talk-ref"&gt;talk &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/common-code-smells"&gt;Common code smells&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/common-code-smells"&gt;Common code smells&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-04-21&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2013-04-21
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
@@ -601,22 +614,23 @@
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/common-code-smells"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/common-code-smells#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/common-code-smells"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/common-code-smells#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coding-ref"&gt;coding &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#coding-ref"&gt;coding &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/scaling-agile-coaching"&gt;Scaling Agile Coaching&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/scaling-agile-coaching"&gt;Scaling Agile Coaching&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-04-03&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2013-04-03
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
@@ -635,31 +649,32 @@
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/scaling-agile-coaching"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/scaling-agile-coaching#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/scaling-agile-coaching"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/scaling-agile-coaching#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#organizations-ref"&gt;organizations &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#organizations-ref"&gt;organizations &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#agile-ref"&gt;agile &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#agile-ref"&gt;agile &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#transformation-ref"&gt;transformation &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#transformation-ref"&gt;transformation &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/exit-mail"&gt;Exit mail&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/exit-mail"&gt;Exit mail&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-03-31&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2013-03-31
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
@@ -683,28 +698,29 @@
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/exit-mail"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/exit-mail#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/exit-mail"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/exit-mail#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#organizations-ref"&gt;organizations &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#organizations-ref"&gt;organizations &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#people-ref"&gt;people &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#people-ref"&gt;people &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#personal-ref"&gt;personal &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#personal-ref"&gt;personal &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="/a-fresh-look-and-outlook"&gt;A fresh look and outlook&lt;/a&gt;&lt;/h1&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/a-fresh-look-and-outlook"&gt;A fresh look and outlook&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
-        &lt;span&gt;2013-03-27&lt;/strong&gt;
-      &lt;/div&gt;
+        &lt;span&gt;2013-03-27
+      &lt;/span&gt;
+&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class="post-full"&gt;
       &lt;div class="text"&gt;
@@ -723,183 +739,229 @@
     &lt;/div&gt;
     &lt;div class="controls clearfix"&gt;
       &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="/a-fresh-look-and-outlook"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="/a-fresh-look-and-outlook#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/a-fresh-look-and-outlook"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/a-fresh-look-and-outlook#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
       &lt;/div&gt;
       &lt;ul class="tag_box inline"&gt;
-        &lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
           &lt;li&gt;
-            &lt;a href="/tags#blog-ref"&gt;blog &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+            &lt;a href="http://www.amanking.com/tags#blog-ref"&gt;blog &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
           &lt;/li&gt;
       &lt;/ul&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-</description>
+&lt;/div&gt;
+  &lt;/div&gt;</description>
     </item>
     <item>
       <title>Publications</title>
       <link>http://www.amanking.com/publications</link>
       <pubDate>2014-01-14</pubDate>
-      <description>&lt;p&gt;&lt;br&gt;
-&lt;strong&gt;&lt;a href="http://pragprog.com/book/twa2/the-thoughtworks-anthology-volume-2"&gt;The ThoughtWorks Anthology, Volume 2&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Book &amp;dash; The Pragmatic Programmers&lt;/em&gt;&lt;br&gt;
+      <description>&lt;p&gt;&lt;br&gt;&lt;strong&gt;&lt;a href="http://pragprog.com/book/twa2/the-thoughtworks-anthology-volume-2"&gt;The ThoughtWorks Anthology, Volume 2&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Book &amp;amp;dash; The Pragmatic Programmers&lt;/em&gt;&lt;br&gt;
 Authored a chapter named &#x201C;Object-oriented Programming: Objects over Classes&#x201D;. The book, an anthology on topics related to software development, was first published in Oct 2012.&lt;/p&gt;
 
-&lt;hr&gt;
-
-&lt;p&gt;&lt;strong&gt;&lt;a href="/assets/media/docs/RubyAGemOfALanguageByAmanKing.pdf"&gt;Ruby, a Gem of a Language&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Article &amp;dash; The Smart Techie IT magazine, Oct 2008 issue&lt;/em&gt;&lt;br&gt;
+&lt;hr&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="http://www.amanking.com/assets/media/docs/RubyAGemOfALanguageByAmanKing.pdf"&gt;Ruby, a Gem of a Language&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Article &amp;amp;dash; The Smart Techie IT magazine, Oct 2008 issue&lt;/em&gt;&lt;br&gt;
 An article introducing the Ruby programming language, highlighting many distinctive language features.&lt;/p&gt;
 
-&lt;hr&gt;
-
-&lt;p&gt;&lt;strong&gt;Matchmaking Ruby with Agile&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Whitepaper &amp;dash; GlobalLogic&lt;/em&gt;&lt;br&gt;
+&lt;hr&gt;&lt;p&gt;&lt;strong&gt;Matchmaking Ruby with Agile&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Whitepaper &amp;amp;dash; GlobalLogic&lt;/em&gt;&lt;br&gt;
 A paper describing how the Ruby language directly complements principles of the Agile methodology.&lt;/p&gt;
 
-&lt;hr&gt;
-
-&lt;p&gt;&lt;strong&gt;Looking Beyond the Customer&lt;/strong&gt;&lt;br&gt;
-&lt;em&gt;Whitepaper &amp;dash; GlobalLogic&lt;/em&gt;&lt;br&gt;
-A proposal of a software development approach that leverages discovery and extensibility to benefit product engineering.&lt;/p&gt;
-</description>
+&lt;hr&gt;&lt;p&gt;&lt;strong&gt;Looking Beyond the Customer&lt;/strong&gt;&lt;br&gt;&lt;em&gt;Whitepaper &amp;amp;dash; GlobalLogic&lt;/em&gt;&lt;br&gt;
+A proposal of a software development approach that leverages discovery and extensibility to benefit product engineering.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tags</title>
       <link>http://www.amanking.com/tags</link>
       <pubDate/>
       <description>&lt;ul class="tag_box inline"&gt;
-  &lt;li&gt;
-    &lt;a href="/tags#blog-ref"&gt;blog &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+&lt;li&gt;
+    &lt;a href="http://www.amanking.com/tags#blog-ref"&gt;blog &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="http://www.amanking.com/tags#nugget-ref"&gt;nugget &lt;span&gt;11&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#talk-ref"&gt;talk &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="http://www.amanking.com/tags#talk-ref"&gt;talk &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#coding-ref"&gt;coding &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="http://www.amanking.com/tags#coding-ref"&gt;coding &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#organizations-ref"&gt;organizations &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="http://www.amanking.com/tags#organizations-ref"&gt;organizations &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#people-ref"&gt;people &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="http://www.amanking.com/tags#people-ref"&gt;people &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#personal-ref"&gt;personal &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="http://www.amanking.com/tags#personal-ref"&gt;personal &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#event-ref"&gt;event &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="http://www.amanking.com/tags#event-ref"&gt;event &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#conference-ref"&gt;conference &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="http://www.amanking.com/tags#conference-ref"&gt;conference &lt;span&gt;2&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#slides-ref"&gt;slides &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="http://www.amanking.com/tags#slides-ref"&gt;slides &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#ruby-ref"&gt;ruby &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="http://www.amanking.com/tags#ruby-ref"&gt;ruby &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#agile-ref"&gt;agile &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="http://www.amanking.com/tags#agile-ref"&gt;agile &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;a href="/tags#transformation-ref"&gt;transformation &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+    &lt;a href="http://www.amanking.com/tags#transformation-ref"&gt;transformation &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
   &lt;/li&gt;
-&lt;/ul&gt;
-
-  &lt;h3 id="blog-ref"&gt;blog&lt;/h3&gt;
+&lt;/ul&gt;&lt;h3 id="blog-ref"&gt;blog&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-03-27&lt;/small&gt; &lt;a href="/a-fresh-look-and-outlook"&gt;A fresh look and outlook&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3 id="coaching-ref"&gt;coaching&lt;/h3&gt;
+&lt;li&gt;
+&lt;small class="muted"&gt;2013-03-27&lt;/small&gt; &lt;a href="http://www.amanking.com/a-fresh-look-and-outlook"&gt;A fresh look and outlook&lt;/a&gt;
+&lt;/li&gt;
+  &lt;/ul&gt;&lt;h3 id="coaching-ref"&gt;coaching&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-12&lt;/small&gt; &lt;a href="/agile-coaching-engagements"&gt;Agile Coaching Engagements&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-11&lt;/small&gt; &lt;a href="/agile-coaching-roles"&gt;Agile Coaching Roles&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-13&lt;/small&gt; &lt;a href="/assessment-interviews"&gt;Assessment Interviews&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-10&lt;/small&gt; &lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-20&lt;/small&gt; &lt;a href="/coaching-benefits-reporting"&gt;Coaching Benefits Reporting&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-16&lt;/small&gt; &lt;a href="/facilitation-techniques"&gt;Facilitation Techniques&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-17&lt;/small&gt; &lt;a href="/measuring-progress"&gt;Measuring Progress&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-15&lt;/small&gt; &lt;a href="/metrics-baselining"&gt;Metrics Baselining&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-14&lt;/small&gt; &lt;a href="/process-mapping"&gt;Process Mapping&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/scaling-agile-coaching"&gt;Scaling Agile Coaching&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-19&lt;/small&gt; &lt;a href="/self-discovery"&gt;Self-discovery&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-18&lt;/small&gt; &lt;a href="/self-learning"&gt;Self-learning&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3 id="nugget-ref"&gt;nugget&lt;/h3&gt;
+&lt;li&gt;
+&lt;small class="muted"&gt;2013-12-12&lt;/small&gt; &lt;a href="http://www.amanking.com/agile-coaching-engagements"&gt;Agile Coaching Engagements&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-11&lt;/small&gt; &lt;a href="http://www.amanking.com/agile-coaching-roles"&gt;Agile Coaching Roles&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="http://www.amanking.com/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-13&lt;/small&gt; &lt;a href="http://www.amanking.com/assessment-interviews"&gt;Assessment Interviews&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-10&lt;/small&gt; &lt;a href="http://www.amanking.com/coaching-basics"&gt;Coaching Basics&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-20&lt;/small&gt; &lt;a href="http://www.amanking.com/coaching-benefits-reporting"&gt;Coaching Benefits Reporting&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-16&lt;/small&gt; &lt;a href="http://www.amanking.com/facilitation-techniques"&gt;Facilitation Techniques&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-17&lt;/small&gt; &lt;a href="http://www.amanking.com/measuring-progress"&gt;Measuring Progress&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-15&lt;/small&gt; &lt;a href="http://www.amanking.com/metrics-baselining"&gt;Metrics Baselining&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-14&lt;/small&gt; &lt;a href="http://www.amanking.com/process-mapping"&gt;Process Mapping&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="http://www.amanking.com/scaling-agile-coaching"&gt;Scaling Agile Coaching&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-19&lt;/small&gt; &lt;a href="http://www.amanking.com/self-discovery"&gt;Self-discovery&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-18&lt;/small&gt; &lt;a href="http://www.amanking.com/self-learning"&gt;Self-learning&lt;/a&gt;
+&lt;/li&gt;
+  &lt;/ul&gt;&lt;h3 id="nugget-ref"&gt;nugget&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-12&lt;/small&gt; &lt;a href="/agile-coaching-engagements"&gt;Agile Coaching Engagements&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-11&lt;/small&gt; &lt;a href="/agile-coaching-roles"&gt;Agile Coaching Roles&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-13&lt;/small&gt; &lt;a href="/assessment-interviews"&gt;Assessment Interviews&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-10&lt;/small&gt; &lt;a href="/coaching-basics"&gt;Coaching Basics&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-20&lt;/small&gt; &lt;a href="/coaching-benefits-reporting"&gt;Coaching Benefits Reporting&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-16&lt;/small&gt; &lt;a href="/facilitation-techniques"&gt;Facilitation Techniques&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-17&lt;/small&gt; &lt;a href="/measuring-progress"&gt;Measuring Progress&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-15&lt;/small&gt; &lt;a href="/metrics-baselining"&gt;Metrics Baselining&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-14&lt;/small&gt; &lt;a href="/process-mapping"&gt;Process Mapping&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-19&lt;/small&gt; &lt;a href="/self-discovery"&gt;Self-discovery&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-18&lt;/small&gt; &lt;a href="/self-learning"&gt;Self-learning&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3 id="talk-ref"&gt;talk&lt;/h3&gt;
+&lt;li&gt;
+&lt;small class="muted"&gt;2013-12-12&lt;/small&gt; &lt;a href="http://www.amanking.com/agile-coaching-engagements"&gt;Agile Coaching Engagements&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-11&lt;/small&gt; &lt;a href="http://www.amanking.com/agile-coaching-roles"&gt;Agile Coaching Roles&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-13&lt;/small&gt; &lt;a href="http://www.amanking.com/assessment-interviews"&gt;Assessment Interviews&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-10&lt;/small&gt; &lt;a href="http://www.amanking.com/coaching-basics"&gt;Coaching Basics&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-20&lt;/small&gt; &lt;a href="http://www.amanking.com/coaching-benefits-reporting"&gt;Coaching Benefits Reporting&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-16&lt;/small&gt; &lt;a href="http://www.amanking.com/facilitation-techniques"&gt;Facilitation Techniques&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-17&lt;/small&gt; &lt;a href="http://www.amanking.com/measuring-progress"&gt;Measuring Progress&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-15&lt;/small&gt; &lt;a href="http://www.amanking.com/metrics-baselining"&gt;Metrics Baselining&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-14&lt;/small&gt; &lt;a href="http://www.amanking.com/process-mapping"&gt;Process Mapping&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-19&lt;/small&gt; &lt;a href="http://www.amanking.com/self-discovery"&gt;Self-discovery&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-12-18&lt;/small&gt; &lt;a href="http://www.amanking.com/self-learning"&gt;Self-learning&lt;/a&gt;
+&lt;/li&gt;
+  &lt;/ul&gt;&lt;h3 id="talk-ref"&gt;talk&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3 id="coding-ref"&gt;coding&lt;/h3&gt;
+&lt;li&gt;
+&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="http://www.amanking.com/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;
+&lt;/li&gt;
+  &lt;/ul&gt;&lt;h3 id="coding-ref"&gt;coding&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-04-21&lt;/small&gt; &lt;a href="/common-code-smells"&gt;Common code smells&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3 id="organizations-ref"&gt;organizations&lt;/h3&gt;
+&lt;li&gt;
+&lt;small class="muted"&gt;2013-04-21&lt;/small&gt; &lt;a href="http://www.amanking.com/common-code-smells"&gt;Common code smells&lt;/a&gt;
+&lt;/li&gt;
+  &lt;/ul&gt;&lt;h3 id="organizations-ref"&gt;organizations&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-03-31&lt;/small&gt; &lt;a href="/exit-mail"&gt;Exit mail&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/scaling-agile-coaching"&gt;Scaling Agile Coaching&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3 id="people-ref"&gt;people&lt;/h3&gt;
+&lt;li&gt;
+&lt;small class="muted"&gt;2013-03-31&lt;/small&gt; &lt;a href="http://www.amanking.com/exit-mail"&gt;Exit mail&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="http://www.amanking.com/scaling-agile-coaching"&gt;Scaling Agile Coaching&lt;/a&gt;
+&lt;/li&gt;
+  &lt;/ul&gt;&lt;h3 id="people-ref"&gt;people&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-03-31&lt;/small&gt; &lt;a href="/exit-mail"&gt;Exit mail&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3 id="personal-ref"&gt;personal&lt;/h3&gt;
+&lt;li&gt;
+&lt;small class="muted"&gt;2013-03-31&lt;/small&gt; &lt;a href="http://www.amanking.com/exit-mail"&gt;Exit mail&lt;/a&gt;
+&lt;/li&gt;
+  &lt;/ul&gt;&lt;h3 id="personal-ref"&gt;personal&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-03-31&lt;/small&gt; &lt;a href="/exit-mail"&gt;Exit mail&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3 id="event-ref"&gt;event&lt;/h3&gt;
+&lt;li&gt;
+&lt;small class="muted"&gt;2013-03-31&lt;/small&gt; &lt;a href="http://www.amanking.com/exit-mail"&gt;Exit mail&lt;/a&gt;
+&lt;/li&gt;
+  &lt;/ul&gt;&lt;h3 id="event-ref"&gt;event&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2014-01-11&lt;/small&gt; &lt;a href="/garden-city-rubyconf-2014"&gt;Garden City RubyConf 2014&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3 id="conference-ref"&gt;conference&lt;/h3&gt;
+&lt;li&gt;
+&lt;small class="muted"&gt;2014-01-11&lt;/small&gt; &lt;a href="http://www.amanking.com/garden-city-rubyconf-2014"&gt;Garden City RubyConf 2014&lt;/a&gt;
+&lt;/li&gt;
+  &lt;/ul&gt;&lt;h3 id="conference-ref"&gt;conference&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2014-01-11&lt;/small&gt; &lt;a href="/garden-city-rubyconf-2014"&gt;Garden City RubyConf 2014&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2014-02-18&lt;/small&gt; &lt;a href="/tips-for-technical-conference-presentations"&gt;Tips for Technical Conference Presentations&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3 id="slides-ref"&gt;slides&lt;/h3&gt;
+&lt;li&gt;
+&lt;small class="muted"&gt;2014-01-11&lt;/small&gt; &lt;a href="http://www.amanking.com/garden-city-rubyconf-2014"&gt;Garden City RubyConf 2014&lt;/a&gt;
+&lt;/li&gt;
+    &lt;li&gt;
+&lt;small class="muted"&gt;2014-02-18&lt;/small&gt; &lt;a href="http://www.amanking.com/tips-for-technical-conference-presentations"&gt;Tips for Technical Conference Presentations&lt;/a&gt;
+&lt;/li&gt;
+  &lt;/ul&gt;&lt;h3 id="slides-ref"&gt;slides&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2014-01-11&lt;/small&gt; &lt;a href="/garden-city-rubyconf-2014"&gt;Garden City RubyConf 2014&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3 id="ruby-ref"&gt;ruby&lt;/h3&gt;
+&lt;li&gt;
+&lt;small class="muted"&gt;2014-01-11&lt;/small&gt; &lt;a href="http://www.amanking.com/garden-city-rubyconf-2014"&gt;Garden City RubyConf 2014&lt;/a&gt;
+&lt;/li&gt;
+  &lt;/ul&gt;&lt;h3 id="ruby-ref"&gt;ruby&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2014-01-11&lt;/small&gt; &lt;a href="/garden-city-rubyconf-2014"&gt;Garden City RubyConf 2014&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3 id="agile-ref"&gt;agile&lt;/h3&gt;
+&lt;li&gt;
+&lt;small class="muted"&gt;2014-01-11&lt;/small&gt; &lt;a href="http://www.amanking.com/garden-city-rubyconf-2014"&gt;Garden City RubyConf 2014&lt;/a&gt;
+&lt;/li&gt;
+  &lt;/ul&gt;&lt;h3 id="agile-ref"&gt;agile&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/scaling-agile-coaching"&gt;Scaling Agile Coaching&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-  &lt;h3 id="transformation-ref"&gt;transformation&lt;/h3&gt;
+&lt;li&gt;
+&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="http://www.amanking.com/scaling-agile-coaching"&gt;Scaling Agile Coaching&lt;/a&gt;
+&lt;/li&gt;
+  &lt;/ul&gt;&lt;h3 id="transformation-ref"&gt;transformation&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
-    &lt;li&gt;&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="/scaling-agile-coaching"&gt;Scaling Agile Coaching&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-</description>
+&lt;li&gt;
+&lt;small class="muted"&gt;2013-04-03&lt;/small&gt; &lt;a href="http://www.amanking.com/scaling-agile-coaching"&gt;Scaling Agile Coaching&lt;/a&gt;
+&lt;/li&gt;
+  &lt;/ul&gt;</description>
     </item>
     <item>
       <title>Talks</title>
       <link>http://www.amanking.com/talks</link>
       <pubDate>2014-01-14</pubDate>
-      <description>&lt;iframe src="http://www.slideshare.net/amanking/slideshelf" width="760px" height="570px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen&gt;&lt;/iframe&gt;
-</description>
+      <description>&lt;iframe src="http://www.slideshare.net/amanking/slideshelf" width="760px" height="570px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:none;" allowfullscreen webkitallowfullscreen mozallowfullscreen&gt;&lt;/iframe&gt;</description>
     </item>
   </channel>
 </rss>

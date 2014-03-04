@@ -2,39 +2,41 @@
 <rss version="2.0">
   <channel>
     <title>Aman King</title>
+    <description>Aman King</description>
     <link>http://www.amanking.com</link>
-    <pubDate>2014-02-27 17:19:25 +0530</pubDate>
+    <pubDate>2014-03-04 23:05:58 +0530</pubDate>
     <item>
       <title>Tips for Technical Conference Presentations</title>
       <link>http://www.amanking.com/tips-for-technical-conference-presentations</link>
       <pubDate>2014-02-18</pubDate>
-      <description>&lt;p&gt;Googling for &amp;quot;&lt;a href="https://www.google.co.in/?#q=tips+for+presentations"&gt;tips for presentations&lt;/a&gt;&amp;quot; will give you a lot of useful links. I want to capture here some basic tips, specifically for technical conferences. Not much about beautiful slides but about readable ones. As an audience, I find it unfair when a talk is really good but the slides are unreadable!&lt;/p&gt;
+      <description>&lt;p&gt;Googling for "&lt;a href="https://www.google.co.in/?#q=tips+for+presentations"&gt;tips for presentations&lt;/a&gt;" will give you a lot of useful links. I want to capture here some basic tips, specifically for technical conferences. Not much about beautiful slides but about readable ones. As an audience, I find it unfair when a talk is really good but the slides are unreadable!&lt;/p&gt;
 
 &lt;h4 id="toc_0"&gt;Resolution&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Find out about the resolution&lt;/em&gt; supported by the projector at the conference venue. Set your machine&amp;#39;s resolution to the same and check your presentation. At times you&amp;#39;ll find your text word-wrapped in weird ways or your pictures going outside the screen boundary.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id="toc_1"&gt;Font &amp;amp; Colours&lt;/h4&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Do not use low contrast colours.&lt;/em&gt; Especially between the slide background and the text. Audiences at any distance, close or far, will have difficulty reading your slides if you choose an Emacs-style scheme. I typically prefer a simple white background and black text, with some red or blue thrown in for effect.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Use less text. But large font size.&lt;/em&gt; Keeps the audience focused on you. But also makes your slide readable from a distance. Having no text is better than having unreadable text.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Avoid complex diagrams.&lt;/em&gt; Have labels in a large font. The audience should be able to comprehend the diagram quickly and without hurting their eyes.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Use safe colours for text and diagrams.&lt;/em&gt; Basically common primary colours that have a good chance of being projected correctly. Some colours on your monitor look very different on a projected screen. Subtle colour variations get lost when projected, so do not rely on those.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h4 id="toc_2"&gt;Code snippets&lt;/h4&gt;
+&lt;li&gt;
+&lt;em&gt;Find out about the resolution&lt;/em&gt; supported by the projector at the conference venue. Set your machine's resolution to the same and check your presentation. At times you'll find your text word-wrapped in weird ways or your pictures going outside the screen boundary.&lt;/li&gt;
+&lt;/ul&gt;&lt;h4 id="toc_1"&gt;Font &amp;amp; Colours&lt;/h4&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Adjust your editor&amp;#39;s look and feel&lt;/em&gt; before taking a screenshot of code snippets. Choose a white background with dark text, and make the font size large.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Have the code snippets ready on your machine&lt;/em&gt; in case the screenshots do not appear clearly. During the presentation, you could switch to your editor to show the code. Keep the editor in an easy-to-view colour scheme with a large font.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Annotate code snippets&lt;/em&gt; where applicable. Helps the audience follow the parts you want to talk about.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;li&gt;
+&lt;em&gt;Do not use low contrast colours.&lt;/em&gt; Especially between the slide background and the text. Audiences at any distance, close or far, will have difficulty reading your slides if you choose an Emacs-style scheme. I typically prefer a simple white background and black text, with some red or blue thrown in for effect.&lt;/li&gt;
+&lt;li&gt;
+&lt;em&gt;Use less text. But large font size.&lt;/em&gt; Keeps the audience focused on you. But also makes your slide readable from a distance. Having no text is better than having unreadable text.&lt;/li&gt;
+&lt;li&gt;
+&lt;em&gt;Avoid complex diagrams.&lt;/em&gt; Have labels in a large font. The audience should be able to comprehend the diagram quickly and without hurting their eyes.&lt;/li&gt;
+&lt;li&gt;
+&lt;em&gt;Use safe colours for text and diagrams.&lt;/em&gt; Basically common primary colours that have a good chance of being projected correctly. Some colours on your monitor look very different on a projected screen. Subtle colour variations get lost when projected, so do not rely on those.&lt;/li&gt;
+&lt;/ul&gt;&lt;h4 id="toc_2"&gt;Code snippets&lt;/h4&gt;
 
-&lt;p&gt;Final advice: &lt;strong&gt;do a trial run,&lt;/strong&gt; ideally at the venue itself, and get feedback.&lt;/p&gt;
-</description>
+&lt;ul&gt;
+&lt;li&gt;
+&lt;em&gt;Adjust your editor's look and feel&lt;/em&gt; before taking a screenshot of code snippets. Choose a white background with dark text, and make the font size large.&lt;/li&gt;
+&lt;li&gt;
+&lt;em&gt;Have the code snippets ready on your machine&lt;/em&gt; in case the screenshots do not appear clearly. During the presentation, you could switch to your editor to show the code. Keep the editor in an easy-to-view colour scheme with a large font.&lt;/li&gt;
+&lt;li&gt;
+&lt;em&gt;Annotate code snippets&lt;/em&gt; where applicable. Helps the audience follow the parts you want to talk about.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Final advice: &lt;strong&gt;do a trial run,&lt;/strong&gt; ideally at the venue itself, and get feedback.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Garden City RubyConf 2014</title>
@@ -42,9 +44,9 @@
       <pubDate>2014-01-11</pubDate>
       <description>&lt;p&gt;Had the opportunity to attend and speak at the first Bangalore-based Ruby conference, &lt;a href="http://www.gardencityruby.org/"&gt;Garden City RubyConf 2014&lt;/a&gt;. It was reminiscent of the first &lt;a href="http://rubyconfindia.org/2010/speakers.html"&gt;RubyConf India in 2010&lt;/a&gt;, where I also spoke incidentally.&lt;/p&gt;
 
-&lt;p&gt;Among the conferences I&amp;#39;ve attended recently, this was definitely among the better ones. Great job by the organizers to line up some &lt;a href="http://gardencityruby2014.busyconf.com/schedule"&gt;interesting talks&lt;/a&gt;, including keynotes.&lt;/p&gt;
+&lt;p&gt;Among the conferences I've attended recently, this was definitely among the better ones. Great job by the organizers to line up some &lt;a href="http://gardencityruby2014.busyconf.com/schedule"&gt;interesting talks&lt;/a&gt;, including keynotes.&lt;/p&gt;
 
-&lt;p&gt;I got to meet &lt;a href="http://chadfowler.com/"&gt;Chad Fowler&lt;/a&gt; after many years. In 2007, he was one of my trainers in an &lt;a href="http://pragmaticstudio.com/"&gt;Advanced Ruby on Rails workshop&lt;/a&gt; I had attended in Dallas, US. In fact, I showed him a copy of &lt;a href="http://www.amazon.com/Job-Went-India-Pragmatic-Programmers/dp/0976694018"&gt;My Job Went to India&lt;/a&gt; that he&amp;#39;d signed for me back then. Chad&amp;#39;s keynote was quite thought-provoking. He challenged many existing notions about developing and deploying software, and encouraged looking at some refreshingly new approaches out there.&lt;/p&gt;
+&lt;p&gt;I got to meet &lt;a href="http://chadfowler.com/"&gt;Chad Fowler&lt;/a&gt; after many years. In 2007, he was one of my trainers in an &lt;a href="http://pragmaticstudio.com/"&gt;Advanced Ruby on Rails workshop&lt;/a&gt; I had attended in Dallas, US. In fact, I showed him a copy of &lt;a href="http://www.amazon.com/Job-Went-India-Pragmatic-Programmers/dp/0976694018"&gt;My Job Went to India&lt;/a&gt; that he'd signed for me back then. Chad's keynote was quite thought-provoking. He challenged many existing notions about developing and deploying software, and encouraged looking at some refreshingly new approaches out there.&lt;/p&gt;
 
 &lt;p&gt;Besides Chad, other speakers were good too. I also noticed something curiously common among the speakers: most were ex-ThoughtWorkers. The conference allowed me to catch up with my ex-colleagues, and hear them share experiences on and off stage. In fact, the conference allowed ample time to network with new and old friends. I later learnt the number of breaks and their durations were consciously planned by the organizers to allow networking. Definitely a good move!&lt;/p&gt;
 
@@ -54,37 +56,35 @@
 
 &lt;p&gt;All in all, two days very well-spent! I will definitely recommend this conference to all Ruby developers out there!&lt;/p&gt;
 
-&lt;p&gt;&lt;br&gt;
-&lt;iframe src="http://www.slideshare.net/slideshow/embed_code/29664669?rel=0" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:1px" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt;&lt;small&gt;&lt;strong&gt;&lt;a href="https://www.slideshare.net/amanking/simple-ruby-dsl-techniques-big-project-impact" title="Simple Ruby DSL Techniques: Big Project Impact!" target="_blank"&gt;Simple Ruby DSL Techniques: Big Project Impact!&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="http://www.slideshare.net/amanking" target="_blank"&gt;Aman King&lt;/a&gt;&lt;/strong&gt;&lt;/small&gt;&lt;/div&gt;&lt;/p&gt;
-</description>
+&lt;p&gt;&lt;br&gt;&lt;iframe src="http://www.slideshare.net/slideshow/embed_code/29664669?rel=0" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:1px" allowfullscreen&gt; &lt;/iframe&gt; &lt;/p&gt;&lt;div style="margin-bottom:5px"&gt;&lt;small&gt;&lt;strong&gt;&lt;a href="https://www.slideshare.net/amanking/simple-ruby-dsl-techniques-big-project-impact" title="Simple Ruby DSL Techniques: Big Project Impact!" target="_blank"&gt;Simple Ruby DSL Techniques: Big Project Impact!&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="http://www.slideshare.net/amanking" target="_blank"&gt;Aman King&lt;/a&gt;&lt;/strong&gt;&lt;/small&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Coaching Benefits Reporting</title>
       <link>http://www.amanking.com/coaching-benefits-reporting</link>
       <pubDate>2013-12-20</pubDate>
-      <description>&lt;p&gt;Nearing the end of any &lt;a href="/agile-coaching-engagements"&gt;Agile Adoption&lt;/a&gt; engagement, client stakeholders will start wondering about the benefits received from coaching. This may be for their own curiosity, to justify ROI to their bosses, or simply to show off their initiatives to peers!&lt;/p&gt;
+      <description>&lt;p&gt;Nearing the end of any &lt;a href="http://www.amanking.com/agile-coaching-engagements"&gt;Agile Adoption&lt;/a&gt; engagement, client stakeholders will start wondering about the benefits received from coaching. This may be for their own curiosity, to justify ROI to their bosses, or simply to show off their initiatives to peers!&lt;/p&gt;
 
 &lt;p&gt;Often this translates into a &lt;em&gt;Coaching Benefits Report&lt;/em&gt;. But I doubt if a set template would work. Different stakeholders have different objectives, and the report may need to be presented accordingly. Some reports may stress on the subjective aspects, while others may rely on objective ones. Some may be formal in language, while others may have a more lively feel to them. In any case, some aspects you can touch upon are mentioned below.&lt;/p&gt;
 
 &lt;h3 id="toc_0"&gt;Metrics&lt;/h3&gt;
 
-&lt;p&gt;This will be the third time I talk about &lt;em&gt;metrics&lt;/em&gt;. We used metrics for &lt;a href="/metrics-baselining"&gt;baselining&lt;/a&gt;; we used it for &lt;a href="/measuring-progress"&gt;measuring progress&lt;/a&gt;; and we will use it for a Before/After comparison in a Benefits document.&lt;/p&gt;
+&lt;p&gt;This will be the third time I talk about &lt;em&gt;metrics&lt;/em&gt;. We used metrics for &lt;a href="http://www.amanking.com/metrics-baselining"&gt;baselining&lt;/a&gt;; we used it for &lt;a href="http://www.amanking.com/measuring-progress"&gt;measuring progress&lt;/a&gt;; and we will use it for a Before/After comparison in a Benefits document.&lt;/p&gt;
 
-&lt;p&gt;The idea is simple: you got some numbers when you started the engagement with an assessment; you saw how the numbers varied during active coaching; and finally, the numbers have reached a certain level when it&amp;#39;s time to wrap up. A Before/After will typically stress on comparing the starting numbers against the final numbers; in an appendix, you could attach a trend graph for what happened in between.&lt;/p&gt;
+&lt;p&gt;The idea is simple: you got some numbers when you started the engagement with an assessment; you saw how the numbers varied during active coaching; and finally, the numbers have reached a certain level when it's time to wrap up. A Before/After will typically stress on comparing the starting numbers against the final numbers; in an appendix, you could attach a trend graph for what happened in between.&lt;/p&gt;
 
 &lt;p&gt;Beyond this obvious approach to metrics, I want to call out some gotchas, basically some numbers that could confuse you and your stakeholders at first look!&lt;/p&gt;
 
 &lt;h4 id="toc_1"&gt;Sample Case Study 1&lt;/h4&gt;
 
-&lt;p&gt;During assessment you measure Defect Count within Iteration, ie, the number of defects found by QA for the iteration&amp;#39;s stories within the iteration itself. You find it to be 10. After active coaching, let&amp;#39;s say you expected a decrease in defects. Turns out the number has increased to 15!&lt;/p&gt;
+&lt;p&gt;During assessment you measure Defect Count within Iteration, ie, the number of defects found by QA for the iteration's stories within the iteration itself. You find it to be 10. After active coaching, let's say you expected a decrease in defects. Turns out the number has increased to 15!&lt;/p&gt;
 
 &lt;p&gt;You and your stakeholders may end up asking: what Agile Coaching have we done that actually led to an increase in defects?!&lt;/p&gt;
 
-&lt;p&gt;Answer: Earlier the team&amp;#39;s process and practices were such that a high number of defects were actually slipping through. These were caught at later stages, unfortunately, mostly in production by end users. By improving on the processes and practices, the team is now catching defects earlier. With a clearer view on quality, the team is ready to focus on these concern areas better.&lt;/p&gt;
+&lt;p&gt;Answer: Earlier the team's process and practices were such that a high number of defects were actually slipping through. These were caught at later stages, unfortunately, mostly in production by end users. By improving on the processes and practices, the team is now catching defects earlier. With a clearer view on quality, the team is ready to focus on these concern areas better.&lt;/p&gt;
 
 &lt;h4 id="toc_2"&gt;Sample Case Study 2&lt;/h4&gt;
 
-&lt;p&gt;Consider per iteration, the % of stories that have automated tests. During assessment of a team which had already started some Agile practices, let&amp;#39;s say the number was 50%. We measure this number again to get final numbers before wrapping up, and we see it&amp;#39;s 35%!!&lt;/p&gt;
+&lt;p&gt;Consider per iteration, the % of stories that have automated tests. During assessment of a team which had already started some Agile practices, let's say the number was 50%. We measure this number again to get final numbers before wrapping up, and we see it's 35%!!&lt;/p&gt;
 
 &lt;p&gt;What happened?! Was the team better off on their own, before Agile Coaching?&lt;/p&gt;
 
@@ -92,16 +92,14 @@
 
 &lt;h4 id="toc_3"&gt;Takeaway&lt;/h4&gt;
 
-&lt;p&gt;We can see that relying on simple number comparisons can throw us off, leading us to wrong conclusions. I&amp;#39;ve called this out before, and will repeat: metrics are simply indicators, not guarantees, and should be supported with subjectivity. That said, numbers can still be useful. In cases like above, when the results seem surprising, consider these approaches:&lt;/p&gt;
+&lt;p&gt;We can see that relying on simple number comparisons can throw us off, leading us to wrong conclusions. I've called this out before, and will repeat: metrics are simply indicators, not guarantees, and should be supported with subjectivity. That said, numbers can still be useful. In cases like above, when the results seem surprising, consider these approaches:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Use complementary metrics (eg. Defect Count per Environment in addition to Defect Count within Iteration)&lt;/li&gt;
 &lt;li&gt;Use a Trend Graph instead of a Before/After comparison&lt;/li&gt;
 &lt;li&gt;Use a mean or average value over multiple recent iterations instead of just the latest numbers&lt;/li&gt;
 &lt;li&gt;Present ratios or percentages along with the absolute numbers, not in isolation (eg. a seemingly low 7% coverage increase meant a substantial ~6000 LOC coverage improvement in a huge legacy code base)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="toc_4"&gt;Surveys &amp;amp; Feedback Forms&lt;/h3&gt;
+&lt;/ul&gt;&lt;h3 id="toc_4"&gt;Surveys &amp;amp; Feedback Forms&lt;/h3&gt;
 
 &lt;p&gt;To capture team skills improvement, and general shifts in mindset, use &lt;em&gt;surveys&lt;/em&gt; that have a mix of subjective and objective type of questions. You may have conducted such surveys during assessment, and you could conduct a similar one towards the end of the engagement. Sometimes people challenge if certain aspects of team behaviour can be tied to coaching efforts, claiming those changes may have happened without coaching too. While this may be true, collecting specific &lt;em&gt;coaching-related feedback&lt;/em&gt; can help evaluate the contribution of coaching to such behavioural changes. Such feedback may also be collected using surveys in addition to in-person feedback. It is important to clarify that the feedback is for gauging what worked and what could be improved, and that honest answers will not reflect badly on the Coach in any way.&lt;/p&gt;
 
@@ -111,64 +109,58 @@
 
 &lt;h3 id="toc_6"&gt;Success Stories&lt;/h3&gt;
 
-&lt;p&gt;Speaking of making things seem more real, try to weave the team&amp;#39;s journey on the Agile path into a clear-to-understand &lt;em&gt;story&lt;/em&gt;, covering where we began, what all we tried, successes and failures, and eventual sustenance. You may represent these on a timeline or simply as a bulleted list of highlights.&lt;/p&gt;
+&lt;p&gt;Speaking of making things seem more real, try to weave the team's journey on the Agile path into a clear-to-understand &lt;em&gt;story&lt;/em&gt;, covering where we began, what all we tried, successes and failures, and eventual sustenance. You may represent these on a timeline or simply as a bulleted list of highlights.&lt;/p&gt;
 
 &lt;h3 id="toc_7"&gt;Next Steps&lt;/h3&gt;
 
 &lt;p&gt;You can end a Benefits report with a &lt;em&gt;Next Steps&lt;/em&gt; section. This should cover recommendations on what the team, the department, and the organization should focus on next, so that even without formal Agile Coaching, sustenance is continued, learnings are shared, and further improvements happen in creative and innovative ways, not just reactive.&lt;/p&gt;
 
 &lt;p&gt;&lt;br&gt;
-Do not forget to share drafts of the Coaching Benefits Report with the client stakeholder as you write it, so that you get feedback and are able to meet the report&amp;#39;s objectives, catering to the intended audience.&lt;/p&gt;
-</description>
+Do not forget to share drafts of the Coaching Benefits Report with the client stakeholder as you write it, so that you get feedback and are able to meet the report's objectives, catering to the intended audience.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Self-discovery</title>
       <link>http://www.amanking.com/self-discovery</link>
       <pubDate>2013-12-19</pubDate>
-      <description>&lt;p&gt;&lt;em&gt;Self-discovery&lt;/em&gt; is important for an individual to understand oneself better, and to continuously grow or evolve. While useful for one&amp;#39;s personal life, it is also applicable to one&amp;#39;s professional life.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Self-discovery&lt;/em&gt; is important for an individual to understand oneself better, and to continuously grow or evolve. While useful for one's personal life, it is also applicable to one's professional life.&lt;/p&gt;
 
-&lt;p&gt;In &lt;a href="/coaching-basics"&gt;coaching&lt;/a&gt;, one of the goals is to aid individuals to gain better awareness of their own potential. While one way to address this is to provide &lt;em&gt;continuous feedback,&lt;/em&gt; it additionally helps if individuals are enabled to learn more about themselves on their own.&lt;/p&gt;
+&lt;p&gt;In &lt;a href="http://www.amanking.com/coaching-basics"&gt;coaching&lt;/a&gt;, one of the goals is to aid individuals to gain better awareness of their own potential. While one way to address this is to provide &lt;em&gt;continuous feedback,&lt;/em&gt; it additionally helps if individuals are enabled to learn more about themselves on their own.&lt;/p&gt;
 
 &lt;p&gt;Some tools that I have personally found useful and have recommended to others:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://strengths.gallup.com/110440/About-StrengthsFinder-20.aspx"&gt;Strengths Finder&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.mindtimemaps.com/"&gt;MindTimeMaps&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Other activity-based suggestions include:&lt;/p&gt;
+&lt;/ul&gt;&lt;p&gt;Other activity-based suggestions include:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://www.noop.nl/2011/09/moving-motivators-free-exercise.html"&gt;Moving Motivators&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://blog.jthoenes.net/personal-retrospectives/"&gt;Personal Retrospectives&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/ul&gt;&lt;p&gt;Whether you take online questionnaires, conduct introspective exercises or retrospectives, or simply reflect on feedback received, it is useful to take some time out to think about yourself and your place in the surrounding context. Having gone through certain experiences and learnings, reflecting on those and imbibing key takeaways will ensure that you grow in the process. Else there is a risk that each incident, whether good or bad, remains just as an incident in your memory, and does not become an opportunity to improve.&lt;/p&gt;
 
-&lt;p&gt;Whether you take online questionnaires, conduct introspective exercises or retrospectives, or simply reflect on feedback received, it is useful to take some time out to think about yourself and your place in the surrounding context. Having gone through certain experiences and learnings, reflecting on those and imbibing key takeaways will ensure that you grow in the process. Else there is a risk that each incident, whether good or bad, remains just as an incident in your memory, and does not become an opportunity to improve.&lt;/p&gt;
-
-&lt;p&gt;Self-discovery in individuals, combined with &lt;a href="/self-learning"&gt;self-learning&lt;/a&gt;, is key to sustenance, especially in Agile Coaching.&lt;/p&gt;
-</description>
+&lt;p&gt;Self-discovery in individuals, combined with &lt;a href="http://www.amanking.com/self-learning"&gt;self-learning&lt;/a&gt;, is key to sustenance, especially in Agile Coaching.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Self-learning</title>
       <link>http://www.amanking.com/self-learning</link>
       <pubDate>2013-12-18</pubDate>
-      <description>&lt;p&gt;A good degree of &lt;em&gt;self-learning&lt;/em&gt; is expected out of every individual being coached during &lt;a href="/agile-coaching-engagements"&gt;Agile Adoption&lt;/a&gt;. Without it, individuals cannot move through the various stages of learning as presented by the &lt;a href="http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition"&gt;Dreyfus Model&lt;/a&gt;. An Agile Coach should pair on tasks with individuals but this approach is limited by team size: one-on-one attention cannot be given for extended durations of time. After all, an Agile Coach operates differently from a Personal Trainer.&lt;/p&gt;
+      <description>&lt;p&gt;A good degree of &lt;em&gt;self-learning&lt;/em&gt; is expected out of every individual being coached during &lt;a href="http://www.amanking.com/agile-coaching-engagements"&gt;Agile Adoption&lt;/a&gt;. Without it, individuals cannot move through the various stages of learning as presented by the &lt;a href="http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition"&gt;Dreyfus Model&lt;/a&gt;. An Agile Coach should pair on tasks with individuals but this approach is limited by team size: one-on-one attention cannot be given for extended durations of time. After all, an Agile Coach operates differently from a Personal Trainer.&lt;/p&gt;
 
 &lt;p&gt;An Agile Coach will usually focus on providing the building blocks, and then set the individual on the path of self-learning. Instead of spoon-feeding answers, the coach will use effective questioning to guide the individual to come up with their own reasonable conclusions. This is an application of what is widely known as &lt;a href="http://en.wikipedia.org/wiki/Socratic_method"&gt;Socratic Method&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Additionally what I follow is the &lt;a href="http://www.princeton.edu/hr/learning/philosophy/"&gt;Princeton Model&lt;/a&gt; of learning:&lt;/p&gt;
 
-&lt;p&gt;&lt;img alt="Princeton Model" src="/assets/media/images/coaching/princeton-model.png" style="float:right; margin: 0px 0px 0px 20px; width: auto"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt="Princeton Model" src="http://www.amanking.com/assets/media/images/coaching/princeton-model.png" style="float:right; margin: 0px 0px 0px 20px; width: auto"&gt;&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;70%&lt;/em&gt; of skills adoption comes from real work done on the ground. I pair with individuals on their project work, and such individuals, in turn, pair with others.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;20%&lt;/em&gt; of skills building happens via workshops, sessions, and demos. Workshops are typically run by me or other invited experts. Demos and knowledge-sharing brown bag sessions are conducted regularly by the team members themselves, mostly as show-and-tell.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;10%&lt;/em&gt; of skills exposure happens via reading. Links to relevant articles and blogs, along with book recommendations, are shared via mailing lists or wiki pages.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div style="float:left; margin: 0px 20px 20px 0px; width: auto"&gt;
-  &lt;img alt="Challenges vs Skills" src="/assets/media/images/coaching/challenges-vs-skills.png" style="border: 1px solid silver"&gt;&lt;br&gt;
-  &lt;small class="muted"&gt;Graph introduced to me by &lt;a href="http://www.linkedin.com/pub/julian-parry/3/999/31"&gt;Jules Parry&lt;/a&gt;&lt;/small&gt;
+&lt;li&gt;
+&lt;em&gt;70%&lt;/em&gt; of skills adoption comes from real work done on the ground. I pair with individuals on their project work, and such individuals, in turn, pair with others.&lt;/li&gt;
+&lt;li&gt;
+&lt;em&gt;20%&lt;/em&gt; of skills building happens via workshops, sessions, and demos. Workshops are typically run by me or other invited experts. Demos and knowledge-sharing brown bag sessions are conducted regularly by the team members themselves, mostly as show-and-tell.&lt;/li&gt;
+&lt;li&gt;
+&lt;em&gt;10%&lt;/em&gt; of skills exposure happens via reading. Links to relevant articles and blogs, along with book recommendations, are shared via mailing lists or wiki pages.&lt;/li&gt;
+&lt;/ul&gt;&lt;div style="float:left; margin: 0px 20px 20px 0px; width: auto"&gt;
+  &lt;img alt="Challenges vs Skills" src="http://www.amanking.com/assets/media/images/coaching/challenges-vs-skills.png" style="border: 1px solid silver"&gt;&lt;br&gt;&lt;small class="muted"&gt;Graph introduced to me by &lt;a href="http://www.linkedin.com/pub/julian-parry/3/999/31"&gt;Jules Parry&lt;/a&gt;&lt;/small&gt;
 &lt;/div&gt;
 
 &lt;p&gt;You can force self-learning by throwing challenges at the team. They will usually cope by upgrading their skill levels.&lt;/p&gt;
@@ -177,8 +169,7 @@ Do not forget to share drafts of the Coaching Benefits Report with the client st
 
 &lt;div style="clear:both"&gt;&lt;/div&gt;
 
-&lt;p&gt;These were some effective approaches to encourage self-learning during active coaching. The process may lead some individuals down the path to &lt;a href="/self-discovery"&gt;self-discovery&lt;/a&gt;.&lt;/p&gt;
-</description>
+&lt;p&gt;These were some effective approaches to encourage self-learning during active coaching. The process may lead some individuals down the path to &lt;a href="http://www.amanking.com/self-discovery"&gt;self-discovery&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
