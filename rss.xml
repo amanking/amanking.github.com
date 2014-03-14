@@ -4,7 +4,7 @@
     <title>Aman King</title>
     <description>Aman King</description>
     <link>http://www.amanking.com</link>
-    <pubDate>2014-03-14 14:10:49 +0530</pubDate>
+    <pubDate>2014-03-14 17:09:18 +0530</pubDate>
     <item>
       <title>About</title>
       <link>http://www.amanking.com/about-me</link>
@@ -40,6 +40,45 @@
       <link>http://www.amanking.com/</link>
       <pubDate/>
       <description>  &lt;div class="post summary"&gt;
+    &lt;div class="page-header text"&gt;
+      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/h1&gt;
+      &lt;div class="muted"&gt;
+        &lt;span&gt;2014-03-14
+      &lt;/span&gt;
+&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="post-full"&gt;
+      &lt;div class="text"&gt;
+        &lt;div class="content"&gt;
+          &lt;div class="summary ellipsis"&gt;
+&lt;p&gt;I spoke at &lt;a href="http://2014.agileindia.org/"&gt;Agile India 2014&lt;/a&gt; on 26 Feb for the &lt;em&gt;Scaling Agile Adoption&lt;/em&gt; theme. I also attended the &lt;em&gt;Beyond Agile&lt;/em&gt; theme. As cited &lt;a href="http://blog.agileindia.org/2014/03/04/agile-india-2014-conference-final-attendees-profile/"&gt;here&lt;/a&gt;, the conference attracted 1236 attendees from 28 different countries across 200+ different companies. It was among the largest Agile conferences in Asia.&lt;/p&gt;
+
+&lt;p&gt;Many people connected with me after my talk: &lt;a href="http://present.agileindia.org/proposal/16/from-practitioner-to-coach"&gt;From Practitioner to Coach&lt;/a&gt;. I gained context on various organizations and their Agile-related initiatives. Met a good number of first-time coaches as well. If you're interested in the topic, you may find my &lt;a href="http://www.amanking.com/publications"&gt;experience report&lt;/a&gt; worth a read. I've also blogged on &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching topics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The feedback about my talk that I will treasure the most came from &lt;a href="http://www.amazon.com/Lyssa-Adkins/e/B003ED6OQY"&gt;Lyssa Adkins&lt;/a&gt;, author of &lt;a href="http://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley-ebook/dp/B003QP47YG/"&gt;Coaching Agile Teams&lt;/a&gt; and co-founder of &lt;a href="http://www.agilecoachinginstitute.com/"&gt;Agile Coaching Institute&lt;/a&gt;. This is what she tweeted:&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="From Practitioner to Coach - tweet from Lyssa Adkins" src="http://www.amanking.com/assets/media/images/talks/LyssaAdkinsTwitterReaction.png"&gt;&lt;/p&gt;
+
+&lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class="controls clearfix"&gt;
+      &lt;div class="more"&gt;
+        &lt;small&gt;&lt;a href="http://www.amanking.com/agile-india-2014"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/agile-india-2014#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
+      &lt;/div&gt;
+      &lt;ul class="tag_box inline"&gt;
+&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+          &lt;li&gt;
+            &lt;a href="http://www.amanking.com/tags#talk-ref"&gt;talk &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
+          &lt;/li&gt;
+      &lt;/ul&gt;
+&lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
       &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/tips-for-technical-conference-presentations"&gt;Tips for Technical Conference Presentations&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
@@ -553,44 +592,6 @@
   &lt;/div&gt;
   &lt;div class="post summary"&gt;
     &lt;div class="page-header text"&gt;
-      &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;&lt;/h1&gt;
-      &lt;div class="muted"&gt;
-        &lt;span&gt;2013-12-09
-      &lt;/span&gt;
-&lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class="post-full"&gt;
-      &lt;div class="text"&gt;
-        &lt;div class="content"&gt;
-          &lt;div class="summary"&gt;
-&lt;p&gt;&lt;a href="http://2014.agileindia.org/"&gt;Agile India 2014&lt;/a&gt; is scheduled for 26th Feb - 1st Mar 2014 in Bangalore. My talk, &lt;a href="http://present.agileindia.org/proposal/16/from-practitioner-to-coach"&gt;From Practitioner to Coach&lt;/a&gt;, has been selected for the conference under the Scaling Agile track.&lt;/p&gt;
-
-&lt;p&gt;In support of the presentation, I will blog about various coaching-related topics here. Most of the posts will be short, and will be tagged as a &lt;em&gt;nugget&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;I'm looking forward to the conference! It has an excellent line up of speakers and topics. Do check it out yourself.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="http://2014.agileindia.org/" target="_blank" title="I am speaking at Agile India 2014"&gt;&lt;img src="http://www.amanking.com/assets/media/images/badges/speaker-agile-india-2014.png" title="I am speaking at Agile India 2014" alt="I am speaking at Agile India 2014"&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-    &lt;div class="controls clearfix"&gt;
-      &lt;div class="more"&gt;
-        &lt;small&gt;&lt;a href="http://www.amanking.com/agile-india-2014"&gt;Read more&lt;/a&gt;&lt;/small&gt; | &lt;small&gt;&lt;a href="http://www.amanking.com/agile-india-2014#disqus_thread"&gt;Comments&lt;/a&gt;&lt;/small&gt;
-      &lt;/div&gt;
-      &lt;ul class="tag_box inline"&gt;
-&lt;li&gt;&lt;i class="icon-tags"&gt;&lt;/i&gt;&lt;/li&gt;
-          &lt;li&gt;
-            &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching &lt;span&gt;13&lt;/span&gt;&lt;/a&gt;
-          &lt;/li&gt;
-          &lt;li&gt;
-            &lt;a href="http://www.amanking.com/tags#talk-ref"&gt;talk &lt;span&gt;1&lt;/span&gt;&lt;/a&gt;
-          &lt;/li&gt;
-      &lt;/ul&gt;
-&lt;/div&gt;
-  &lt;/div&gt;
-  &lt;div class="post summary"&gt;
-    &lt;div class="page-header text"&gt;
       &lt;h1 class="title"&gt;&lt;a href="http://www.amanking.com/common-code-smells"&gt;Common code smells&lt;/a&gt;&lt;/h1&gt;
       &lt;div class="muted"&gt;
         &lt;span&gt;2013-04-21
@@ -836,7 +837,7 @@ A proposal for a software development approach that leverages discovery and exte
 &lt;small class="muted"&gt;2013-12-11&lt;/small&gt; &lt;a href="http://www.amanking.com/agile-coaching-roles"&gt;Agile Coaching Roles&lt;/a&gt;
 &lt;/li&gt;
     &lt;li&gt;
-&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="http://www.amanking.com/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;
+&lt;small class="muted"&gt;2014-03-14&lt;/small&gt; &lt;a href="http://www.amanking.com/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;
 &lt;/li&gt;
     &lt;li&gt;
 &lt;small class="muted"&gt;2013-12-13&lt;/small&gt; &lt;a href="http://www.amanking.com/assessment-interviews"&gt;Assessment Interviews&lt;/a&gt;
@@ -906,7 +907,7 @@ A proposal for a software development approach that leverages discovery and exte
   &lt;/ul&gt;&lt;h3 id="talk-ref"&gt;talk&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;
 &lt;li&gt;
-&lt;small class="muted"&gt;2013-12-09&lt;/small&gt; &lt;a href="http://www.amanking.com/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;
+&lt;small class="muted"&gt;2014-03-14&lt;/small&gt; &lt;a href="http://www.amanking.com/agile-india-2014"&gt;Agile India 2014&lt;/a&gt;
 &lt;/li&gt;
   &lt;/ul&gt;&lt;h3 id="coding-ref"&gt;coding&lt;/h3&gt;
   &lt;ul class="unstyled"&gt;

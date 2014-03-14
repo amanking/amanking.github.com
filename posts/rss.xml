@@ -4,7 +4,30 @@
     <title>Aman King</title>
     <description>Aman King</description>
     <link>http://www.amanking.com</link>
-    <pubDate>2014-03-14 14:10:52 +0530</pubDate>
+    <pubDate>2014-03-14 17:09:21 +0530</pubDate>
+    <item>
+      <title>Agile India 2014</title>
+      <link>http://www.amanking.com/agile-india-2014</link>
+      <pubDate>2014-03-14</pubDate>
+      <description>&lt;p&gt;I spoke at &lt;a href="http://2014.agileindia.org/"&gt;Agile India 2014&lt;/a&gt; on 26 Feb for the &lt;em&gt;Scaling Agile Adoption&lt;/em&gt; theme. I also attended the &lt;em&gt;Beyond Agile&lt;/em&gt; theme. As cited &lt;a href="http://blog.agileindia.org/2014/03/04/agile-india-2014-conference-final-attendees-profile/"&gt;here&lt;/a&gt;, the conference attracted 1236 attendees from 28 different countries across 200+ different companies. It was among the largest Agile conferences in Asia.&lt;/p&gt;
+
+&lt;p&gt;Many people connected with me after my talk: &lt;a href="http://present.agileindia.org/proposal/16/from-practitioner-to-coach"&gt;From Practitioner to Coach&lt;/a&gt;. I gained context on various organizations and their Agile-related initiatives. Met a good number of first-time coaches as well. If you're interested in the topic, you may find my &lt;a href="http://www.amanking.com/publications"&gt;experience report&lt;/a&gt; worth a read. I've also blogged on &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching topics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The feedback about my talk that I will treasure the most came from &lt;a href="http://www.amazon.com/Lyssa-Adkins/e/B003ED6OQY"&gt;Lyssa Adkins&lt;/a&gt;, author of &lt;a href="http://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley-ebook/dp/B003QP47YG/"&gt;Coaching Agile Teams&lt;/a&gt; and co-founder of &lt;a href="http://www.agilecoachinginstitute.com/"&gt;Agile Coaching Institute&lt;/a&gt;. This is what she tweeted:&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt="From Practitioner to Coach - tweet from Lyssa Adkins" src="http://www.amanking.com/assets/media/images/talks/LyssaAdkinsTwitterReaction.png"&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;
+As an attendee, here are my reactions.&lt;/p&gt;
+
+&lt;p&gt;On Scaling Agile Adoption day, I enjoyed Martin Fowler's keynote, especially the part about &lt;a href="http://martinfowler.com/articles/agileFluency.html"&gt;Agile Fluency&lt;/a&gt;. I started to attend Colin's tutorial on &lt;a href="http://present.agileindia.org/proposal/185/achieving-enterprise-agility-with-the-scaled-agile-frameworkand-have-fun-doing-it"&gt;Scaled Agile Framework&lt;/a&gt; as I've had mixed experiences with it in client organizations. However, since the talk started by spending time on Agile basics, I applied the &lt;a href="http://en.wikipedia.org/wiki/Open_Space_Technology#Law_of_two_feet"&gt;law of two feet&lt;/a&gt; and attended Lyssa and Michael's talk on &lt;a href="https://www.slideshare.net/slideshow/embed_code/31394807"&gt;Windows on Transformation&lt;/a&gt;. I identified with the content well, given my consulting/coaching experience, and enjoyed the talk. The day ended with a moving presentation by Rae on &lt;a href="https://www.slideshare.net/slideshow/embed_code/31711674"&gt;Engendering Justice: Women, War and Peace&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;On Beyond Agile day, Dave Thomas hit upon the topic of &lt;a href="http://pragdave.me/blog/2014/03/04/time-to-kill-agile/"&gt;Agility vs Agile&lt;/a&gt; in his keynote. Tathagat Varma set the foundation well for his talk on &lt;a href="http://www.slideshare.net/Managewell/what-next-31791295"&gt;Management 3.0 and Holacracy&lt;/a&gt; but I switched in between to attend my ex-colleague Nikhil Joshi's talk on &lt;a href="http://prezi.com/uuknbj2lfddl/build-measure-learn-without-spending-a-fortune/"&gt;Build-Measure-Learn&lt;/a&gt;. Nikhil was able to establish how you can have a Minimal Viable Product without writing even a single line of code! Lyssa and Michael shared a dead-simple &lt;a href="https://www.slideshare.net/slideshow/embed_code/31396601"&gt;competency framework&lt;/a&gt; for Agile Coaching, which could be used to great effect. Finally I enjoyed Venkat's no-pretence talk about his &lt;a href="http://present.agileindia.org/proposal/248/applying-agile-to-a-bootstrapped-startup"&gt;startup journey&lt;/a&gt; with &lt;a href="https://apartmentadda.com"&gt;ApartmentADDA&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Overall, I enjoyed some of the talks and learnt a few things. Also networked with a variety of people. The food was good too. That said, as natural to expect, some speakers could have had better delivery style, more focus on content, and attention toward slide readability. Speakers need to start following &lt;a href="http://www.amanking.com/tips-for-technical-conference-presentations"&gt;simple tips&lt;/a&gt; to improve their slides.&lt;/p&gt;
+
+&lt;p&gt;All said and done, I am grateful for the speaking opportunity I got. Enabled me to pass on a message that I feel could help others. I definitely look forward to Agile India 2015!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Tips for Technical Conference Presentations</title>
       <link>http://www.amanking.com/tips-for-technical-conference-presentations</link>
@@ -139,37 +162,6 @@ Do not forget to share drafts of the Coaching Benefits Report with the client st
 &lt;/ul&gt;&lt;p&gt;Whether you take online questionnaires, conduct introspective exercises or retrospectives, or simply reflect on feedback received, it is useful to take some time out to think about yourself and your place in the surrounding context. Having gone through certain experiences and learnings, reflecting on those and imbibing key takeaways will ensure that you grow in the process. Else there is a risk that each incident, whether good or bad, remains just as an incident in your memory, and does not become an opportunity to improve.&lt;/p&gt;
 
 &lt;p&gt;Self-discovery in individuals, combined with &lt;a href="http://www.amanking.com/self-learning"&gt;self-learning&lt;/a&gt;, is key to sustenance, especially in Agile Coaching.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Self-learning</title>
-      <link>http://www.amanking.com/self-learning</link>
-      <pubDate>2013-12-18</pubDate>
-      <description>&lt;p&gt;A good degree of &lt;em&gt;self-learning&lt;/em&gt; is expected out of every individual being coached during &lt;a href="http://www.amanking.com/agile-coaching-engagements"&gt;Agile Adoption&lt;/a&gt;. Without it, individuals cannot move through the various stages of learning as presented by the &lt;a href="http://en.wikipedia.org/wiki/Dreyfus_model_of_skill_acquisition"&gt;Dreyfus Model&lt;/a&gt;. An Agile Coach should pair on tasks with individuals but this approach is limited by team size: one-on-one attention cannot be given for extended durations of time. After all, an Agile Coach operates differently from a Personal Trainer.&lt;/p&gt;
-
-&lt;p&gt;An Agile Coach will usually focus on providing the building blocks, and then set the individual on the path of self-learning. Instead of spoon-feeding answers, the coach will use effective questioning to guide the individual to come up with their own reasonable conclusions. This is an application of what is widely known as &lt;a href="http://en.wikipedia.org/wiki/Socratic_method"&gt;Socratic Method&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Additionally what I follow is the &lt;a href="http://www.princeton.edu/hr/learning/philosophy/"&gt;Princeton Model&lt;/a&gt; of learning:&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="Princeton Model" src="http://www.amanking.com/assets/media/images/coaching/princeton-model.png" style="float:right; margin: 0px 0px 0px 20px; width: auto"&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;
-&lt;em&gt;70%&lt;/em&gt; of skills adoption comes from real work done on the ground. I pair with individuals on their project work, and such individuals, in turn, pair with others.&lt;/li&gt;
-&lt;li&gt;
-&lt;em&gt;20%&lt;/em&gt; of skills building happens via workshops, sessions, and demos. Workshops are typically run by me or other invited experts. Demos and knowledge-sharing brown bag sessions are conducted regularly by the team members themselves, mostly as show-and-tell.&lt;/li&gt;
-&lt;li&gt;
-&lt;em&gt;10%&lt;/em&gt; of skills exposure happens via reading. Links to relevant articles and blogs, along with book recommendations, are shared via mailing lists or wiki pages.&lt;/li&gt;
-&lt;/ul&gt;&lt;div style="float:left; margin: 0px 20px 20px 0px; width: auto"&gt;
-  &lt;img alt="Challenges vs Skills" src="http://www.amanking.com/assets/media/images/coaching/challenges-vs-skills.png" style="border: 1px solid silver"&gt;&lt;br&gt;&lt;small class="muted"&gt;Graph introduced to me by &lt;a href="http://www.linkedin.com/pub/julian-parry/3/999/31"&gt;Jules Parry&lt;/a&gt;&lt;/small&gt;
-&lt;/div&gt;
-
-&lt;p&gt;You can force self-learning by throwing challenges at the team. They will usually cope by upgrading their skill levels.&lt;/p&gt;
-
-&lt;p&gt;If an individual is dealing with challenges that are underwhelming, not needing the full extent of existing skills, the individual gets bored or complacent. In the face of overwhelming challenges, an individual will experience some frustration or stress, and will either try to reduce the challenges or will learn skills appropriate to overcome the challenges. If steered toward the latter behaviour, the person grows in competence.&lt;/p&gt;
-
-&lt;div style="clear:both"&gt;&lt;/div&gt;
-
-&lt;p&gt;These were some effective approaches to encourage self-learning during active coaching. The process may lead some individuals down the path to &lt;a href="http://www.amanking.com/self-discovery"&gt;self-discovery&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
