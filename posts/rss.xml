@@ -4,7 +4,33 @@
     <title>Aman King</title>
     <description>Aman King</description>
     <link>http://www.amanking.com</link>
-    <pubDate>2014-07-27 19:55:56 +0530</pubDate>
+    <pubDate>2015-02-21 17:15:02 +0530</pubDate>
+    <item>
+      <title>Rails Girls Bangalore 2015</title>
+      <link>http://www.amanking.com/rails-girls-bangalore-2015</link>
+      <pubDate>2015-02-21</pubDate>
+      <description>&lt;p&gt;The &lt;a href="http://railsgirls.com/bangalore"&gt;Rails Girls Bangalore 2015&lt;/a&gt; edition was held on &lt;strong&gt;31 January 2015&lt;/strong&gt;. I had the pleasure of participating as a Coach in this workshop event.&lt;/p&gt;
+
+&lt;div style="text-align:center"&gt;&lt;a href="http://railsgirls.com/" target="_blank"&gt;&lt;img alt="Rails Girls" src="http://www.amanking.com/assets/media/images/talks/RailsGirls.png" style="margin: 20px 0px 30px 0px; width: auto"&gt;&lt;/a&gt;&lt;/div&gt;
+
+&lt;p&gt;The idea is simple. As a technology community, we believe in encouraging women to join us. &lt;a href="http://rubyonrails.org/"&gt;Ruby on Rails&lt;/a&gt;, a web development framework, makes entry easy for someone new to web technologies. Many of us know web technologies well enough to coach someone new. Why not get together as a community and learn from each other? We could have fun in the process and even launch a few ideas into production!&lt;/p&gt;
+
+&lt;p&gt;Rails Girls Bangalore 2015 was held in the premise of &lt;a href="http://www.thoughtworks.com/"&gt;ThoughtWorks&lt;/a&gt; Bangalore office. To organize the event, a few ThoughtWorkers joined hands with Bangalore Ruby enthusiasts from other companies like &lt;a href="http://nilenso.com/"&gt;Nilenso&lt;/a&gt;, &lt;a href="http://c42.in/"&gt;C42&lt;/a&gt;, and &lt;a href="http://www.mavenhive.in/"&gt;MavenHive&lt;/a&gt;. The volunteers rounded up Rails Coaches for the event, spread the word about the event, and took care of logistics. And voila! We ended up having a fun day of learning!&lt;/p&gt;
+
+&lt;p&gt;We got about 100 attendees, a mix of students and working professionals. There were about 20 coaches in all.&lt;/p&gt;
+
+&lt;p&gt;I coached a small team of three enthusiastic, talented girls. None had worked on &lt;a href="https://www.ruby-lang.org/en/"&gt;Ruby&lt;/a&gt; before, and two were completely new to &lt;a href="http://git-scm.com/"&gt;Git&lt;/a&gt;.  They were recent graduates, and had limited exposure to web application development. And yet, I was pleasantly surprised and completely impressed by how much they learnt in a matter of hours. Once I explained the Git workflow, they could complete the steps on their own immediately after. They picked up &lt;a href="http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller"&gt;MVC pattern&lt;/a&gt; and its mapping to Rails quickly, and after I gave them some command-line instructions, they set out to implement an interesting idea: an app to register for Rails Girls events across locations, viewing these registrations, and allowing messaging between attendees to coordinate group travel to the event.&lt;/p&gt;
+
+&lt;p&gt;By the evening, my group made decent progress, and could showcase an in-progress working solution to other participants. I was especially touched by the gratitude they expressed towards the coaches.&lt;/p&gt;
+
+&lt;p&gt;All in all, the event helped me reach out to and network with people beyond my typical circles. Hopefully contributed to motivating a few people about technology. Made new friends.&lt;/p&gt;
+
+&lt;p&gt;An experience I'd love to repeat. Will encourage others to participate as well.&lt;/p&gt;
+
+&lt;p&gt;You can learn more &lt;a href="http://guides.railsgirls.com"&gt;here&lt;/a&gt;. An attendee also &lt;a href="https://abhijain27.wordpress.com/2015/02/01/getting-started-with-ruby-on-rails-at-railsgirlsblr-2015/"&gt;blogged&lt;/a&gt; about the event.&lt;/p&gt;
+
+&lt;div style="text-align:center"&gt;&lt;a href="https://www.facebook.com/railsGirlsBlr/photos_stream" target="_blank"&gt;&lt;img alt="Rails Girls Bangalore 2015" src="http://www.amanking.com/assets/media/images/talks/RailsGirlsBangalore2015.jpg" style="margin: 0px 0px 10px 20px; width: auto"&gt;&lt;/a&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>3 Conferences in 3 Days</title>
       <link>http://www.amanking.com/3-conferences-in-3-days</link>
@@ -113,31 +139,6 @@
 &lt;div&gt;
 &lt;iframe src="http://www.slideshare.net/slideshow/embed_code/37090007?rel=0" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:1px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt; &lt;div style="margin-bottom:5px"&gt;&lt;small&gt;&lt;strong&gt; &lt;a href="https://www.slideshare.net/amanking/agile-testing-dilemmas" title="Agile Testing Dilemmas" target="_blank"&gt;Agile Testing Dilemmas&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="http://www.slideshare.net/amanking" target="_blank"&gt;Aman King&lt;/a&gt;&lt;/strong&gt;&lt;/small&gt;&lt;/div&gt;
 &lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Agile India 2014</title>
-      <link>http://www.amanking.com/agile-india-2014</link>
-      <pubDate>2014-03-14</pubDate>
-      <description>&lt;p&gt;I spoke at &lt;a href="http://2014.agileindia.org/"&gt;Agile India 2014&lt;/a&gt; on 26 Feb for the &lt;em&gt;Scaling Agile Adoption&lt;/em&gt; theme. I also attended the &lt;em&gt;Beyond Agile&lt;/em&gt; theme. As cited &lt;a href="http://blog.agileindia.org/2014/03/04/agile-india-2014-conference-final-attendees-profile/"&gt;here&lt;/a&gt;, the conference attracted 1236 attendees from 28 different countries across 200+ different companies. It was among the largest Agile conferences in Asia.&lt;/p&gt;
-
-&lt;p&gt;Many people connected with me after my talk: &lt;a href="http://present.agileindia.org/proposal/16/from-practitioner-to-coach"&gt;From Practitioner to Coach&lt;/a&gt;. I gained context on various organizations and their Agile-related initiatives. Met a good number of first-time coaches as well. If you're interested in the topic, you may find my &lt;a href="http://www.amanking.com/publications"&gt;experience report&lt;/a&gt; worth a read. I've also blogged on &lt;a href="http://www.amanking.com/tags#coaching-ref"&gt;coaching topics&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The feedback about my talk that I will treasure the most came from &lt;a href="http://www.amazon.com/Lyssa-Adkins/e/B003ED6OQY"&gt;Lyssa Adkins&lt;/a&gt;, author of &lt;a href="http://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-Addison-Wesley-ebook/dp/B003QP47YG/"&gt;Coaching Agile Teams&lt;/a&gt; and co-founder of &lt;a href="http://www.agilecoachinginstitute.com/"&gt;Agile Coaching Institute&lt;/a&gt;. This is what she tweeted:&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt="From Practitioner to Coach - tweet from Lyssa Adkins" src="http://www.amanking.com/assets/media/images/talks/LyssaAdkinsTwitterReaction.png"&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;
-As an attendee, here are my reactions.&lt;/p&gt;
-
-&lt;p&gt;On Scaling Agile Adoption day, I enjoyed Martin Fowler's keynote, especially the part about &lt;a href="http://martinfowler.com/articles/agileFluency.html"&gt;Agile Fluency&lt;/a&gt;. I started to attend Colin's tutorial on &lt;a href="http://present.agileindia.org/proposal/185/achieving-enterprise-agility-with-the-scaled-agile-frameworkand-have-fun-doing-it"&gt;Scaled Agile Framework&lt;/a&gt; as I've had mixed experiences with it in client organizations. However, since the talk started by spending time on Agile basics, I applied the &lt;a href="http://en.wikipedia.org/wiki/Open_Space_Technology#Law_of_two_feet"&gt;law of two feet&lt;/a&gt; and attended Lyssa and Michael's talk on &lt;a href="https://www.slideshare.net/slideshow/embed_code/31394807"&gt;Windows on Transformation&lt;/a&gt;. I identified with the content well, given my consulting/coaching experience, and enjoyed the talk. The day ended with a moving presentation by Rae on &lt;a href="https://www.slideshare.net/slideshow/embed_code/31711674"&gt;Engendering Justice: Women, War and Peace&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;On Beyond Agile day, Dave Thomas hit upon the topic of &lt;a href="http://pragdave.me/blog/2014/03/04/time-to-kill-agile/"&gt;Agility vs Agile&lt;/a&gt; in his keynote. Tathagat Varma set the foundation well for his talk on &lt;a href="http://www.slideshare.net/Managewell/what-next-31791295"&gt;Management 3.0 and Holacracy&lt;/a&gt; but I switched in between to attend my ex-colleague Nikhil Joshi's talk on &lt;a href="http://prezi.com/uuknbj2lfddl/build-measure-learn-without-spending-a-fortune/"&gt;Build-Measure-Learn&lt;/a&gt;. Nikhil was able to establish how you can have a Minimal Viable Product without writing even a single line of code! Lyssa and Michael shared a dead-simple &lt;a href="https://www.slideshare.net/slideshow/embed_code/31396601"&gt;competency framework&lt;/a&gt; for Agile Coaching, which could be used to great effect. Finally I enjoyed Venkat's no-pretence talk about his &lt;a href="http://present.agileindia.org/proposal/248/applying-agile-to-a-bootstrapped-startup"&gt;startup journey&lt;/a&gt; with &lt;a href="https://apartmentadda.com"&gt;ApartmentADDA&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Overall, I enjoyed some of the talks and learnt a few things. Also networked with a variety of people. The food was good too. That said, as natural to expect, some speakers could have had better delivery style, more focus on content, and attention toward slide readability. Speakers need to start following &lt;a href="http://www.amanking.com/tips-for-technical-conference-presentations"&gt;simple tips&lt;/a&gt; to improve their slides.&lt;/p&gt;
-
-&lt;p&gt;All said and done, I am grateful for the speaking opportunity I got. Enabled me to pass on a message that I feel could help others. I definitely look forward to Agile India 2015!&lt;/p&gt;
-
-&lt;p&gt;&lt;br&gt;&lt;iframe src="http://www.slideshare.net/slideshow/embed_code/31713572?rel=0" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:1px; max-width: 100%;" allowfullscreen&gt; &lt;/iframe&gt; &lt;/p&gt;&lt;div style="margin-bottom:5px"&gt;&lt;small&gt;&lt;strong&gt;&lt;a href="https://www.slideshare.net/amanking/from-practitioner-to-coach" title="From Practitioner to Coach" target="_blank"&gt;From Practitioner to Coach&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href="http://www.slideshare.net/amanking" target="_blank"&gt;Aman King&lt;/a&gt;&lt;/strong&gt;&lt;/small&gt;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
