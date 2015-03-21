@@ -4,7 +4,7 @@
     <title>Aman King</title>
     <description>Aman King</description>
     <link>http://www.amanking.com</link>
-    <pubDate>2015-03-08 13:16:07 +0530</pubDate>
+    <pubDate>2015-03-21 13:46:41 +0530</pubDate>
     <item>
       <title>About</title>
       <link>http://www.amanking.com/about-me</link>
@@ -985,6 +985,9 @@ An API to apply filters and transformations on RSS/ATOM feeds, retrieving feed i
 
 &lt;hr&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="https://bitbucket.org/amanking/to_cctray"&gt;to_cctray&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;&lt;small&gt;Creator&lt;/small&gt;&lt;/em&gt;&lt;br&gt;
 Ruby application that provides Atlassian Bamboo CI build statuses in CruiseControl's CCTray XML format, enabling use of many build notification tools like CCMenu and BuildNotify&lt;br&gt;&lt;/p&gt;
+
+&lt;hr&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="http://mingle-seq-diag.rubyforge.org"&gt;Mingle Sequence Diagram Plugin&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;&lt;small&gt;Creator&lt;/small&gt;&lt;/em&gt;&lt;br&gt;
+Plugin for ThoughtWorks Mingle ALM allowing users to draw sequence diagrams within Mingle&lt;br&gt;&lt;/p&gt;
 
 &lt;hr&gt;&lt;p&gt;&lt;strong&gt;&lt;a href="http://ruhoh.com"&gt;ruhoh&lt;/a&gt;&lt;/strong&gt; &lt;em&gt;&lt;small&gt;Contributor&lt;/small&gt;&lt;/em&gt;&lt;br&gt;
 A static site generator, written in Ruby, to publish content on the Internet&lt;br&gt;&lt;/p&gt;
